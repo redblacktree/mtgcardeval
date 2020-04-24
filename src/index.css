@@ -1,0 +1,29 @@
+body {
+    color: #e1e1e1;
+    background-color: #232323;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.form-label, .form-check-label {
+    font-weight: normal;
+}
+
+.form-control {
+    color: #e1e1e1;
+    background-color: #000000;
+    border-color: #888888;
+}
+
+.form-control:focus {
+    color: #e1e1e1;
+    background-color: #232323;
+    border-color: #888888;
+}
+
+.list-group-item {
+    border-color: #888888;
+    background-color: #000000;
+}
