@@ -92,3 +92,5 @@ typings/
 # PyCharm
 .idea/
 
+# Build dir
+build/
