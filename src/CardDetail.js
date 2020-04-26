@@ -25,7 +25,7 @@ class CardDetail extends React.Component {
         <Row>
           <Col xs={12}>
             <h2>The Conversation</h2>
-            <div class="video">
+            <div className="video">
               <iframe title={selectedCard.name}
                       width="100%" height="auto" src={src}
                       frameBorder="0"
