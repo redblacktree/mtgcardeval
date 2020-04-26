@@ -15,7 +15,7 @@ class CardListItem extends React.Component {
     ReactGA.event({
       category: 'Card List',
       action: 'Clicked Card',
-      label: this.props.selectedCard.name
+      label: this.props.card.name
     });
     this.props.onCardSelect(this.props.card);
   }
