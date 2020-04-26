@@ -30,8 +30,12 @@ def main():
                                         line['minute'],
                                         line['second'])
             cards.append(line)
-    for card in cards:
-        card['stop'] = find_stop(card, cards)
+    show_1_cards = [x for x in cards if x['show'] == '1']
+    show_2_cards = [x for x in cards if x['show'] == '2']
+    for card in show_1_cards:
+        card['stop'] = find_stop(card, show_1_cards)
+    for card in show_2_cards:
+        card['stop'] = find_stop(card, show_2_cards)
     with open('ikoria.json', 'w') as jsonfile:
         json.dump(cards, jsonfile)
 

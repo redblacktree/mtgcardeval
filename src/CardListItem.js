@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactGA from 'react-ga';
 import ListGroup from 'react-bootstrap/ListGroup';
 import './index.css';
 import Row from 'react-bootstrap/Row';
@@ -11,6 +12,11 @@ class CardListItem extends React.Component {
   }
 
   handleCardSelect(e) {
+    ReactGA.event({
+      category: 'Card List',
+      action: 'Clicked Card',
+      label: this.props.selectedCard.name
+    });
     this.props.onCardSelect(this.props.card);
   }
 
@@ -22,8 +28,8 @@ class CardListItem extends React.Component {
       <ListGroup.Item active={selectedCard !== null && selectedCard.name === card.name}
                       onClick={this.handleCardSelect}>
         <Row>
-          <Col>{card.name}</Col>
-          <Col>{card.grade}</Col>
+          <Col xs={9}>{card.name}</Col>
+          <Col xs={3}>{card.grade}</Col>
         </Row>
       </ListGroup.Item>
     )

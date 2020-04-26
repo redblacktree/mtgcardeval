@@ -1,6 +1,7 @@
 import React from 'react';
 import './index.css';
 import Form from 'react-bootstrap/Form';
+import ReactGA from "react-ga";
 
 class Options extends React.Component {
   constructor(props) {
@@ -10,6 +11,11 @@ class Options extends React.Component {
   }
 
   handleAutoplayChange(e) {
+    ReactGA.event({
+      category: 'Options Change',
+      action: 'Autoplay',
+      label: e.target.checked ? 'on' : 'off'
+    });
     this.props.onOptionsChange({autoplay: e.target.checked})
   }
 

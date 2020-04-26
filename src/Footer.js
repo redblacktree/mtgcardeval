@@ -3,16 +3,16 @@ import './index.css';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
-class Header extends React.Component {
+class Footer extends React.Component {
   render() {
     return (
       <Row className="header">
         <Col>
-          <h1>MTG Draft Helper</h1>
+          Problems? Questions? email me: dustin rasener at gmail
         </Col>
       </Row>
     )
   }
 }
 
-export default Header;
+export default Footer;
