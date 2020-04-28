@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7dbed056d2b4b574cb6b8d58e05e9c85",
+    "revision": "d2449edb090dab12eda44536017d6d74",
     "url": "/mtgcardeval/index.html"
   },
   {
-    "revision": "e891050566373178193f",
+    "revision": "e09f2604ff93293bb7b4",
     "url": "/mtgcardeval/static/css/2.080de803.chunk.css"
   },
   {
-    "revision": "57e117287f789957bc87",
+    "revision": "c99d98f55547994fb9c8",
     "url": "/mtgcardeval/static/css/main.98edca37.chunk.css"
   },
   {
-    "revision": "e891050566373178193f",
-    "url": "/mtgcardeval/static/js/2.01444db1.chunk.js"
+    "revision": "e09f2604ff93293bb7b4",
+    "url": "/mtgcardeval/static/js/2.484ce13f.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/mtgcardeval/static/js/2.01444db1.chunk.js.LICENSE.txt"
+    "url": "/mtgcardeval/static/js/2.484ce13f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "57e117287f789957bc87",
-    "url": "/mtgcardeval/static/js/main.f2b04272.chunk.js"
+    "revision": "c99d98f55547994fb9c8",
+    "url": "/mtgcardeval/static/js/main.93c72903.chunk.js"
   },
   {
     "revision": "daf7098d2dec718f47a8",
