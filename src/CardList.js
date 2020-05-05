@@ -5,13 +5,25 @@ import Filters from './Filters';
 import CardListItem from './CardListItem'
 import { intersection } from './utils'
 
+
 class CardList extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {selectedColors: new Set(['W', 'U', 'B', 'R', 'G']) , filterText: ''};
+    this.state = {
+      set: "IKO",
+      selectedColors: new Set(['W', 'U', 'B', 'R', 'G', '']) ,
+      filterText: ''
+    };
 
+    this.handleSetChange = this.handleSetChange.bind(this);
     this.handleFilterTextChange = this.handleFilterTextChange.bind(this);
     this.handleColorSelect = this.handleColorSelect.bind(this);
+  }
+
+  handleSetChange(set) {
+    this.setState({
+      set: set
+    });
   }
 
   handleFilterTextChange(filterText) {
@@ -35,10 +47,18 @@ class CardList extends React.Component {
     }
   }
 
+  static colorFilter(selectedColors, card) {
+    const cardColors = new Set(card.color.split(''));
+    if (card.color === '') {
+      return true;
+    }
+    return intersection(selectedColors, cardColors).size > 0;
+  }
+
   render() {
-    const cards = this.props.cards;
+    const cards = this.props.cards[this.state.set];
     const noIncompleteCards = cards.filter(card => card.start !== 0);
-    const filterByColor = noIncompleteCards.filter(card => intersection(this.state.selectedColors, new Set(card.color.split(''))).size > 0);
+    const filterByColor = noIncompleteCards.filter(card => CardList.colorFilter(this.state.selectedColors, card));
     const filteredCards = filterByColor.filter(card => card.name.toLowerCase().startsWith(this.state.filterText.toLowerCase()));
     const selectedCard = this.props.selectedCard;
     const onCardSelect = this.props.onCardSelect;
@@ -48,6 +68,7 @@ class CardList extends React.Component {
       <React.Fragment>
         <Filters selectedColors={this.state.selectedColors}
                  filterText={this.state.filterText}
+                 onSetChange={this.handleSetChange}
                  onFilterTextChange={this.handleFilterTextChange}
                  onColorSelect={this.handleColorSelect}/>
         <ListGroup>

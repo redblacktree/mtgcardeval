@@ -10,8 +10,9 @@ import Header from './Header';
 import CardList from './CardList';
 import CardDetail from "./CardDetail";
 import Options from "./Options";
-import ikoria from "./data/ikoria.json"
 import Footer from "./Footer";
+import cards_iko from "./data/IKO.json";
+import cards_m20 from "./data/M20.json";
 
 class App extends React.Component {
   constructor(props) {
@@ -43,14 +44,17 @@ class App extends React.Component {
         <Container fluid>
           <Header />
           <Row>
-            <Col xs={12} md={6} lg={3}>
+            <Col xs={12} md={4} lg={3}>
               <Options options={this.state.options}
                        onOptionsChange={this.handleOptionChange}/>
-              <CardList cards={ikoria}
+              <CardList cards={{
+                          "IKO": cards_iko,
+                          "M20": cards_m20
+                        }}
                         selectedCard={this.state.selectedCard}
                         onCardSelect={this.handleCardSelect}/>
             </Col>
-            <Col xs={12} md={6} lg={9}>
+            <Col xs={12} md={8} lg={9}>
               <CardDetail options={this.state.options}
                           selectedCard={this.state.selectedCard}/>
             </Col>

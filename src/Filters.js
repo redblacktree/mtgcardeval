@@ -5,9 +5,14 @@ import Form from 'react-bootstrap/Form';
 class Filters extends React.Component {
   constructor(props) {
     super(props);
+    this.handleSetChange = this.handleSetChange.bind(this);
     this.handleFilterTextChange = this.handleFilterTextChange.bind(this);
     this.handleColorSelect = this.handleColorSelect.bind(this);
     console.log(props.onColorSelect);
+  }
+
+  handleSetChange(e) {
+    this.props.onSetChange(e.target.value);
   }
 
   handleFilterTextChange(e) {
@@ -26,8 +31,9 @@ class Filters extends React.Component {
       <Form>
         <Form.Group controlId="set">
           <Form.Label>Set</Form.Label>
-          <Form.Control as="select">
-            <option>Ikoria</option>
+          <Form.Control as="select" onChange={this.handleSetChange}>
+            <option value="IKO">Ikoria</option>
+            <option value="M20">Core Set 2020</option>
           </Form.Control>
         </Form.Group>
         <Form.Group>
