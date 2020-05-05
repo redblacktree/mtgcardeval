@@ -8,7 +8,7 @@ class Footer extends React.Component {
     return (
       <Row className="header">
         <Col>
-          Problems? Questions? email me: dustin rasener at gmail
+          <a href="https://github.com/redblacktree/mtgcardeval/issues">Report issues</a>
         </Col>
       </Row>
     )
