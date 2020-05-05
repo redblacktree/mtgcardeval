@@ -16,7 +16,7 @@ class CardListItem extends React.Component {
       category: 'Card List',
       action: 'Clicked Card',
       label: this.props.card.name
-    });
+    }, 'UA-164496702-1');
     this.props.onCardSelect(this.props.card);
   }
 
