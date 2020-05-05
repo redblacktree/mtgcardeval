@@ -40,7 +40,7 @@ class CardDetail extends React.Component {
         :
         <Row>
           <Col xs={12}>
-            <h3>{selectedCard.name} {src}</h3>
+            <h3>{selectedCard.name}</h3>
             <div className="video">
               <iframe title={selectedCard.name}
                       width="100%" height="auto" src={src}
