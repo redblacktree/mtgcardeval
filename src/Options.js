@@ -2,6 +2,7 @@ import React from 'react';
 import './index.css';
 import Form from 'react-bootstrap/Form';
 import ReactGA from "react-ga";
+import {ToggleButton, ToggleButtonGroup} from "react-bootstrap";
 
 class Options extends React.Component {
   constructor(props) {
