@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mtgcardeval/precache-manifest.1c17a41dc9bc1189a9122ee6f8217660.js"
+  "/mtgcardeval/precache-manifest.5dcdafb41a5336b2e18202a2ae2d3f51.js"
 );
 
 self.addEventListener('message', (event) => {

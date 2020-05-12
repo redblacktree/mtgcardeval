@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/mtgcardeval/static/css/main.98edca37.chunk.css",
-    "main.js": "/mtgcardeval/static/js/main.7a7e79e9.chunk.js",
-    "main.js.map": "/mtgcardeval/static/js/main.7a7e79e9.chunk.js.map",
+    "main.css": "/mtgcardeval/static/css/main.31c801f4.chunk.css",
+    "main.js": "/mtgcardeval/static/js/main.20ff9571.chunk.js",
+    "main.js.map": "/mtgcardeval/static/js/main.20ff9571.chunk.js.map",
     "runtime-main.js": "/mtgcardeval/static/js/runtime-main.73dfd485.js",
     "runtime-main.js.map": "/mtgcardeval/static/js/runtime-main.73dfd485.js.map",
     "static/css/2.080de803.chunk.css": "/mtgcardeval/static/css/2.080de803.chunk.css",
-    "static/js/2.fb653a7c.chunk.js": "/mtgcardeval/static/js/2.fb653a7c.chunk.js",
-    "static/js/2.fb653a7c.chunk.js.map": "/mtgcardeval/static/js/2.fb653a7c.chunk.js.map",
+    "static/js/2.1520b141.chunk.js": "/mtgcardeval/static/js/2.1520b141.chunk.js",
+    "static/js/2.1520b141.chunk.js.map": "/mtgcardeval/static/js/2.1520b141.chunk.js.map",
     "index.html": "/mtgcardeval/index.html",
-    "precache-manifest.1c17a41dc9bc1189a9122ee6f8217660.js": "/mtgcardeval/precache-manifest.1c17a41dc9bc1189a9122ee6f8217660.js",
+    "precache-manifest.5dcdafb41a5336b2e18202a2ae2d3f51.js": "/mtgcardeval/precache-manifest.5dcdafb41a5336b2e18202a2ae2d3f51.js",
     "service-worker.js": "/mtgcardeval/service-worker.js",
     "static/css/2.080de803.chunk.css.map": "/mtgcardeval/static/css/2.080de803.chunk.css.map",
-    "static/css/main.98edca37.chunk.css.map": "/mtgcardeval/static/css/main.98edca37.chunk.css.map",
-    "static/js/2.fb653a7c.chunk.js.LICENSE.txt": "/mtgcardeval/static/js/2.fb653a7c.chunk.js.LICENSE.txt",
+    "static/css/main.31c801f4.chunk.css.map": "/mtgcardeval/static/css/main.31c801f4.chunk.css.map",
+    "static/js/2.1520b141.chunk.js.LICENSE.txt": "/mtgcardeval/static/js/2.1520b141.chunk.js.LICENSE.txt",
+    "static/media/call_to_action.svg": "/mtgcardeval/static/media/call_to_action.d0c4a449.svg",
     "static/media/card_back.png": "/mtgcardeval/static/media/card_back.7c96c896.png",
     "static/media/bootstrap.min.css": "/mtgcardeval/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.73dfd485.js",
     "static/css/2.080de803.chunk.css",
-    "static/js/2.fb653a7c.chunk.js",
-    "static/css/main.98edca37.chunk.css",
-    "static/js/main.7a7e79e9.chunk.js"
+    "static/js/2.1520b141.chunk.js",
+    "static/css/main.31c801f4.chunk.css",
+    "static/js/main.20ff9571.chunk.js"
   ]
 }
