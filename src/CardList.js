@@ -20,7 +20,7 @@ class CardList extends React.Component {
   }
 
   render() {
-    const cards = this.props.cards[this.props.set];
+    const cards = this.props.cards;
     const noIncompleteCards = cards.filter(card => card.start !== 0);
     const filterByColor = noIncompleteCards.filter(card => CardList.colorFilter(this.props.selectedColors, card));
     const filteredCards = filterByColor.filter(card => card.name.toLowerCase().startsWith(this.props.filterText.toLowerCase()));

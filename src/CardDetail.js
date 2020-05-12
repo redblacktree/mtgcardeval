@@ -4,63 +4,98 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import card_back from './images/card_back.png'
 import CardImage from "./CardImage";
+import {ToggleButton, ToggleButtonGroup} from "react-bootstrap";
+import CardListItem from "./CardList";
+import Form from "react-bootstrap/Form";
+import call_to_action from "./images/call_to_action.svg"
 
 class CardDetail extends React.Component {
   constructor(props){
     super(props);
+    this.state = {'clipIndex': 0};
+
     this.onPlayerReady = this.onPlayerReady.bind(this);
+    this.onPlayerStateChange = this.onPlayerStateChange.bind(this);
+    this.handleChangeClip = this.handleChangeClip.bind(this);
+  }
+
+  handleChangeClip(value) {
+    this.setState({'clipIndex': value})
   }
 
   onPlayerReady(event) {
-    const autoplay = this.props.options.autoplay;
+    console.log('onPlayerReady');
     const selectedCard = this.props.selectedCard;
-    const start = selectedCard && selectedCard.clips[0].start;
-    const stop = selectedCard && selectedCard.clips[0].stop;
-    const videoId = selectedCard && selectedCard.clips[0].videoId;
 
-    const options = {videoId:videoId,
-        startSeconds:start,
-        endSeconds:stop};
-      if (autoplay) {
-        this.player.loadVideoById(options);
-      }
-      else {
-        this.player.cueVideoById(options);
-      }
+    if (selectedCard) {
+      const start = selectedCard.clips[0].start;
+      const stop = selectedCard.clips[0].stop;
+      const videoId = selectedCard.clips[0].videoId;
+
+      const options = {
+        videoId: videoId,
+        startSeconds: start,
+        endSeconds: stop
+      };
+      this.player.loadVideoById(options);
+    }
 
     this.playerReady = true;
   }
 
   onPlayerStateChange(event) {
-    // Not needed for now, but I'm keeping the boilerplate here
-    // for when I eventually do
+    const state = event.data;
+    if (state === 0) { // state 0 == ENDED
+      const selectedCard = this.props.selectedCard;
+      if (selectedCard
+          && selectedCard.clips.length > this.state.clipIndex + 1
+          // The comparison below is somewhat loose, because YouTube returns a
+          // floating point number, and I'm not confident that it will always be
+          // greater than the defined stop time when an ENDED event is fired
+          && event.target.getCurrentTime() > selectedCard.clips[this.state.clipIndex].stop - 1) {
+        this.setState({clipIndex: this.state.clipIndex + 1});
+      }
+    }
   }
 
   componentDidUpdate(prevProps, prevState, snapshot) {
     console.log('componentDidUpdate');
-    const autoplay = this.props.options.autoplay;
-    const playbackRate = this.props.options.playbackRate;
-    const selectedCard = this.props.selectedCard;
-    const start = selectedCard && selectedCard.clips[0].start;
-    const stop = selectedCard && selectedCard.clips[0].stop;
-    const videoId = selectedCard && selectedCard.clips[0].videoId;
+    console.log(this.player);
 
-    if (this.playerReady && prevProps.selectedCard !== this.props.selectedCard) {
-      const options = {videoId:videoId,
+    const selectedCard = this.props.selectedCard;
+    let clipIndex = this.state.clipIndex;
+    // Reset clipIndex to 0 when the card changes
+    if (prevProps.selectedCard !== this.props.selectedCard) {
+      clipIndex = 0;
+      this.setState({'clipIndex': 0});
+    }
+    const start = selectedCard && selectedCard.clips[clipIndex].start;
+    const stop = selectedCard && selectedCard.clips[clipIndex].stop;
+    const videoId = selectedCard && selectedCard.clips[clipIndex].videoId;
+
+    if (this.playerReady
+        && prevProps.options.playbackRate !== this.props.options.playbackRate) {
+      this.player.setPlaybackRate(this.props.options.playbackRate);
+    }
+
+    if (this.playerReady
+        && (prevProps.selectedCard !== this.props.selectedCard
+            || prevProps.clipIndex !== this.state.clipIndex))
+    {
+      const options = {
+        videoId:videoId,
         startSeconds:start,
-        endSeconds:stop};
-      if (autoplay) {
-        this.player.loadVideoById(options);
-      }
-      else {
-        this.player.cueVideoById(options);
-      }
+        endSeconds:stop
+      };
+      this.player.loadVideoById(options);
     }
 
     if (window.YouTubeIframeAPIReady && this.player === undefined) {
+      console.log('initializing player');
       this.player = new window.YT.Player('player', {
         width: "100%",
         height: "auto",
+        videoId: "w0nzu-99Bs8",
         events: {
           'onReady': this.onPlayerReady,
           'onStateChange': this.onPlayerStateChange
@@ -73,42 +108,45 @@ class CardDetail extends React.Component {
     const selectedCard = this.props.selectedCard;
 
     return (
-      selectedCard === null ?
-        <Row>
-          <Col xs={12} md={6} lg={6}>
-            <h3>What is this?</h3>
-            <p> This
-              is a collection of discussions about Magic: The Gathering cards, made to be quickly accessible. The discussion comes from
-              the podcast "Limited Resources" with Marshall Sutcliffe and Luis Scott-Vargas. Thank you Marshall and Luis!</p>
-            <h3>Why?</h3>
-            <p>During an MTG draft, particularly online against humans, you may need some quick advice on a pick. Having made a few spreadsheets for my own use with time-coded links to Limited Resources YouTube videos,
-              I decided to share the last one, and it got a good reception on reddit. Since people seemed to get some
-              value out of it, I decided to see if I could quickly whip up an app to make the filtering/searching a bit
-              easier, and this is the result!</p>
-          </Col>
-          <Col xs={12} md={6} lg={6}>
-            <h3>How to Use</h3>
-            <p>Below is a list of cards for a set. When you click a card, the video of the discussion about that
-              card will appear here. If you have "Autoplay Videos" selected, it will play immediately. There are
-              currently two sets available: Ikoria and Core Set 2020; Ikoria is loaded by default, since it's the latest
-              set.</p>
-            <h3>Issues?</h3>
-            <p><a href="https://github.com/redblacktree/mtgcardeval/issues">Report issues here</a>, including issues with start and stop
-            times of videos. I collect that data manually, so there are bound to be some mistakes.</p>
-          </Col>
+       <React.Fragment>
+        <Row className={selectedCard !== null ? "hidden": ""}>
+          <div>
+            <CardImage selectedCard={selectedCard} />
+          </div>
+          <div className="hero">
+            <h3>Pro Opinions.</h3>
+            <h3>Fast Enough for Human Draft.</h3>
+            <h3>Click a card name to get started.</h3>
+            <img className="call-to-action" src={call_to_action} />
+          </div>
         </Row>
-        :
-        <Row>
-          <Col xs={12} md={6}>
-            <CardImage />
+
+        <Row className={selectedCard === null ? "hidden": ""}>
+          <Col xs={12} md={6} lg={4} xl={4}>
+            <CardImage selectedCard={selectedCard} />
           </Col>
-          <Col xs={12} md={6}>
-            <h3>Video Name (set review/re-review/sunset/etc</h3>
+          <Col xs={12} md={6} lg={6} xl={6} className="video-container">
+            <div className="mentions">
+              <Form>
+                <Form.Group>
+                  <ToggleButtonGroup type="radio" name="clipIndex" value={this.state.clipIndex}
+                                     onChange={this.handleChangeClip} className="btn-group-justified">
+                    {selectedCard && selectedCard.clips.map(clip => (
+                      <ToggleButton key={selectedCard.clips.indexOf(clip)}
+                                    value={selectedCard.clips.indexOf(clip)}>
+                        {this.props.showNames[clip.videoId]}
+                      </ToggleButton>
+                    ))}
+                  </ToggleButtonGroup>
+                </Form.Group>
+              </Form>
+            </div>
             <div className="video">
               <div id="player"></div>
             </div>
           </Col>
         </Row>
+       </React.Fragment>
     )
   }
 }

@@ -20,19 +20,12 @@ class ControlPanel extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      set: "IKO",
       selectedColors: new Set(['W', 'U', 'B', 'R', 'G', '']) ,
       filterText: ''
     };
 
-    this.handleSetChange = this.handleSetChange.bind(this);
     this.handleColorSelect = this.handleColorSelect.bind(this);
-  }
-
-  handleSetChange(set) {
-    this.setState({
-      set: set
-    });
+    this.handleFilterTextChange = this.handleFilterTextChange.bind(this);
   }
 
   handleColorSelect(color, checked) {
@@ -59,22 +52,19 @@ class ControlPanel extends React.Component {
   render() {
     return (
       <Row>
-        <Col xs={12} md={6} lg={6}>
-           <h4>Card List</h4>
-          <Search onFilterTextChange={this.handleFilterTextChange} />
+        <Col xs={12} md={6} lg={4} xl={4}>
+          <Search onFilterTextChange={this.handleFilterTextChange}/>
           <CardList cards={this.props.cards}
-                    set={this.state.set}
                     selectedColors={this.state.selectedColors}
                     filterText={this.state.filterText}
                     selectedCard={this.props.selectedCard}
                     onCardSelect={this.props.onCardSelect}/>
         </Col>
-        <Col xs={12} md={6} lg={6}>
-          <h4>Options</h4>
+        <Col xs={12} md={6} lg={4} xl={4}>
           <Options options={this.props.options}
-                   onOptionsChange={this.props.onOptionsChange} />
+                   onOptionsChange={this.props.onOptionsChange}/>
 
-          <Filters onSetChange={this.handleSetChange}
+          <Filters onSetChange={this.props.onSetChange}
                    onColorSelect={this.handleColorSelect}
                    selectedColors={this.state.selectedColors}/>
         </Col>

@@ -1,15 +1,16 @@
 import React from 'react';
 import './index.css';
+import card_back from './images/card_back.png';
 
 class CardImage extends React.Component {
   render() {
     const selectedCard = this.props.selectedCard;
 
     return (
-      selectedCard === null ?
-        <img src="./images/card_back.png"/>
+      selectedCard === undefined || selectedCard === null ?
+        <img src={card_back} className="card-image"/>
         :
-        <img src="./images/card_back.png"/>
+        <img src={selectedCard.image_url} className="card-image" />
     )
   }
 }

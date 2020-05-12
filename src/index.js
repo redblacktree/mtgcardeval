@@ -18,13 +18,24 @@ import ControlPanel from "./ControlPanel";
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {selectedCard: null, options: {autoplay: false, playbackRate: 1}};
+    this.state = {set: "IKO", selectedCard: null, options: {playbackRate: 1}};
+    this.data = {
+      "IKO": cards_iko,
+      "M20": cards_m20
+    };
 
     ReactGA.initialize('UA-164496702-1');
     ReactGA.pageview(window.location.pathname + window.location.search);
 
+    this.handleSetChange = this.handleSetChange.bind(this);
     this.handleCardSelect = this.handleCardSelect.bind(this);
     this.handleOptionChange = this.handleOptionChange.bind(this);
+  }
+
+  handleSetChange(set) {
+    this.setState({
+      set: set
+    });
   }
 
   handleCardSelect(card) {
@@ -40,24 +51,26 @@ class App extends React.Component {
   }
 
   render() {
+    const cards = this.data[this.state.set].cards;
+    const showNames = this.data[this.state.set].metadata.show_names;
+
     return (
       <div className="app">
         <Container fluid>
           <Row>
-            <h1>MTG Draft Helper</h1>
             <Col xs={12}>
+              <h1>MTG Draft Helper</h1>
               <CardDetail options={this.state.options}
-                          selectedCard={this.state.selectedCard}/>
+                          selectedCard={this.state.selectedCard}
+                          showNames={showNames}/>
             </Col>
           </Row>
           <Row className={"border-top"}>
             <Col xs={12}>
               <ControlPanel options={this.state.options}
                             onOptionsChange={this.handleOptionChange}
-                            cards={{
-                              "IKO": cards_iko,
-                              "M20": cards_m20
-                            }}
+                            onSetChange={this.handleSetChange}
+                            cards={cards}
                             selectedCard={this.state.selectedCard}
                             onCardSelect={this.handleCardSelect}/>
             </Col>

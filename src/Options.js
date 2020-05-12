@@ -8,27 +8,33 @@ class Options extends React.Component {
   constructor(props) {
     super(props);
 
-    this.handleAutoplayChange = this.handleAutoplayChange.bind(this);
+    this.handlePlaybackRateChange = this.handlePlaybackRateChange.bind(this);
   }
 
-  handleAutoplayChange(e) {
-    ReactGA.event({
-      category: 'Options Change',
-      action: 'Autoplay',
-      label: e.target.checked ? 'on' : 'off'
-    });
-    this.props.onOptionsChange({autoplay: e.target.checked})
+  handlePlaybackRateChange(value) {
+    this.props.onOptionsChange({playbackRate: value});
   }
 
   render() {
     const options = this.props.options;
 
     return (
-      <Form>
-        <Form.Group controlId="autoplay">
-          <Form.Check type="checkbox" label="Autoplay Videos" checked={options.autoplay} onChange={this.handleAutoplayChange} inline/>
-        </Form.Group>
-      </Form>
+      <div className="panel panel-default options">
+        <Form className="panel-body">
+          <h4>Options</h4>
+          <Form.Group controlId="playbackRate">
+            <Form.Label>Playback Speed</Form.Label><br/>
+            <ToggleButtonGroup type="radio" name="playbackRate" value={options.playbackRate}
+                               onChange={this.handlePlaybackRateChange}>
+              <ToggleButton value={1}>Normal</ToggleButton>
+              <ToggleButton value={1.25}>1.25x</ToggleButton>
+              <ToggleButton value={1.5}>1.5x</ToggleButton>
+              <ToggleButton value={1.75}>1.75x</ToggleButton>
+              <ToggleButton value={2}>2x</ToggleButton>
+            </ToggleButtonGroup>
+          </Form.Group>
+        </Form>
+      </div>
     )
   }
 }

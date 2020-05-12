@@ -16,9 +16,9 @@ class Search extends React.Component {
     const filterText = this.props.filterText;
 
     return (
-      <Form>
+      <Form className="search-box">
         <Form.Group controlId="cardName">
-          <Form.Label>Filter</Form.Label>
+          <Form.Label>Search</Form.Label>
           <Form.Control type="text" placeholder="Card Name..." value={filterText} onChange={this.handleFilterTextChange}>
           </Form.Control>
         </Form.Group>

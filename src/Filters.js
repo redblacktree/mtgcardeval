@@ -22,23 +22,26 @@ class Filters extends React.Component {
     const filterText = this.props.filterText;
 
     return (
-      <Form>
-        <Form.Group controlId="set">
-          <Form.Label>Set</Form.Label>
-          <Form.Control as="select" onChange={this.handleSetChange}>
-            <option value="IKO">Ikoria</option>
-            <option value="M20">Core Set 2020</option>
-          </Form.Control>
-        </Form.Group>
-        <Form.Group>
-          <Form.Label>Color</Form.Label><br/>
-          <Form.Check label="White" id="W" checked={selectedColors.has("W")} onChange={this.handleColorSelect} inline/>
-          <Form.Check label="Blue" id="U" checked={selectedColors.has("U")} onChange={this.handleColorSelect} inline/>
-          <Form.Check label="Black" id="B" checked={selectedColors.has("B")} onChange={this.handleColorSelect} inline/>
-          <Form.Check label="Red" id="R" checked={selectedColors.has("R")} onChange={this.handleColorSelect} inline/>
-          <Form.Check label="Green" id="G" checked={selectedColors.has("G")} onChange={this.handleColorSelect} inline/>
-        </Form.Group>
-      </Form>
+      <div className="panel panel-default">
+        <Form className="panel-body">
+          <h4>Filters</h4>
+          <Form.Group controlId="set">
+            <Form.Label>Set</Form.Label>
+            <Form.Control as="select" onChange={this.handleSetChange}>
+              <option value="IKO">Ikoria</option>
+              <option value="M20">Core Set 2020</option>
+            </Form.Control>
+          </Form.Group>
+          <Form.Group>
+            <Form.Label>Color</Form.Label><br/>
+            <Form.Check label="White" id="W" checked={selectedColors.has("W")} onChange={this.handleColorSelect} inline/>
+            <Form.Check label="Blue" id="U" checked={selectedColors.has("U")} onChange={this.handleColorSelect} inline/>
+            <Form.Check label="Black" id="B" checked={selectedColors.has("B")} onChange={this.handleColorSelect} inline/>
+            <Form.Check label="Red" id="R" checked={selectedColors.has("R")} onChange={this.handleColorSelect} inline/>
+            <Form.Check label="Green" id="G" checked={selectedColors.has("G")} onChange={this.handleColorSelect} inline/>
+          </Form.Group>
+        </Form>
+      </div>
     )
   }
 }
