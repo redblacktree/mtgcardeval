@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="sidebar.css"/>
+</head>
+
+<body>
+<form>
+    <label for="cardName">Card Name</label>
+    <input id="cardName" type="text"/><br>
+    <label for="startTime">Start Time</label>
+    <input id="startTime" type="text" value="500">
+    <button id="start" type="button">Record Start</button><br>
+    <label for="stopTime">Stop Time</label>
+    <input id="stopTime" type="text" value="502">
+    <button id="stop" type="button">Record Stop</button><br>
+    <button id="resetData" type="button">Reset</button>
+    <button id="getId" type="button">get video id</button>
+    <button id="test" type="button">Test</button>
+    <button id="save" type="button">Save</button>
+</form>
+<div id="data"></div>
+<textarea id="datacopy"></textarea>
+<script src="sidebar.js"></script>
+</body>
+
+</html>
