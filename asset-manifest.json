@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mtgcardeval/static/css/main.31c801f4.chunk.css",
-    "main.js": "/mtgcardeval/static/js/main.7da7c26d.chunk.js",
-    "main.js.map": "/mtgcardeval/static/js/main.7da7c26d.chunk.js.map",
+    "main.js": "/mtgcardeval/static/js/main.1568437d.chunk.js",
+    "main.js.map": "/mtgcardeval/static/js/main.1568437d.chunk.js.map",
     "runtime-main.js": "/mtgcardeval/static/js/runtime-main.73dfd485.js",
     "runtime-main.js.map": "/mtgcardeval/static/js/runtime-main.73dfd485.js.map",
     "static/css/2.080de803.chunk.css": "/mtgcardeval/static/css/2.080de803.chunk.css",
     "static/js/2.1520b141.chunk.js": "/mtgcardeval/static/js/2.1520b141.chunk.js",
     "static/js/2.1520b141.chunk.js.map": "/mtgcardeval/static/js/2.1520b141.chunk.js.map",
     "index.html": "/mtgcardeval/index.html",
-    "precache-manifest.4a5b12574c4ad3cb7ff183df7b16dcdf.js": "/mtgcardeval/precache-manifest.4a5b12574c4ad3cb7ff183df7b16dcdf.js",
+    "precache-manifest.53beb356bbc1229f880377ac1b83857d.js": "/mtgcardeval/precache-manifest.53beb356bbc1229f880377ac1b83857d.js",
     "service-worker.js": "/mtgcardeval/service-worker.js",
     "static/css/2.080de803.chunk.css.map": "/mtgcardeval/static/css/2.080de803.chunk.css.map",
     "static/css/main.31c801f4.chunk.css.map": "/mtgcardeval/static/css/main.31c801f4.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.080de803.chunk.css",
     "static/js/2.1520b141.chunk.js",
     "static/css/main.31c801f4.chunk.css",
-    "static/js/main.7da7c26d.chunk.js"
+    "static/js/main.1568437d.chunk.js"
   ]
 }
