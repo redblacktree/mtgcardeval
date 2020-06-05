@@ -6,7 +6,7 @@ browser.runtime.onMessage.addListener(request => {
 
   if (request.action === 'getCurrentTime') {
     const time = p.getCurrentTime();
-    return Promise.resolve({response: time});
+    return Promise.resolve({response: Math.round(time)});
   }
 
   if (request.action === 'getVideoId') {
