@@ -45,6 +45,8 @@ class CardDetail extends React.Component {
 
   onPlayerStateChange(event) {
     const state = event.data;
+    const player = event.target;
+
     if (state === 0) { // state 0 == ENDED
       const selectedCard = this.props.selectedCard;
       if (selectedCard
@@ -52,7 +54,7 @@ class CardDetail extends React.Component {
           // The comparison below is somewhat loose, because YouTube returns a
           // floating point number, and I'm not confident that it will always be
           // greater than the defined stop time when an ENDED event is fired
-          && event.target.getCurrentTime() > selectedCard.clips[this.state.clipIndex].stop - 1) {
+          && player.getCurrentTime() > selectedCard.clips[this.state.clipIndex].stop - 1) {
         this.setState({clipIndex: this.state.clipIndex + 1});
       }
     }
