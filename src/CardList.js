@@ -23,7 +23,7 @@ class CardList extends React.Component {
     const cards = this.props.cards;
     const noIncompleteCards = cards.filter(card => card.start !== 0);
     const filterByColor = noIncompleteCards.filter(card => CardList.colorFilter(this.props.selectedColors, card));
-    const filteredCards = filterByColor.filter(card => card.name.toLowerCase().startsWith(this.props.filterText.toLowerCase()));
+    const filteredCards = filterByColor.filter(card => card.name.toLowerCase().indexOf(this.props.filterText.toLowerCase()) >= 0);
 
     return (
       <ListGroup>
