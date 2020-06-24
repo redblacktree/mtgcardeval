@@ -4,7 +4,6 @@ function onError(error) {
   console.error(`Error: ${error}`);
 }
 
-
 function testVideoTimes(tabs, start, stop) {
   for (let tab of tabs) {
     browser.tabs.sendMessage(
@@ -19,6 +18,8 @@ function testVideoTimes(tabs, start, stop) {
 function saveInputValues() {
   const cardNameInput = document.querySelector('#cardName');
   currentCard.name = cardNameInput.value;
+  const cardGradeInput = document.querySelector('#cardGrade');
+  currentCard.grade = cardGradeInput.value;
   const startInput = document.querySelector('#startTime');
   currentCard.start = startInput.value;
   const stopInput = document.querySelector('#stopTime');
@@ -41,7 +42,7 @@ testButton.addEventListener("click", () => {
 
 function testEnd(tabs) {
   saveInputValues();
-  testVideoTimes(tabs, currentCard.stop - 5, currentCard.stop);
+  testVideoTimes(tabs, currentCard.stop - 3, currentCard.stop);
 }
 
 const testEndButton = document.querySelector("#testEnd");
@@ -95,7 +96,6 @@ function requestStopTime(tabs) {
     ).then(response => {
       currentCard.stop = response.response;
       const input = document.querySelector('#stopTime');
-      console.log(input);
       input.value = response.response;
     }).catch(onError);
   }
@@ -146,6 +146,8 @@ function loadCardValues(key, callback) {
   if (data[key]) {
     const cardNameInput = document.querySelector('#cardName');
     cardNameInput.value = currentCard.name = data[key].name;
+    const cardGradeInput = document.querySelector("#cardGrade");
+    cardGradeInput.value = currentCard.grade = data[key].grade;
     const startTimeInput = document.querySelector('#startTime');
     startTimeInput.value = currentCard.start = data[key].start;
     const stopTimeInput = document.querySelector('#stopTime');
@@ -160,49 +162,76 @@ function cardTest(event) {
   event.preventDefault();
   const key = event.target.getAttribute('data-key');
 
-  loadCardValues(key, () => {
-    browser.tabs.query({
-      currentWindow: true,
-      active: true
-    }).then(test).catch(onError);
-  });
+  loadCardValues(key);
 }
 
 function updateDisplay() {
   const dataDisplay = document.querySelector("#data");
+  const scrollTop = dataDisplay.scrollTop;
   dataDisplay.innerHTML = "";
+
   browser.storage.local.get(null).then((data) => {
     for (const key of Object.keys(data)) {
       if (key !== 'videoId') {
-        let link = createElementFromHTML(`<a href="#" data-key="${key}">${key}: ${data[key].start} - ${data[key].stop}</a>`);
+        let link = createElementFromHTML(`<a href="#" data-key="${key}">${key}: ${data[key].start} - ${data[key].stop} - ${data[key].grade}</a>`);
         link.addEventListener('click', cardTest);
         dataDisplay.appendChild(link);
         dataDisplay.appendChild(document.createElement('br'));
       }
     }
+    dataDisplay.scrollTop = scrollTop;
     const datacopy = document.querySelector("#datacopy");
-    datacopy.innerHTML = JSON.stringify(data);
+    datacopy.value = JSON.stringify(data);
   });
 }
 
-const saveButton = document.querySelector("#save");
-saveButton.addEventListener("click", () => {
+saveData = (event) => {
   let storage = {};
   saveInputValues();
   browser.storage.local.get(currentCard.name).then((data) => {
-    if (data[currentCard.name]) {
+    if (data[currentCard.name] && event.target.id === 'save') {
       currentCard.name += '2';
       const cardNameInput = document.querySelector('#cardName');
       cardNameInput.value = currentCard.name;
     }
     storage[currentCard.name] = currentCard;
 
-    if (cardName !== '') {
-      browser.storage.local.set(storage);
-    } else {
-      // do nothing if no card name provided
-    }
+    browser.storage.local.get('videoId').then((data) => {
+      currentCard.videoId = data.videoId;
+      storage[currentCard.name] = currentCard;
+      browser.storage.local.set(storage).then(() => {
+        const cardNameInput = document.querySelector('#cardName');
+        const cardGradeInput = document.querySelector('#cardGrade');
+        const startTimeInput = document.querySelector('#startTime');
+        const stopTimeInput = document.querySelector("#stopTime");
+        updateDisplay();
+        startTimeInput.value = stopTimeInput.value;
+        cardNameInput.value = '';
+        cardGradeInput.value = '';
+      });
+    });
+  });
+};
+
+const saveButton = document.querySelector("#save");
+saveButton.addEventListener("click", saveData);
+
+const overwriteButton = document.querySelector("#overwrite");
+overwriteButton.addEventListener("click", saveData);
+
+const deleteButton = document.querySelector("#delete");
+deleteButton.addEventListener("click", () => {
+  browser.storage.local.remove(currentCard.name).then(() => {
     updateDisplay();
+  });
+});
+
+const loadButton = document.querySelector("#load");
+loadButton.addEventListener("click", () => {
+  browser.storage.local.clear().then(() => {
+    browser.storage.local.set(JSON.parse(datacopy.value)).then(() => {
+      updateDisplay();
+    });
   });
 });
 
