@@ -1,0 +1,1668 @@
+{
+  "a25-R-W-Thalia, Guardian of Thraben": {
+    "name": "Thalia, Guardian of Thraben"
+  },
+  "bfz-R--Ulamog, the Ceaseless Hunger": {
+    "name": "Ulamog, the Ceaseless Hunger"
+  },
+  "c17-R-GW-Mirari's Wake": {
+    "name": "Mirari's Wake"
+  },
+  "c17-R-U-Body Double": {
+    "name": "Body Double"
+  },
+  "c18-R-G-Enchantress's Presence": {
+    "name": "Enchantress's Presence"
+  },
+  "c18-R-W-Sigil of the Empty Throne": {
+    "name": "Sigil of the Empty Throne"
+  },
+  "c19-C-B-Barren Moor": {
+    "name": "Barren Moor"
+  },
+  "c19-C-G-Colossal Majesty": {
+    "name": "Colossal Majesty"
+  },
+  "c19-R-R-Devil's Play": {
+    "name": "Devil's Play"
+  },
+  "c19-R-R-Dragonmaster Outcast": {
+    "name": "Dragonmaster Outcast"
+  },
+  "c20-C--Rupture Spire": {
+    "name": "Rupture Spire"
+  },
+  "c20-C-BW-Despark": {
+    "name": "Despark"
+  },
+  "c20-C-BW-Unburial Rites": {
+    "name": "Unburial Rites"
+  },
+  "c20-C-G-Reclamation Sage": {
+    "name": "Reclamation Sage"
+  },
+  "c20-C-G-Wilderness Reclamation": {
+    "name": "Wilderness Reclamation"
+  },
+  "c20-C-GU-Growth Spiral": {
+    "name": "Growth Spiral"
+  },
+  "c20-C-R-Forgotten Cave": {
+    "name": "Forgotten Cave"
+  },
+  "c20-C-RU-Crackling Drake": {
+    "name": "Crackling Drake"
+  },
+  "c20-C-U-Chemister's Insight": {
+    "name": "Chemister's Insight"
+  },
+  "c20-C-U-Lonely Sandbar": {
+    "name": "Lonely Sandbar"
+  },
+  "c20-C-U-Murmuring Mystic": {
+    "name": "Murmuring Mystic"
+  },
+  "c20-C-W-Secluded Steppe": {
+    "name": "Secluded Steppe"
+  },
+  "c20-R-G-Beast Whisperer": {
+    "name": "Beast Whisperer"
+  },
+  "c20-R-R-Captivating Crew": {
+    "name": "Captivating Crew"
+  },
+  "c20-R-U-Talrand, Sky Summoner": {
+    "name": "Talrand, Sky Summoner"
+  },
+  "c20-R-W-Zetalpa, Primal Dawn": {
+    "name": "Zetalpa, Primal Dawn"
+  },
+  "cn2-R--Platinum Angel": {
+    "name": "Platinum Angel"
+  },
+  "dom-C--Skittering Surveyor": {
+    "name": "Skittering Surveyor"
+  },
+  "dom-C--Sparring Construct": {
+    "name": "Sparring Construct"
+  },
+  "dom-C-B-Cast Down": {
+    "name": "Cast Down"
+  },
+  "dom-C-B-Knight of Malice": {
+    "name": "Knight of Malice"
+  },
+  "dom-C-B-Whisper, Blood Liturgist": {
+    "name": "Whisper, Blood Liturgist"
+  },
+  "dom-C-G-Grow from the Ashes": {
+    "name": "Grow from the Ashes"
+  },
+  "dom-C-G-Song of Freyalise": {
+    "name": "Song of Freyalise"
+  },
+  "dom-C-G-Untamed Kavu": {
+    "name": "Untamed Kavu"
+  },
+  "dom-C-R-Fight with Fire": {
+    "name": "Fight with Fire"
+  },
+  "dom-C-R-Shivan Fire": {
+    "name": "Shivan Fire"
+  },
+  "dom-C-U-Blink of an Eye": {
+    "name": "Blink of an Eye"
+  },
+  "dom-C-U-In Bolas's Clutches": {
+    "name": "In Bolas's Clutches"
+  },
+  "dom-C-U-Merfolk Trickster": {
+    "name": "Merfolk Trickster"
+  },
+  "dom-C-U-Tetsuko Umezawa, Fugitive": {
+    "name": "Tetsuko Umezawa, Fugitive"
+  },
+  "dom-C-W-Dauntless Bodyguard": {
+    "name": "Dauntless Bodyguard"
+  },
+  "dom-C-W-Knight of Grace": {
+    "name": "Knight of Grace"
+  },
+  "dom-C-W-Seal Away": {
+    "name": "Seal Away"
+  },
+  "dom-R--Blackblade Reforged": {
+    "name": "Blackblade Reforged"
+  },
+  "dom-R--Gilded Lotus": {
+    "name": "Gilded Lotus"
+  },
+  "dom-R--Helm of the Host": {
+    "name": "Helm of the Host"
+  },
+  "dom-R--Karn, Scion of Urza": {
+    "name": "Karn, Scion of Urza"
+  },
+  "dom-R--Mox Amber": {
+    "name": "Mox Amber"
+  },
+  "dom-R--Traxos, Scourge of Kroog": {
+    "name": "Traxos, Scourge of Kroog"
+  },
+  "dom-R--Weatherlight": {
+    "name": "Weatherlight"
+  },
+  "dom-R-B-Demonlord Belzenlok": {
+    "name": "Demonlord Belzenlok"
+  },
+  "dom-R-B-Josu Vess, Lich Knight": {
+    "name": "Josu Vess, Lich Knight"
+  },
+  "dom-R-B-Yawgmoth's Vile Offering": {
+    "name": "Yawgmoth's Vile Offering"
+  },
+  "dom-R-BG-Woodland Cemetery": {
+    "name": "Woodland Cemetery"
+  },
+  "dom-R-BW-Aryel, Knight of Windgrace": {
+    "name": "Aryel, Knight of Windgrace"
+  },
+  "dom-R-BW-Isolated Chapel": {
+    "name": "Isolated Chapel"
+  },
+  "dom-R-G-The Mending of Dominaria": {
+    "name": "The Mending of Dominaria"
+  },
+  "dom-R-GU-Hinterland Harbor": {
+    "name": "Hinterland Harbor"
+  },
+  "dom-R-GW-Shalai, Voice of Plenty": {
+    "name": "Shalai, Voice of Plenty"
+  },
+  "dom-R-R-Goblin Chainwhirler": {
+    "name": "Goblin Chainwhirler"
+  },
+  "dom-R-R-Jaya's Immolating Inferno": {
+    "name": "Jaya's Immolating Inferno"
+  },
+  "dom-R-R-Siege-Gang Commander": {
+    "name": "Siege-Gang Commander"
+  },
+  "dom-R-R-Squee, the Immortal": {
+    "name": "Squee, the Immortal"
+  },
+  "dom-R-RU-Jhoira, Weatherlight Captain": {
+    "name": "Jhoira, Weatherlight Captain"
+  },
+  "dom-R-RU-Sulfur Falls": {
+    "name": "Sulfur Falls"
+  },
+  "dom-R-RW-Clifftop Retreat": {
+    "name": "Clifftop Retreat"
+  },
+  "dom-R-U-Karn's Temporal Sundering": {
+    "name": "Karn's Temporal Sundering"
+  },
+  "dom-R-UW-Teferi, Hero of Dominaria": {
+    "name": "Teferi, Hero of Dominaria"
+  },
+  "dom-R-W-Benalish Marshal": {
+    "name": "Benalish Marshal"
+  },
+  "dom-R-W-History of Benalia": {
+    "name": "History of Benalia"
+  },
+  "dom-R-W-Lyra Dawnbringer": {
+    "name": "Lyra Dawnbringer"
+  },
+  "dom-R-W-Teshar, Ancestor's Apostle": {
+    "name": "Teshar, Ancestor's Apostle"
+  },
+  "dom-R-W-Urza's Ruinous Blast": {
+    "name": "Urza's Ruinous Blast"
+  },
+  "eld-C--Clockwork Servant": {
+    "name": "Clockwork Servant"
+  },
+  "eld-C--Enchanted Carriage": {
+    "name": "Enchanted Carriage"
+  },
+  "eld-C--Gingerbrute": {
+    "name": "Gingerbrute"
+  },
+  "eld-C--Golden Egg": {
+    "name": "Golden Egg"
+  },
+  "eld-C--Witch's Oven": {
+    "name": "Witch's Oven"
+  },
+  "eld-C-B-Cauldron Familiar": {
+    "name": "Cauldron Familiar"
+  },
+  "eld-C-B-Epic Downfall": {
+    "name": "Epic Downfall"
+  },
+  "eld-C-B-Foreboding Fruit": {
+    "name": "Foreboding Fruit"
+  },
+  "eld-C-B-Foulmire Knight // Profane Insight": {
+    "name": "Foulmire Knight // Profane Insight"
+  },
+  "eld-C-B-Order of Midnight // Alter Fate": {
+    "name": "Order of Midnight // Alter Fate"
+  },
+  "eld-C-G-Beanstalk Giant // Fertile Footsteps": {
+    "name": "Beanstalk Giant // Fertile Footsteps"
+  },
+  "eld-C-G-Kenrith's Transformation": {
+    "name": "Kenrith's Transformation"
+  },
+  "eld-C-R-Claim the Firstborn": {
+    "name": "Claim the Firstborn"
+  },
+  "eld-C-R-Embereth Shieldbreaker // Battle Display": {
+    "name": "Embereth Shieldbreaker // Battle Display"
+  },
+  "eld-C-R-Redcap Melee": {
+    "name": "Redcap Melee"
+  },
+  "eld-C-R-Rimrock Knight // Boulder Rush": {
+    "name": "Rimrock Knight // Boulder Rush"
+  },
+  "eld-C-R-Scorching Dragonfire": {
+    "name": "Scorching Dragonfire"
+  },
+  "eld-C-R-Slaying Fire": {
+    "name": "Slaying Fire"
+  },
+  "eld-C-R-Weaselback Redcap": {
+    "name": "Weaselback Redcap"
+  },
+  "eld-C-U-Didn't Say Please": {
+    "name": "Didn't Say Please"
+  },
+  "eld-C-U-Hypnotic Sprite // Mesmeric Glare": {
+    "name": "Hypnotic Sprite // Mesmeric Glare"
+  },
+  "eld-C-U-Merfolk Secretkeeper // Venture Deeper": {
+    "name": "Merfolk Secretkeeper // Venture Deeper"
+  },
+  "eld-C-U-Witching Well": {
+    "name": "Witching Well"
+  },
+  "eld-C-W-All That Glitters": {
+    "name": "All That Glitters"
+  },
+  "eld-C-W-Ardenvale Tactician // Dizzying Swoop": {
+    "name": "Ardenvale Tactician // Dizzying Swoop"
+  },
+  "eld-C-W-Faerie Guidemother // Gift of the Fae": {
+    "name": "Faerie Guidemother // Gift of the Fae"
+  },
+  "eld-C-W-Shepherd of the Flock // Usher to Safety": {
+    "name": "Shepherd of the Flock // Usher to Safety"
+  },
+  "eld-C-W-Trapped in the Tower": {
+    "name": "Trapped in the Tower"
+  },
+  "eld-C-W-Venerable Knight": {
+    "name": "Venerable Knight"
+  },
+  "eld-R--Fabled Passage": {
+    "name": "Fabled Passage"
+  },
+  "eld-R--Stonecoil Serpent": {
+    "name": "Stonecoil Serpent"
+  },
+  "eld-R-B-Ayara, First of Locthwain": {
+    "name": "Ayara, First of Locthwain"
+  },
+  "eld-R-B-Castle Locthwain": {
+    "name": "Castle Locthwain"
+  },
+  "eld-R-B-Murderous Rider // Swift End": {
+    "name": "Murderous Rider // Swift End"
+  },
+  "eld-R-B-Rankle, Master of Pranks": {
+    "name": "Rankle, Master of Pranks"
+  },
+  "eld-R-B-Taste of Death": {
+    "name": "Taste of Death"
+  },
+  "eld-R-G-Castle Garenbrig": {
+    "name": "Castle Garenbrig"
+  },
+  "eld-R-G-Gilded Goose": {
+    "name": "Gilded Goose"
+  },
+  "eld-R-G-Lovestruck Beast // Heart's Desire": {
+    "name": "Lovestruck Beast // Heart's Desire"
+  },
+  "eld-R-G-Once Upon a Time": {
+    "name": "Once Upon a Time"
+  },
+  "eld-R-G-Questing Beast": {
+    "name": "Questing Beast"
+  },
+  "eld-R-G-Return of the Wildspeaker": {
+    "name": "Return of the Wildspeaker"
+  },
+  "eld-R-G-The Great Henge": {
+    "name": "The Great Henge"
+  },
+  "eld-R-G-Wildborn Preserver": {
+    "name": "Wildborn Preserver"
+  },
+  "eld-R-GR-Escape to the Wilds": {
+    "name": "Escape to the Wilds"
+  },
+  "eld-R-R-Bonecrusher Giant // Stomp": {
+    "name": "Bonecrusher Giant // Stomp"
+  },
+  "eld-R-R-Castle Embereth": {
+    "name": "Castle Embereth"
+  },
+  "eld-R-R-Embercleave": {
+    "name": "Embercleave"
+  },
+  "eld-R-R-Fires of Invention": {
+    "name": "Fires of Invention"
+  },
+  "eld-R-R-Robber of the Rich": {
+    "name": "Robber of the Rich"
+  },
+  "eld-R-R-Torbran, Thane of Red Fell": {
+    "name": "Torbran, Thane of Red Fell"
+  },
+  "eld-R-U-Brazen Borrower // Petty Theft": {
+    "name": "Brazen Borrower // Petty Theft"
+  },
+  "eld-R-U-Castle Vantress": {
+    "name": "Castle Vantress"
+  },
+  "eld-R-U-Emry, Lurker of the Loch": {
+    "name": "Emry, Lurker of the Loch"
+  },
+  "eld-R-U-Fae of Wishes // Granted": {
+    "name": "Fae of Wishes // Granted"
+  },
+  "eld-R-U-Folio of Fancies": {
+    "name": "Folio of Fancies"
+  },
+  "eld-R-U-Midnight Clock": {
+    "name": "Midnight Clock"
+  },
+  "eld-R-W-Castle Ardenvale": {
+    "name": "Castle Ardenvale"
+  },
+  "eld-R-W-Charming Prince": {
+    "name": "Charming Prince"
+  },
+  "eld-R-W-Giant Killer // Chop Down": {
+    "name": "Giant Killer // Chop Down"
+  },
+  "eld-R-W-Harmonious Archon": {
+    "name": "Harmonious Archon"
+  },
+  "eld-R-W-Mace of the Valiant": {
+    "name": "Mace of the Valiant"
+  },
+  "eld-R-W-Realm-Cloaked Giant // Cast Off": {
+    "name": "Realm-Cloaked Giant // Cast Off"
+  },
+  "eld-R-W-The Circle of Loyalty": {
+    "name": "The Circle of Loyalty"
+  },
+  "ema-C-U-Silent Departure": {
+    "name": "Silent Departure"
+  },
+  "emn-R-B-Cryptbreaker": {
+    "name": "Cryptbreaker"
+  },
+  "grn-C-G-Sprouting Renewal": {
+    "name": "Sprouting Renewal"
+  },
+  "grn-C-R-Electrostatic Field": {
+    "name": "Electrostatic Field"
+  },
+  "grn-C-R-Goblin Banneret": {
+    "name": "Goblin Banneret"
+  },
+  "grn-C-R-Lava Coil": {
+    "name": "Lava Coil"
+  },
+  "grn-C-RW-Integrity // Intervention": {
+    "name": "Integrity // Intervention"
+  },
+  "grn-C-U-Disdainful Stroke": {
+    "name": "Disdainful Stroke"
+  },
+  "grn-C-U-Nightveil Sprite": {
+    "name": "Nightveil Sprite"
+  },
+  "grn-C-U-Sinister Sabotage": {
+    "name": "Sinister Sabotage"
+  },
+  "grn-C-W-Conclave Tribunal": {
+    "name": "Conclave Tribunal"
+  },
+  "grn-R-B-Midnight Reaper": {
+    "name": "Midnight Reaper"
+  },
+  "grn-R-B-Ritual of Soot": {
+    "name": "Ritual of Soot"
+  },
+  "grn-R-BG-Izoni, Thousand-Eyed": {
+    "name": "Izoni, Thousand-Eyed"
+  },
+  "grn-R-BG-Overgrown Tomb": {
+    "name": "Overgrown Tomb"
+  },
+  "grn-R-BG-Vraska, Golgari Queen": {
+    "name": "Vraska, Golgari Queen"
+  },
+  "grn-R-BU-Connive // Concoct": {
+    "name": "Connive // Concoct"
+  },
+  "grn-R-BU-Lazav, the Multifarious": {
+    "name": "Lazav, the Multifarious"
+  },
+  "grn-R-BU-Thief of Sanity": {
+    "name": "Thief of Sanity"
+  },
+  "grn-R-BU-Watery Grave": {
+    "name": "Watery Grave"
+  },
+  "grn-R-G-Pelt Collector": {
+    "name": "Pelt Collector"
+  },
+  "grn-R-GW-Knight of Autumn": {
+    "name": "Knight of Autumn"
+  },
+  "grn-R-GW-March of the Multitudes": {
+    "name": "March of the Multitudes"
+  },
+  "grn-R-GW-Temple Garden": {
+    "name": "Temple Garden"
+  },
+  "grn-R-GW-Trostani Discordant": {
+    "name": "Trostani Discordant"
+  },
+  "grn-R-R-Experimental Frenzy": {
+    "name": "Experimental Frenzy"
+  },
+  "grn-R-R-Legion Warboss": {
+    "name": "Legion Warboss"
+  },
+  "grn-R-R-Risk Factor": {
+    "name": "Risk Factor"
+  },
+  "grn-R-R-Runaway Steam-Kin": {
+    "name": "Runaway Steam-Kin"
+  },
+  "grn-R-RU-Ionize": {
+    "name": "Ionize"
+  },
+  "grn-R-RU-Niv-Mizzet, Parun": {
+    "name": "Niv-Mizzet, Parun"
+  },
+  "grn-R-RU-Steam Vents": {
+    "name": "Steam Vents"
+  },
+  "grn-R-RW-Aurelia, Exemplar of Justice": {
+    "name": "Aurelia, Exemplar of Justice"
+  },
+  "grn-R-RW-Sacred Foundry": {
+    "name": "Sacred Foundry"
+  },
+  "grn-R-RW-Tajic, Legion's Edge": {
+    "name": "Tajic, Legion's Edge"
+  },
+  "grn-R-U-Dream Eater": {
+    "name": "Dream Eater"
+  },
+  "grn-R-W-Dawn of Hope": {
+    "name": "Dawn of Hope"
+  },
+  "grn-R-W-Divine Visitation": {
+    "name": "Divine Visitation"
+  },
+  "grn-R-W-Venerated Loxodon": {
+    "name": "Venerated Loxodon"
+  },
+  "iko-C--Evolving Wilds": {
+    "name": "Evolving Wilds"
+  },
+  "iko-C-B-Bastion of Remembrance": {
+    "name": "Bastion of Remembrance"
+  },
+  "iko-C-B-Dead Weight": {
+    "name": "Dead Weight"
+  },
+  "iko-C-B-Heartless Act": {
+    "name": "Heartless Act"
+  },
+  "iko-C-B-Memory Leak": {
+    "name": "Memory Leak"
+  },
+  "iko-C-BR-Bloodfell Caves": {
+    "name": "Bloodfell Caves"
+  },
+  "iko-C-BU-Dismal Backwater": {
+    "name": "Dismal Backwater"
+  },
+  "iko-C-G-Migration Path": {
+    "name": "Migration Path"
+  },
+  "iko-C-G-Ram Through": {
+    "name": "Ram Through"
+  },
+  "iko-C-G-Sudden Spinnerets": {
+    "name": "Sudden Spinnerets"
+  },
+  "iko-C-G-Wilt": {
+    "name": "Wilt"
+  },
+  "iko-C-GR-Rugged Highlands": {
+    "name": "Rugged Highlands"
+  },
+  "iko-C-GW-Blossoming Sands": {
+    "name": "Blossoming Sands"
+  },
+  "iko-C-R-Blitz of the Thunder-Raptor": {
+    "name": "Blitz of the Thunder-Raptor"
+  },
+  "iko-C-R-Cathartic Reunion": {
+    "name": "Cathartic Reunion"
+  },
+  "iko-C-R-Fire Prophecy": {
+    "name": "Fire Prophecy"
+  },
+  "iko-C-R-Forbidden Friendship": {
+    "name": "Forbidden Friendship"
+  },
+  "iko-C-R-Weaponize the Monsters": {
+    "name": "Weaponize the Monsters"
+  },
+  "iko-C-RU-Sprite Dragon": {
+    "name": "Sprite Dragon"
+  },
+  "iko-C-U-Boon of the Wish-Giver": {
+    "name": "Boon of the Wish-Giver"
+  },
+  "iko-C-U-Essence Scatter": {
+    "name": "Essence Scatter"
+  },
+  "iko-C-U-Neutralize": {
+    "name": "Neutralize"
+  },
+  "iko-C-U-Of One Mind": {
+    "name": "Of One Mind"
+  },
+  "iko-C-U-Reconnaissance Mission": {
+    "name": "Reconnaissance Mission"
+  },
+  "iko-C-U-Startling Development": {
+    "name": "Startling Development"
+  },
+  "iko-C-UW-Tranquil Cove": {
+    "name": "Tranquil Cove"
+  },
+  "iko-C-W-Fight as One": {
+    "name": "Fight as One"
+  },
+  "iko-C-W-Pacifism": {
+    "name": "Pacifism"
+  },
+  "iko-C-W-Splendor Mare": {
+    "name": "Splendor Mare"
+  },
+  "iko-R--Bonders' Enclave": {
+    "name": "Bonders' Enclave"
+  },
+  "iko-R--Crystalline Giant": {
+    "name": "Crystalline Giant"
+  },
+  "iko-R-B-Hunted Nightmare": {
+    "name": "Hunted Nightmare"
+  },
+  "iko-R-BG-Chevill, Bane of Monsters": {
+    "name": "Chevill, Bane of Monsters"
+  },
+  "iko-R-BG-Fiend Artisan": {
+    "name": "Fiend Artisan"
+  },
+  "iko-R-BGU-Zagoth Triome": {
+    "name": "Zagoth Triome"
+  },
+  "iko-R-BGW-Indatha Triome": {
+    "name": "Indatha Triome"
+  },
+  "iko-R-BGW-Mythos of Nethroi": {
+    "name": "Mythos of Nethroi"
+  },
+  "iko-R-BRW-Savai Triome": {
+    "name": "Savai Triome"
+  },
+  "iko-R-G-Gemrazer": {
+    "name": "Gemrazer"
+  },
+  "iko-R-G-Kogla, the Titan Ape": {
+    "name": "Kogla, the Titan Ape"
+  },
+  "iko-R-G-Vivien, Monsters' Advocate": {
+    "name": "Vivien, Monsters' Advocate"
+  },
+  "iko-R-GR-Zilortha, Strength Incarnate": {
+    "name": "Zilortha, Strength Incarnate"
+  },
+  "iko-R-GRU-Ketria Triome": {
+    "name": "Ketria Triome"
+  },
+  "iko-R-GRU-Mythos of Illuna": {
+    "name": "Mythos of Illuna"
+  },
+  "iko-R-GU-Kinnan, Bonder Prodigy": {
+    "name": "Kinnan, Bonder Prodigy"
+  },
+  "iko-R-RU-Rielle, the Everwise": {
+    "name": "Rielle, the Everwise"
+  },
+  "iko-R-RUW-Raugrin Triome": {
+    "name": "Raugrin Triome"
+  },
+  "iko-R-RW-Winota, Joiner of Forces": {
+    "name": "Winota, Joiner of Forces"
+  },
+  "iko-R-U-Sea-Dasher Octopus": {
+    "name": "Sea-Dasher Octopus"
+  },
+  "iko-R-U-Shark Typhoon": {
+    "name": "Shark Typhoon"
+  },
+  "iko-R-U-Voracious Greatshark": {
+    "name": "Voracious Greatshark"
+  },
+  "iko-R-UW-Skycat Sovereign": {
+    "name": "Skycat Sovereign"
+  },
+  "iko-R-W-Luminous Broodmoth": {
+    "name": "Luminous Broodmoth"
+  },
+  "ima-R-GW-Knight of the Reliquary": {
+    "name": "Knight of the Reliquary"
+  },
+  "inv-R-GW-Captain Sisay": {
+    "name": "Captain Sisay"
+  },
+  "jou-C-B-Brain Maggot": {
+    "name": "Brain Maggot"
+  },
+  "m13-R--Akroma's Memorial": {
+    "name": "Akroma's Memorial"
+  },
+  "m19-C-B-Diregraf Ghoul": {
+    "name": "Diregraf Ghoul"
+  },
+  "m19-C-B-Stitcher's Supplier": {
+    "name": "Stitcher's Supplier"
+  },
+  "m19-C-G-Dryad Greenseeker": {
+    "name": "Dryad Greenseeker"
+  },
+  "m19-C-G-Elvish Rejuvenator": {
+    "name": "Elvish Rejuvenator"
+  },
+  "m19-C-R-Lightning Strike": {
+    "name": "Lightning Strike"
+  },
+  "m19-C-R-Viashino Pyromancer": {
+    "name": "Viashino Pyromancer"
+  },
+  "m19-C-RW-Heroic Reinforcements": {
+    "name": "Heroic Reinforcements"
+  },
+  "m19-C-U-Exclusion Mage": {
+    "name": "Exclusion Mage"
+  },
+  "m19-C-U-Mist-Cloaked Herald": {
+    "name": "Mist-Cloaked Herald"
+  },
+  "m19-C-U-Psychic Corrosion": {
+    "name": "Psychic Corrosion"
+  },
+  "m19-C-W-Cavalry Drillmaster": {
+    "name": "Cavalry Drillmaster"
+  },
+  "m19-R--Crucible of Worlds": {
+    "name": "Crucible of Worlds"
+  },
+  "m19-R--Sigiled Sword of Valeron": {
+    "name": "Sigiled Sword of Valeron"
+  },
+  "m19-R-B-Liliana's Contract": {
+    "name": "Liliana's Contract"
+  },
+  "m19-R-G-Goreclaw, Terror of Qal Sisma": {
+    "name": "Goreclaw, Terror of Qal Sisma"
+  },
+  "m19-R-R-Banefire": {
+    "name": "Banefire"
+  },
+  "m19-R-R-Dark-Dweller Oracle": {
+    "name": "Dark-Dweller Oracle"
+  },
+  "m19-R-R-Sarkhan's Unsealing": {
+    "name": "Sarkhan's Unsealing"
+  },
+  "m19-R-U-Patient Rebuilding": {
+    "name": "Patient Rebuilding"
+  },
+  "m19-R-U-Tezzeret, Artifice Master": {
+    "name": "Tezzeret, Artifice Master"
+  },
+  "m19-R-W-Mentor of the Meek": {
+    "name": "Mentor of the Meek"
+  },
+  "m19-R-W-Remorseful Cleric": {
+    "name": "Remorseful Cleric"
+  },
+  "m19-R-W-Resplendent Angel": {
+    "name": "Resplendent Angel"
+  },
+  "m20-C--Cryptic Caves": {
+    "name": "Cryptic Caves"
+  },
+  "m20-C--Manifold Key": {
+    "name": "Manifold Key"
+  },
+  "m20-C-B-Blood for Bones": {
+    "name": "Blood for Bones"
+  },
+  "m20-C-B-Disfigure": {
+    "name": "Disfigure"
+  },
+  "m20-C-BW-Corpse Knight": {
+    "name": "Corpse Knight"
+  },
+  "m20-C-G-Overcome": {
+    "name": "Overcome"
+  },
+  "m20-C-G-Season of Growth": {
+    "name": "Season of Growth"
+  },
+  "m20-C-G-Woodland Champion": {
+    "name": "Woodland Champion"
+  },
+  "m20-C-R-Flame Sweep": {
+    "name": "Flame Sweep"
+  },
+  "m20-C-R-Scorch Spitter": {
+    "name": "Scorch Spitter"
+  },
+  "m20-C-U-Brineborn Cutthroat": {
+    "name": "Brineborn Cutthroat"
+  },
+  "m20-C-U-Portal of Sanctuary": {
+    "name": "Portal of Sanctuary"
+  },
+  "m20-C-U-Scholar of the Ages": {
+    "name": "Scholar of the Ages"
+  },
+  "m20-C-U-Spectral Sailor": {
+    "name": "Spectral Sailor"
+  },
+  "m20-C-U-Winged Words": {
+    "name": "Winged Words"
+  },
+  "m20-C-UW-Empyrean Eagle": {
+    "name": "Empyrean Eagle"
+  },
+  "m20-C-W-Ancestral Blade": {
+    "name": "Ancestral Blade"
+  },
+  "m20-C-W-Loyal Pegasus": {
+    "name": "Loyal Pegasus"
+  },
+  "m20-C-W-Raise the Alarm": {
+    "name": "Raise the Alarm"
+  },
+  "m20-R--Bag of Holding": {
+    "name": "Bag of Holding"
+  },
+  "m20-R--Field of the Dead": {
+    "name": "Field of the Dead"
+  },
+  "m20-R--Lotus Field": {
+    "name": "Lotus Field"
+  },
+  "m20-R--Steel Overseer": {
+    "name": "Steel Overseer"
+  },
+  "m20-R-B-Cavalier of Night": {
+    "name": "Cavalier of Night"
+  },
+  "m20-R-B-Dread Presence": {
+    "name": "Dread Presence"
+  },
+  "m20-R-B-Embodiment of Agonies": {
+    "name": "Embodiment of Agonies"
+  },
+  "m20-R-B-Knight of the Ebon Legion": {
+    "name": "Knight of the Ebon Legion"
+  },
+  "m20-R-B-Rotting Regisaur": {
+    "name": "Rotting Regisaur"
+  },
+  "m20-R-BG-Temple of Malady": {
+    "name": "Temple of Malady"
+  },
+  "m20-R-BGRUW-Golos, Tireless Pilgrim": {
+    "name": "Golos, Tireless Pilgrim"
+  },
+  "m20-R-BW-Temple of Silence": {
+    "name": "Temple of Silence"
+  },
+  "m20-R-G-Cavalier of Thorns": {
+    "name": "Cavalier of Thorns"
+  },
+  "m20-R-G-Elvish Reclaimer": {
+    "name": "Elvish Reclaimer"
+  },
+  "m20-R-G-Nightpack Ambusher": {
+    "name": "Nightpack Ambusher"
+  },
+  "m20-R-G-Vivien, Arkbow Ranger": {
+    "name": "Vivien, Arkbow Ranger"
+  },
+  "m20-R-G-Voracious Hydra": {
+    "name": "Voracious Hydra"
+  },
+  "m20-R-GU-Temple of Mystery": {
+    "name": "Temple of Mystery"
+  },
+  "m20-R-R-Chandra, Acolyte of Flame": {
+    "name": "Chandra, Acolyte of Flame"
+  },
+  "m20-R-R-Chandra, Awakened Inferno": {
+    "name": "Chandra, Awakened Inferno"
+  },
+  "m20-R-R-Drakuseth, Maw of Flames": {
+    "name": "Drakuseth, Maw of Flames"
+  },
+  "m20-R-R-Glint-Horn Buccaneer": {
+    "name": "Glint-Horn Buccaneer"
+  },
+  "m20-R-RU-Temple of Epiphany": {
+    "name": "Temple of Epiphany"
+  },
+  "m20-R-RW-Temple of Triumph": {
+    "name": "Temple of Triumph"
+  },
+  "m20-R-U-Dungeon Geists": {
+    "name": "Dungeon Geists"
+  },
+  "m20-R-U-Flood of Tears": {
+    "name": "Flood of Tears"
+  },
+  "m20-R-W-Hanged Executioner": {
+    "name": "Hanged Executioner"
+  },
+  "m20-R-W-Planar Cleansing": {
+    "name": "Planar Cleansing"
+  },
+  "m20-R-W-Sephara, Sky's Blade": {
+    "name": "Sephara, Sky's Blade"
+  },
+  "m20-R-W-Starfield Mystic": {
+    "name": "Starfield Mystic"
+  },
+  "mb1-C--Ancient Ziggurat": {
+    "name": "Ancient Ziggurat"
+  },
+  "mb1-C--Icy Manipulator": {
+    "name": "Icy Manipulator"
+  },
+  "mb1-C--Juggernaut": {
+    "name": "Juggernaut"
+  },
+  "mb1-C--Mind Stone": {
+    "name": "Mind Stone"
+  },
+  "mb1-C-B-Duress": {
+    "name": "Duress"
+  },
+  "mb1-C-B-Dusk Legion Zealot": {
+    "name": "Dusk Legion Zealot"
+  },
+  "mb1-C-B-Plaguecrafter": {
+    "name": "Plaguecrafter"
+  },
+  "mb1-C-B-Reassembling Skeleton": {
+    "name": "Reassembling Skeleton"
+  },
+  "mb1-C-B-The Eldest Reborn": {
+    "name": "The Eldest Reborn"
+  },
+  "mb1-C-BU-Thought Erasure": {
+    "name": "Thought Erasure"
+  },
+  "mb1-C-BW-Mortify": {
+    "name": "Mortify"
+  },
+  "mb1-C-G-Giant Growth": {
+    "name": "Giant Growth"
+  },
+  "mb1-C-G-Imperious Perfect": {
+    "name": "Imperious Perfect"
+  },
+  "mb1-C-G-Krosan Tusker": {
+    "name": "Krosan Tusker"
+  },
+  "mb1-C-G-Llanowar Elves": {
+    "name": "Llanowar Elves"
+  },
+  "mb1-C-G-Prey Upon": {
+    "name": "Prey Upon"
+  },
+  "mb1-C-G-Roar of the Wurm": {
+    "name": "Roar of the Wurm"
+  },
+  "mb1-C-G-Saproling Migration": {
+    "name": "Saproling Migration"
+  },
+  "mb1-C-G-Thrashing Brontodon": {
+    "name": "Thrashing Brontodon"
+  },
+  "mb1-C-R-Act of Treason": {
+    "name": "Act of Treason"
+  },
+  "mb1-C-R-Charging Monstrosaur": {
+    "name": "Charging Monstrosaur"
+  },
+  "mb1-C-R-Crash Through": {
+    "name": "Crash Through"
+  },
+  "mb1-C-R-Ghitu Lavarunner": {
+    "name": "Ghitu Lavarunner"
+  },
+  "mb1-C-R-Kiln Fiend": {
+    "name": "Kiln Fiend"
+  },
+  "mb1-C-R-Mutiny": {
+    "name": "Mutiny"
+  },
+  "mb1-C-R-Shock": {
+    "name": "Shock"
+  },
+  "mb1-C-U-Chart a Course": {
+    "name": "Chart a Course"
+  },
+  "mb1-C-U-Cloudkin Seer": {
+    "name": "Cloudkin Seer"
+  },
+  "mb1-C-U-Negate": {
+    "name": "Negate"
+  },
+  "mb1-C-U-Opt": {
+    "name": "Opt"
+  },
+  "mb1-C-UW-Momentary Blink": {
+    "name": "Momentary Blink"
+  },
+  "mb1-C-W-Adanto Vanguard": {
+    "name": "Adanto Vanguard"
+  },
+  "mb1-C-W-Arrester's Zeal": {
+    "name": "Arrester's Zeal"
+  },
+  "mb1-C-W-Gods Willing": {
+    "name": "Gods Willing"
+  },
+  "mb1-C-W-Skymarcher Aspirant": {
+    "name": "Skymarcher Aspirant"
+  },
+  "mb1-C-W-Take Vengeance": {
+    "name": "Take Vengeance"
+  },
+  "mb1-R--Arch of Orazca": {
+    "name": "Arch of Orazca"
+  },
+  "mb1-R--Chromatic Lantern": {
+    "name": "Chromatic Lantern"
+  },
+  "mb1-R-B-Hypnotic Specter": {
+    "name": "Hypnotic Specter"
+  },
+  "mb1-R-B-Phyrexian Arena": {
+    "name": "Phyrexian Arena"
+  },
+  "mb1-R-BG-The Gitrog Monster": {
+    "name": "The Gitrog Monster"
+  },
+  "mb1-R-GW-Rhys the Redeemed": {
+    "name": "Rhys the Redeemed"
+  },
+  "mb1-R-U-Fblthp, the Lost": {
+    "name": "Fblthp, the Lost"
+  },
+  "mh1-C-G-Tranquil Thicket": {
+    "name": "Tranquil Thicket"
+  },
+  "mm3-R-W-Ranger of Eos": {
+    "name": "Ranger of Eos"
+  },
+  "rix-C-B-Golden Demise": {
+    "name": "Golden Demise"
+  },
+  "rix-C-R-Fanatical Firebrand": {
+    "name": "Fanatical Firebrand"
+  },
+  "rix-C-U-Curious Obsession": {
+    "name": "Curious Obsession"
+  },
+  "rix-C-W-Baffling End": {
+    "name": "Baffling End"
+  },
+  "rix-C-W-Pride of Conquerors": {
+    "name": "Pride of Conquerors"
+  },
+  "rix-R--The Immortal Sun": {
+    "name": "The Immortal Sun"
+  },
+  "rix-R-B-Mastermind's Acquisition": {
+    "name": "Mastermind's Acquisition"
+  },
+  "rix-R-G-Ghalta, Primal Hunger": {
+    "name": "Ghalta, Primal Hunger"
+  },
+  "rix-R-G-Jadelight Ranger": {
+    "name": "Jadelight Ranger"
+  },
+  "rix-R-G-Tendershoot Dryad": {
+    "name": "Tendershoot Dryad"
+  },
+  "rix-R-G-Wayward Swordtooth": {
+    "name": "Wayward Swordtooth"
+  },
+  "rix-R-R-Dire Fleet Daredevil": {
+    "name": "Dire Fleet Daredevil"
+  },
+  "rix-R-R-Rekindling Phoenix": {
+    "name": "Rekindling Phoenix"
+  },
+  "rix-R-U-Warkite Marauder": {
+    "name": "Warkite Marauder"
+  },
+  "rna-C-B-Orzhov Enforcer": {
+    "name": "Orzhov Enforcer"
+  },
+  "rna-C-GU-Frilled Mystic": {
+    "name": "Frilled Mystic"
+  },
+  "rna-C-R-Light Up the Stage": {
+    "name": "Light Up the Stage"
+  },
+  "rna-C-R-Skewer the Critics": {
+    "name": "Skewer the Critics"
+  },
+  "rna-C-U-Essence Capture": {
+    "name": "Essence Capture"
+  },
+  "rna-C-U-Pteramander": {
+    "name": "Pteramander"
+  },
+  "rna-C-U-Quench": {
+    "name": "Quench"
+  },
+  "rna-C-W-Ministrant of Obligation": {
+    "name": "Ministrant of Obligation"
+  },
+  "rna-R-B-Gutterbones": {
+    "name": "Gutterbones"
+  },
+  "rna-R-B-Priest of Forgotten Gods": {
+    "name": "Priest of Forgotten Gods"
+  },
+  "rna-R-B-Spawn of Mayhem": {
+    "name": "Spawn of Mayhem"
+  },
+  "rna-R-BR-Blood Crypt": {
+    "name": "Blood Crypt"
+  },
+  "rna-R-BR-Judith, the Scourge Diva": {
+    "name": "Judith, the Scourge Diva"
+  },
+  "rna-R-BR-Rakdos, the Showstopper": {
+    "name": "Rakdos, the Showstopper"
+  },
+  "rna-R-BW-Ethereal Absolution": {
+    "name": "Ethereal Absolution"
+  },
+  "rna-R-BW-Godless Shrine": {
+    "name": "Godless Shrine"
+  },
+  "rna-R-BW-Seraph of the Scales": {
+    "name": "Seraph of the Scales"
+  },
+  "rna-R-G-Biogenic Ooze": {
+    "name": "Biogenic Ooze"
+  },
+  "rna-R-G-End-Raze Forerunners": {
+    "name": "End-Raze Forerunners"
+  },
+  "rna-R-G-Incubation Druid": {
+    "name": "Incubation Druid"
+  },
+  "rna-R-GR-Gruul Spellbreaker": {
+    "name": "Gruul Spellbreaker"
+  },
+  "rna-R-GR-Stomping Ground": {
+    "name": "Stomping Ground"
+  },
+  "rna-R-GU-Breeding Pool": {
+    "name": "Breeding Pool"
+  },
+  "rna-R-GU-Hydroid Krasis": {
+    "name": "Hydroid Krasis"
+  },
+  "rna-R-GU-Prime Speaker Vannifar": {
+    "name": "Prime Speaker Vannifar"
+  },
+  "rna-R-R-Skarrgan Hellkite": {
+    "name": "Skarrgan Hellkite"
+  },
+  "rna-R-U-Benthic Biomancer": {
+    "name": "Benthic Biomancer"
+  },
+  "rna-R-U-Sphinx of Foresight": {
+    "name": "Sphinx of Foresight"
+  },
+  "rna-R-UW-Deputy of Detention": {
+    "name": "Deputy of Detention"
+  },
+  "rna-R-UW-Hallowed Fountain": {
+    "name": "Hallowed Fountain"
+  },
+  "rna-R-W-Tithe Taker": {
+    "name": "Tithe Taker"
+  },
+  "rna-R-W-Unbreakable Formation": {
+    "name": "Unbreakable Formation"
+  },
+  "thb-C--Entrancing Lyre": {
+    "name": "Entrancing Lyre"
+  },
+  "thb-C--Field of Ruin": {
+    "name": "Field of Ruin"
+  },
+  "thb-C-B-Agonizing Remorse": {
+    "name": "Agonizing Remorse"
+  },
+  "thb-C-B-Elspeth's Nightmare": {
+    "name": "Elspeth's Nightmare"
+  },
+  "thb-C-B-Gray Merchant of Asphodel": {
+    "name": "Gray Merchant of Asphodel"
+  },
+  "thb-C-B-Lampad of Death's Vigil": {
+    "name": "Lampad of Death's Vigil"
+  },
+  "thb-C-B-Mire's Grasp": {
+    "name": "Mire's Grasp"
+  },
+  "thb-C-B-Pharika's Spawn": {
+    "name": "Pharika's Spawn"
+  },
+  "thb-C-B-Tymaret, Chosen from Death": {
+    "name": "Tymaret, Chosen from Death"
+  },
+  "thb-C-BR-Slaughter-Priest of Mogis": {
+    "name": "Slaughter-Priest of Mogis"
+  },
+  "thb-C-G-Chainweb Aracnir": {
+    "name": "Chainweb Aracnir"
+  },
+  "thb-C-G-Destiny Spinner": {
+    "name": "Destiny Spinner"
+  },
+  "thb-C-G-Ilysian Caryatid": {
+    "name": "Ilysian Caryatid"
+  },
+  "thb-C-G-Nessian Hornbeetle": {
+    "name": "Nessian Hornbeetle"
+  },
+  "thb-C-G-Nessian Wanderer": {
+    "name": "Nessian Wanderer"
+  },
+  "thb-C-G-Omen of the Hunt": {
+    "name": "Omen of the Hunt"
+  },
+  "thb-C-G-Relentless Pursuit": {
+    "name": "Relentless Pursuit"
+  },
+  "thb-C-G-Warbriar Blessing": {
+    "name": "Warbriar Blessing"
+  },
+  "thb-C-G-Wolfwillow Haven": {
+    "name": "Wolfwillow Haven"
+  },
+  "thb-C-R-Anax, Hardened in the Forge": {
+    "name": "Anax, Hardened in the Forge"
+  },
+  "thb-C-R-Dreamstalker Manticore": {
+    "name": "Dreamstalker Manticore"
+  },
+  "thb-C-R-Furious Rise": {
+    "name": "Furious Rise"
+  },
+  "thb-C-R-Infuriate": {
+    "name": "Infuriate"
+  },
+  "thb-C-R-Underworld Rage-Hound": {
+    "name": "Underworld Rage-Hound"
+  },
+  "thb-C-U-Alirios, Enraptured": {
+    "name": "Alirios, Enraptured"
+  },
+  "thb-C-U-Thirst for Meaning": {
+    "name": "Thirst for Meaning"
+  },
+  "thb-C-U-Threnody Singer": {
+    "name": "Threnody Singer"
+  },
+  "thb-C-UW-Staggering Insight": {
+    "name": "Staggering Insight"
+  },
+  "thb-C-W-Alseid of Life's Bounty": {
+    "name": "Alseid of Life's Bounty"
+  },
+  "thb-C-W-Banishing Light": {
+    "name": "Banishing Light"
+  },
+  "thb-C-W-Daxos, Blessed by the Sun": {
+    "name": "Daxos, Blessed by the Sun"
+  },
+  "thb-C-W-Omen of the Sun": {
+    "name": "Omen of the Sun"
+  },
+  "thb-C-W-Reverent Hoplite": {
+    "name": "Reverent Hoplite"
+  },
+  "thb-C-W-Revoke Existence": {
+    "name": "Revoke Existence"
+  },
+  "thb-C-W-The Birth of Meletis": {
+    "name": "The Birth of Meletis"
+  },
+  "thb-R--Labyrinth of Skophos": {
+    "name": "Labyrinth of Skophos"
+  },
+  "thb-R--Nyx Lotus": {
+    "name": "Nyx Lotus"
+  },
+  "thb-R--Shadowspear": {
+    "name": "Shadowspear"
+  },
+  "thb-R-B-Aphemia, the Cacophony": {
+    "name": "Aphemia, the Cacophony"
+  },
+  "thb-R-B-Demon of Loathing": {
+    "name": "Demon of Loathing"
+  },
+  "thb-R-B-Eat to Extinction": {
+    "name": "Eat to Extinction"
+  },
+  "thb-R-B-Erebos's Intervention": {
+    "name": "Erebos's Intervention"
+  },
+  "thb-R-B-Gravebreaker Lamia": {
+    "name": "Gravebreaker Lamia"
+  },
+  "thb-R-B-Nightmare Shepherd": {
+    "name": "Nightmare Shepherd"
+  },
+  "thb-R-B-Tymaret Calls the Dead": {
+    "name": "Tymaret Calls the Dead"
+  },
+  "thb-R-B-Woe Strider": {
+    "name": "Woe Strider"
+  },
+  "thb-R-BG-Polukranos, Unchained": {
+    "name": "Polukranos, Unchained"
+  },
+  "thb-R-BR-Kroxa, Titan of Death's Hunger": {
+    "name": "Kroxa, Titan of Death's Hunger"
+  },
+  "thb-R-BR-Temple of Malice": {
+    "name": "Temple of Malice"
+  },
+  "thb-R-BU-Ashiok, Nightmare Muse": {
+    "name": "Ashiok, Nightmare Muse"
+  },
+  "thb-R-BU-Atris, Oracle of Half-Truths": {
+    "name": "Atris, Oracle of Half-Truths"
+  },
+  "thb-R-BU-Temple of Deceit": {
+    "name": "Temple of Deceit"
+  },
+  "thb-R-G-Dryad of the Ilysian Grove": {
+    "name": "Dryad of the Ilysian Grove"
+  },
+  "thb-R-G-Mantle of the Wolf": {
+    "name": "Mantle of the Wolf"
+  },
+  "thb-R-G-Nylea, Keen-Eyed": {
+    "name": "Nylea, Keen-Eyed"
+  },
+  "thb-R-G-Nyxbloom Ancient": {
+    "name": "Nyxbloom Ancient"
+  },
+  "thb-R-G-Setessan Champion": {
+    "name": "Setessan Champion"
+  },
+  "thb-R-G-The First Iroan Games": {
+    "name": "The First Iroan Games"
+  },
+  "thb-R-GR-Gallia of the Endless Dance": {
+    "name": "Gallia of the Endless Dance"
+  },
+  "thb-R-GR-Klothys, God of Destiny": {
+    "name": "Klothys, God of Destiny"
+  },
+  "thb-R-GR-Temple of Abandon": {
+    "name": "Temple of Abandon"
+  },
+  "thb-R-GU-Uro, Titan of Nature's Wrath": {
+    "name": "Uro, Titan of Nature's Wrath"
+  },
+  "thb-R-GW-Temple of Plenty": {
+    "name": "Temple of Plenty"
+  },
+  "thb-R-R-Ox of Agonas": {
+    "name": "Ox of Agonas"
+  },
+  "thb-R-R-Phoenix of Ash": {
+    "name": "Phoenix of Ash"
+  },
+  "thb-R-R-Purphoros's Intervention": {
+    "name": "Purphoros's Intervention"
+  },
+  "thb-R-R-Storm's Wrath": {
+    "name": "Storm's Wrath"
+  },
+  "thb-R-R-Tectonic Giant": {
+    "name": "Tectonic Giant"
+  },
+  "thb-R-R-The Akroan War": {
+    "name": "The Akroan War"
+  },
+  "thb-R-U-Nadir Kraken": {
+    "name": "Nadir Kraken"
+  },
+  "thb-R-U-Thassa's Intervention": {
+    "name": "Thassa's Intervention"
+  },
+  "thb-R-U-Thassa's Oracle": {
+    "name": "Thassa's Oracle"
+  },
+  "thb-R-U-Thassa, Deep-Dwelling": {
+    "name": "Thassa, Deep-Dwelling"
+  },
+  "thb-R-U-Wavebreak Hippocamp": {
+    "name": "Wavebreak Hippocamp"
+  },
+  "thb-R-UW-Temple of Enlightenment": {
+    "name": "Temple of Enlightenment"
+  },
+  "thb-R-W-Archon of Sun's Grace": {
+    "name": "Archon of Sun's Grace"
+  },
+  "thb-R-W-Elspeth Conquers Death": {
+    "name": "Elspeth Conquers Death"
+  },
+  "thb-R-W-Elspeth, Sun's Nemesis": {
+    "name": "Elspeth, Sun's Nemesis"
+  },
+  "thb-R-W-Heliod, Sun-Crowned": {
+    "name": "Heliod, Sun-Crowned"
+  },
+  "thb-R-W-Idyllic Tutor": {
+    "name": "Idyllic Tutor"
+  },
+  "thb-R-W-Shatter the Sky": {
+    "name": "Shatter the Sky"
+  },
+  "thb-R-W-Taranika, Akroan Veteran": {
+    "name": "Taranika, Akroan Veteran"
+  },
+  "uma-C-B-Chainer's Edict": {
+    "name": "Chainer's Edict"
+  },
+  "uma-R-BG-Maelstrom Pulse": {
+    "name": "Maelstrom Pulse"
+  },
+  "uma-R-G-Fauna Shaman": {
+    "name": "Fauna Shaman"
+  },
+  "videoId": "4AqUwQOthj4",
+  "war-C--Firemind Vessel": {
+    "name": "Firemind Vessel"
+  },
+  "war-C--Guild Globe": {
+    "name": "Guild Globe"
+  },
+  "war-C-B-Spark Harvest": {
+    "name": "Spark Harvest"
+  },
+  "war-C-BR-Angrath's Rampage": {
+    "name": "Angrath's Rampage"
+  },
+  "war-C-BR-Angrath, Captain of Chaos": {
+    "name": "Angrath, Captain of Chaos"
+  },
+  "war-C-BR-Mayhem Devil": {
+    "name": "Mayhem Devil"
+  },
+  "war-C-BU-Ashiok, Dream Render": {
+    "name": "Ashiok, Dream Render"
+  },
+  "war-C-BW-Cruel Celebrant": {
+    "name": "Cruel Celebrant"
+  },
+  "war-C-G-Arboreal Grazer": {
+    "name": "Arboreal Grazer"
+  },
+  "war-C-G-Paradise Druid": {
+    "name": "Paradise Druid"
+  },
+  "war-C-GR-Domri's Ambush": {
+    "name": "Domri's Ambush"
+  },
+  "war-C-GU-Kiora, Behemoth Beckoner": {
+    "name": "Kiora, Behemoth Beckoner"
+  },
+  "war-C-R-Cyclops Electromancer": {
+    "name": "Cyclops Electromancer"
+  },
+  "war-C-R-Grim Initiate": {
+    "name": "Grim Initiate"
+  },
+  "war-C-R-Heartfire": {
+    "name": "Heartfire"
+  },
+  "war-C-R-Tibalt, Rakish Instigator": {
+    "name": "Tibalt, Rakish Instigator"
+  },
+  "war-C-RU-Saheeli, Sublime Artificer": {
+    "name": "Saheeli, Sublime Artificer"
+  },
+  "war-C-U-Bond of Insight": {
+    "name": "Bond of Insight"
+  },
+  "war-C-U-Callous Dismissal": {
+    "name": "Callous Dismissal"
+  },
+  "war-C-UW-Elite Guardmage": {
+    "name": "Elite Guardmage"
+  },
+  "war-C-W-Law-Rune Enforcer": {
+    "name": "Law-Rune Enforcer"
+  },
+  "war-C-W-Prison Realm": {
+    "name": "Prison Realm"
+  },
+  "war-R--Blast Zone": {
+    "name": "Blast Zone"
+  },
+  "war-R--Ugin, the Ineffable": {
+    "name": "Ugin, the Ineffable"
+  },
+  "war-R-B-Bolas's Citadel": {
+    "name": "Bolas's Citadel"
+  },
+  "war-R-B-Dreadhorde Invasion": {
+    "name": "Dreadhorde Invasion"
+  },
+  "war-R-B-Finale of Eternity": {
+    "name": "Finale of Eternity"
+  },
+  "war-R-B-God-Eternal Bontu": {
+    "name": "God-Eternal Bontu"
+  },
+  "war-R-B-Liliana, Dreadhorde General": {
+    "name": "Liliana, Dreadhorde General"
+  },
+  "war-R-B-Massacre Girl": {
+    "name": "Massacre Girl"
+  },
+  "war-R-BGRUW-Niv-Mizzet Reborn": {
+    "name": "Niv-Mizzet Reborn"
+  },
+  "war-R-G-Awakening of Vitu-Ghazi": {
+    "name": "Awakening of Vitu-Ghazi"
+  },
+  "war-R-G-Finale of Devastation": {
+    "name": "Finale of Devastation"
+  },
+  "war-R-G-Planewide Celebration": {
+    "name": "Planewide Celebration"
+  },
+  "war-R-G-Vivien's Arkbow": {
+    "name": "Vivien's Arkbow"
+  },
+  "war-R-GR-Domri, Anarch of Bolas": {
+    "name": "Domri, Anarch of Bolas"
+  },
+  "war-R-R-Sarkhan the Masterless": {
+    "name": "Sarkhan the Masterless"
+  },
+  "war-R-RW-Feather, the Redeemed": {
+    "name": "Feather, the Redeemed"
+  },
+  "war-R-U-Commence the Endgame": {
+    "name": "Commence the Endgame"
+  },
+  "war-R-U-Jace, Wielder of Mysteries": {
+    "name": "Jace, Wielder of Mysteries"
+  },
+  "war-R-U-Spark Double": {
+    "name": "Spark Double"
+  },
+  "war-R-UW-Time Wipe": {
+    "name": "Time Wipe"
+  },
+  "war-R-W-Finale of Glory": {
+    "name": "Finale of Glory"
+  },
+  "war-R-W-Gideon Blackblade": {
+    "name": "Gideon Blackblade"
+  },
+  "xln-C-B-Kitesail Freebooter": {
+    "name": "Kitesail Freebooter"
+  },
+  "xln-C-G-Savage Stomp": {
+    "name": "Savage Stomp"
+  },
+  "xln-C-R-Rigging Runner": {
+    "name": "Rigging Runner"
+  },
+  "xln-C-RW-Sky Terror": {
+    "name": "Sky Terror"
+  },
+  "xln-C-U-Dive Down": {
+    "name": "Dive Down"
+  },
+  "xln-C-U-Favorable Winds": {
+    "name": "Favorable Winds"
+  },
+  "xln-C-U-Siren Stormtamer": {
+    "name": "Siren Stormtamer"
+  },
+  "xln-C-U-Spell Pierce": {
+    "name": "Spell Pierce"
+  },
+  "xln-C-U-Storm Fleet Aerialist": {
+    "name": "Storm Fleet Aerialist"
+  },
+  "xln-C-W-Imperial Aerosaur": {
+    "name": "Imperial Aerosaur"
+  },
+  "xln-R--Treasure Map // Treasure Cove": {
+    "name": "Treasure Map // Treasure Cove"
+  },
+  "xln-R-B-Arguel's Blood Fast // Temple of Aclazotz": {
+    "name": "Arguel's Blood Fast // Temple of Aclazotz"
+  },
+  "xln-R-B-Ruin Raider": {
+    "name": "Ruin Raider"
+  },
+  "xln-R-B-Sword-Point Diplomacy": {
+    "name": "Sword-Point Diplomacy"
+  },
+  "xln-R-B-Vraska's Contempt": {
+    "name": "Vraska's Contempt"
+  },
+  "xln-R-BR-Dragonskull Summit": {
+    "name": "Dragonskull Summit"
+  },
+  "xln-R-BU-Drowned Catacomb": {
+    "name": "Drowned Catacomb"
+  },
+  "xln-R-G-Carnage Tyrant": {
+    "name": "Carnage Tyrant"
+  },
+  "xln-R-GR-Rootbound Crag": {
+    "name": "Rootbound Crag"
+  },
+  "xln-R-GW-Sunpetal Grove": {
+    "name": "Sunpetal Grove"
+  },
+  "xln-R-R-Captain Lannery Storm": {
+    "name": "Captain Lannery Storm"
+  },
+  "xln-R-R-Rampaging Ferocidon": {
+    "name": "Rampaging Ferocidon"
+  },
+  "xln-R-R-Rowdy Crew": {
+    "name": "Rowdy Crew"
+  },
+  "xln-R-U-Entrancing Melody": {
+    "name": "Entrancing Melody"
+  },
+  "xln-R-U-Search for Azcanta // Azcanta, the Sunken Ruin": {
+    "name": "Search for Azcanta // Azcanta, the Sunken Ruin"
+  },
+  "xln-R-UW-Glacial Fortress": {
+    "name": "Glacial Fortress"
+  },
+  "xln-R-W-Kinjalli's Sunwing": {
+    "name": "Kinjalli's Sunwing"
+  },
+  "xln-R-W-Legion's Landing // Adanto, the First Fort": {
+    "name": "Legion's Landing // Adanto, the First Fort"
+  },
+  "xln-R-W-Settle the Wreckage": {
+    "name": "Settle the Wreckage"
+  }
+}
