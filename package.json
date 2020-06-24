@@ -2,7 +2,7 @@
   "name": "cardeval",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://redblacktree.github.io/mtgcardeval",
+  "homepage": "https://www.mtgdraft.guide/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
