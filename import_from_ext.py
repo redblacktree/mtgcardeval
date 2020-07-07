@@ -11,7 +11,7 @@ import json
   },
   [...]
 ]
-  
+
 {
   "cards": [
     {
@@ -40,10 +40,10 @@ def get_card(current_data, card_name):
     if len(cards) == 1:
         return cards[0]
     if len(cards) > 1:
-        print 'WARNING: Found more than one entry for {}'.format(card_name)
+        # print 'WARNING: Found more than one entry for {}'.format(card_name)
         return cards[0]
     else:
-        print 'WARNING: Found no entry for {}'.format(card_name)
+        # print 'WARNING: Found no entry for {}'.format(card_name)
         return None
 
 
@@ -56,14 +56,16 @@ def main(args):
             if "name" in card:
                 current_card = get_card(current_data, card['name'])
                 if current_card is None:
-                    del card['name']
                     print json.dumps(card, indent=2)
                     continue
+                if 'clips' not in current_card:
+                    current_card['clips'] = []
                 current_card['clips'].append({
                     "start": card['start'],
                     "stop": card['stop'],
                     "videoId": card['videoId']
                 })
+                current_card['grade'] = card['grade']
     with open(args.currentdata.split('.')[0] + '.output.json', 'w') as outputfile:
         json.dump(current_data, outputfile)
 
