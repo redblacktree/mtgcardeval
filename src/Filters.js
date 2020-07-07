@@ -28,6 +28,7 @@ class Filters extends React.Component {
           <Form.Group controlId="set">
             <Form.Label>Set</Form.Label>
             <Form.Control as="select" onChange={this.handleSetChange}>
+              <option value="M21">Core Set 2021</option>
               <option value="IKO">Ikoria</option>
               <option value="M20">Core Set 2020</option>
             </Form.Control>

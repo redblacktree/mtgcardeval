@@ -6,22 +6,21 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import './index.css';
-import Header from './Header';
-import CardList from './CardList';
 import CardDetail from "./CardDetail";
-import Options from "./Options";
 import Footer from "./Footer";
 import cards_iko from "./data/IKO.json";
 import cards_m20 from "./data/M20.json";
+import cards_m21 from "./data/M21.json"
 import ControlPanel from "./ControlPanel";
 
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {set: "IKO", selectedCard: null, options: {playbackRate: 1}};
+    this.state = {set: "M21", selectedCard: null, options: {playbackRate: 1}};
     this.data = {
       "IKO": cards_iko,
-      "M20": cards_m20
+      "M20": cards_m20,
+      "M21": cards_m21
     };
 
     ReactGA.initialize('UA-164496702-1');
