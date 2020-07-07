@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg fill-opacity="1" xmlns:xlink="http://www.w3.org/1999/xlink" color-rendering="auto" color-interpolation="auto" text-rendering="auto" stroke="black" stroke-linecap="square" stroke-miterlimit="10" shape-rendering="auto" stroke-opacity="1" fill="black" stroke-dasharray="none" font-weight="normal" stroke-width="1" xmlns="http://www.w3.org/2000/svg" font-family="'Dialog'" font-style="normal" stroke-linejoin="miter" font-size="12" stroke-dashoffset="0" image-rendering="auto">
+  <!--Unicode Character 'SPEAKER WITH THREE SOUND WAVES' (U+1F50A)-->
+  <defs id="genericDefs"/>
+  <g>
+    <g>
+      <path d="M266.7656 275.7656 Q266.7656 340.7344 222.8906 396.2812 L212.625 388.2656 Q253.8281 337.3594 253.8281 275.7656 Q253.8281 215.4375 212.7656 163.4062 L223.0312 155.3906 Q266.7656 210.9375 266.7656 275.7656 ZM235.8281 275.7656 Q235.8281 329.625 199.5469 377.0156 L189.2812 369.2812 Q222.8906 325.4062 222.8906 275.7656 Q222.8906 226.2656 189.2812 182.3906 L199.5469 174.6562 Q235.8281 221.0625 235.8281 275.7656 ZM204.8906 275.7656 Q204.8906 318.375 176.0625 357.75 L165.6562 350.1562 Q191.9531 315 191.9531 275.7656 Q191.9531 237.2344 165.6562 201.375 L176.0625 193.7812 Q204.8906 233.1562 204.8906 275.7656 ZM136.125 378.1406 L69.8906 316.9688 L28.125 316.9688 L28.125 234.5625 L70.0312 234.5625 L136.125 173.5312 L136.125 378.1406 Z" stroke="none"/>
+    </g>
+  </g>
+<script xmlns=""/></svg>
