@@ -40,15 +40,23 @@ import requests
 BASIC_LANDS = ['Plains', 'Island', 'Swamp', 'Mountain', 'Forest']
 
 
-def transform_data(scryfall_card):
-    card = {
-        "name": scryfall_card["name"],
-        "color": ''.join(scryfall_card["color_identity"]),
-        "image_url": scryfall_card["image_uris"]["png"],
-        "set_code": scryfall_card["set"],
-        "collector_num": scryfall_card["collector_number"]
-    }
-    return card
+def transform_data(scryfall_card, preferred_face=0):
+    try:
+        if "image_uris" in scryfall_card:
+            image_url = scryfall_card["image_uris"]["png"],
+        elif "card_faces" in scryfall_card:
+            image_url = scryfall_card["card_faces"][preferred_face]["image_uris"]["png"]
+        card = {
+            "name": scryfall_card["name"],
+            "color": ''.join(scryfall_card["color_identity"]),
+            "image_url": image_url,
+            "set_code": scryfall_card["set"],
+            "collector_num": scryfall_card["collector_number"]
+        }
+        return card
+    except KeyError: # If the script has trouble finding something, print what we did find for debugging
+        print(scryfall_card)
+        raise
 
 
 def get_scryfall_data(set, end_collector_num, chunk_size=75):
@@ -65,8 +73,8 @@ def get_scryfall_data(set, end_collector_num, chunk_size=75):
         resp = requests.post('https://api.scryfall.com/cards/collection', json={"identifiers": ids_in_chunk})
         resp = json.loads(resp.content)
         if len(resp['not_found']) > 0:
-            print 'WARNING: some IDs not found: '
-            print resp['not_found']
+            print('WARNING: some IDs not found: ')
+            print(resp['not_found'])
         scryfall_card_data.extend(resp['data'])
         time.sleep(1.1)
     return [x for x in scryfall_card_data if x['name'] not in BASIC_LANDS]
@@ -74,8 +82,8 @@ def get_scryfall_data(set, end_collector_num, chunk_size=75):
 
 def main(args):
     scryfall_data = get_scryfall_data(args.setcode, int(args.cardsinset))
-    data = [transform_data(x) for x in scryfall_data]
-    print json.dumps(data, indent=2)
+    data = [transform_data(x, args.preferred_face) for x in scryfall_data]
+    print( json.dumps(data, indent=2))
 
 
 if __name__ == "__main__":
@@ -85,6 +93,8 @@ if __name__ == "__main__":
     # Required positional argument
     parser.add_argument("setcode", help="Set code to collect data for (e.g. m21 iko, etc)")
     parser.add_argument("cardsinset", help="Number of cards in set, excluding promo cards, etc")
+    parser.add_argument("-f", "--face", action="store", dest="preferred_face", default=0,
+                        help="For double-faced cards, the preferred face for display")
 
     # Optional verbosity counter (eg. -v, -vv, -vvv, etc.)
     parser.add_argument(
