@@ -19,7 +19,8 @@ browser.runtime.onMessage.addListener(request => {
     console.log('seeking to: ' + request.startTime);
     p.seekTo(request.startTime, true);
     p.playVideo();
-    const stopAfter = request.stopTime - request.startTime;
+    const stopAfter = (request.stopTime - request.startTime)
+        / p.getPlaybackRate(); // adjust timing for playback rate;
     console.log(`will stop after ${stopAfter} seconds`);
     if (stopTimeout) {
       console.log('clearTimeout');
