@@ -40,10 +40,10 @@ def get_card(current_data, card_name):
     if len(cards) == 1:
         return cards[0]
     if len(cards) > 1:
-        # print 'WARNING: Found more than one entry for {}'.format(card_name)
+        print('WARNING: Found more than one entry for {}'.format(card_name))
         return cards[0]
     else:
-        # print 'WARNING: Found no entry for {}'.format(card_name)
+        print('WARNING: Found no entry for {}'.format(card_name))
         return None
 
 
@@ -56,7 +56,7 @@ def main(args):
             if "name" in card:
                 current_card = get_card(current_data, card['name'])
                 if current_card is None:
-                    print json.dumps(card, indent=2)
+                    print(json.dumps(card, indent=2))
                     continue
                 if 'clips' not in current_card:
                     current_card['clips'] = []
