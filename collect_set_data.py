@@ -83,7 +83,11 @@ def get_scryfall_data(set, end_collector_num, chunk_size=75):
 def main(args):
     scryfall_data = get_scryfall_data(args.setcode, int(args.cardsinset))
     data = [transform_data(x, args.preferred_face) for x in scryfall_data]
-    print( json.dumps(data, indent=2))
+    if args.outfile:
+        with open(args.outfile, "w") as outfile:
+            json.dump(data, outfile, indent=2)
+    else:
+        print(json.dumps(data, indent=2))
 
 
 if __name__ == "__main__":
@@ -93,6 +97,8 @@ if __name__ == "__main__":
     # Required positional argument
     parser.add_argument("setcode", help="Set code to collect data for (e.g. m21 iko, etc)")
     parser.add_argument("cardsinset", help="Number of cards in set, excluding promo cards, etc")
+    parser.add_argument("-o", "--outfile", action="store", dest="outfile", default=None,
+                        help="Name of file to output results to")
     parser.add_argument("-f", "--face", action="store", dest="preferred_face", default=0,
                         help="For double-faced cards, the preferred face for display")
 
