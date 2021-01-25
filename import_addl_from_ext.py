@@ -57,7 +57,7 @@ def main(args):
                 current_card = get_card(current_data, card['name'])
                 if current_card is None:
                     del card['name']
-                    print json.dumps(card, indent=2)
+                    print(json.dumps(card, indent=2))
                     continue
                 current_card['clips'].append({
                     "start": card['start'],
