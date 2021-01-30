@@ -143,7 +143,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/1/3/130ee895-1e5e-4f82-bb66-e1275bac75dd.png?1611054468"
       ],
       "set_code": "khm",
-      "collector_num": "9"
+      "collector_num": "9",
+      "clips": [
+        {
+          "start": "418",
+          "stop": "647",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Doomskar Oracle",
@@ -186,7 +194,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d9f08552-7f1a-4fdb-9a70-d99cdbf75910.png?1611000537"
       ],
       "set_code": "khm",
-      "collector_num": "12"
+      "collector_num": "12",
+      "clips": [
+        {
+          "start": "648",
+          "stop": "734",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Gods' Hall Guardian",
@@ -227,7 +243,15 @@
       "color": "W",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/97502411-5c93-434c-b77b-ceb2c32feae7.png?1608253263",
       "set_code": "khm",
-      "collector_num": "15"
+      "collector_num": "15",
+      "clips": [
+        {
+          "start": "734",
+          "stop": "949",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A+"
     },
     {
       "name": "Invoke the Divine",
@@ -304,14 +328,30 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/3/03595195-3be2-4d18-b5c0-43b2dcc1c0f5.png?1610585956"
       ],
       "set_code": "khm",
-      "collector_num": "20"
+      "collector_num": "20",
+      "clips": [
+        {
+          "start": "949",
+          "stop": "1037",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(B)"
     },
     {
       "name": "Reidane, God of the Worthy // Valkmira, Protector's Shield",
       "color": "W",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/3606519e-5677-4c21-a34e-be195b6669fa.png?1611000242",
       "set_code": "khm",
-      "collector_num": "21"
+      "collector_num": "21",
+      "clips": [
+        {
+          "start": "1037",
+          "stop": "1218",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A/A-"
     },
     {
       "name": "Resplendent Marshal",
@@ -320,7 +360,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/e/5e849bec-2ee6-4c83-83e6-bf9f5543e414.png?1611027770"
       ],
       "set_code": "khm",
-      "collector_num": "22"
+      "collector_num": "22",
+      "clips": [
+        {
+          "start": "1218",
+          "stop": "1292",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Revitalize",
@@ -346,7 +394,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/2/02fb5f9f-8750-4eb5-a03a-6dacc60e0b90.png?1610996474"
       ],
       "set_code": "khm",
-      "collector_num": "24"
+      "collector_num": "24",
+      "clips": [
+        {
+          "start": "1292",
+          "stop": "1397",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Rune of Sustenance",
@@ -372,7 +428,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/4/3/4368b087-05a0-4a88-ab43-0cd16446239b.png?1611077052"
       ],
       "set_code": "khm",
-      "collector_num": "26"
+      "collector_num": "26",
+      "clips": [
+        {
+          "start": "1397",
+          "stop": "1525",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(B)"
     },
     {
       "name": "Search for Glory",
@@ -381,7 +445,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b65c215d-562d-4c7c-bc9f-b1d741050158.png?1610996917"
       ],
       "set_code": "khm",
-      "collector_num": "27"
+      "collector_num": "27",
+      "clips": [
+        {
+          "start": "1525",
+          "stop": "1699",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(D)"
     },
     {
       "name": "Shepherd of the Cosmos",
@@ -407,7 +479,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/a/e/aeec3c1e-e612-4700-888e-300912932552.png?1610151617"
       ],
       "set_code": "khm",
-      "collector_num": "29"
+      "collector_num": "29",
+      "clips": [
+        {
+          "start": "1699",
+          "stop": "1853",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Spectral Steel",
@@ -467,7 +547,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/ea660d42-a441-48d8-98c1-00933cde94a4.png?1610586121"
       ],
       "set_code": "khm",
-      "collector_num": "33"
+      "collector_num": "33",
+      "clips": [
+        {
+          "start": "1853",
+          "stop": "2029",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A+"
     },
     {
       "name": "Story Seeker",
@@ -576,7 +664,15 @@
       "color": "U",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/5/d/5d131784-c1a3-463e-a37b-b720af67ab62.png?1611323243",
       "set_code": "khm",
-      "collector_num": "40"
+      "collector_num": "40",
+      "clips": [
+        {
+          "start": "2064",
+          "stop": "2285",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Alrund's Epiphany",
@@ -585,7 +681,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/9/c94fcb53-a7bd-4a80-a536-9fb0eb24261a.png?1610586029"
       ],
       "set_code": "khm",
-      "collector_num": "41"
+      "collector_num": "41",
+      "clips": [
+        {
+          "start": "2285",
+          "stop": "2570",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Annul",
@@ -611,7 +715,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/ea56de43-c0fd-4627-846d-41a962b95f17.png?1610996844"
       ],
       "set_code": "khm",
-      "collector_num": "43"
+      "collector_num": "43",
+      "clips": [
+        {
+          "start": "2570",
+          "stop": "3008",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "F/BA(B)"
     },
     {
       "name": "Augury Raven",
@@ -720,7 +832,15 @@
       "color": "U",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fab2fca4-a99f-4ffe-9c02-edb6e0be2358.png?1610648527",
       "set_code": "khm",
-      "collector_num": "50"
+      "collector_num": "50",
+      "clips": [
+        {
+          "start": "3008",
+          "stop": "3374.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Cosmos Charger",
@@ -729,7 +849,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/4/e/4ec318c6-b718-436f-b9e8-e0c6154e5010.png?1610585974"
       ],
       "set_code": "khm",
-      "collector_num": "51"
+      "collector_num": "51",
+      "clips": [
+        {
+          "start": "3374.5",
+          "stop": "3604.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Cyclone Summoner",
@@ -738,7 +866,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/2/b2d40071-cadf-48de-a8ed-d55adbfab632.png?1610656719"
       ],
       "set_code": "khm",
-      "collector_num": "52"
+      "collector_num": "52",
+      "clips": [
+        {
+          "start": "3604.5",
+          "stop": "3760",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Depart the Realm",
@@ -883,7 +1019,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/4/e4386e5c-32b1-4096-a93f-fedd1a4801fc.png?1610996879"
       ],
       "set_code": "khm",
-      "collector_num": "61"
+      "collector_num": "61",
+      "clips": [
+        {
+          "start": "3760",
+          "stop": "4020",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B"
     },
     {
       "name": "Icebind Pillar",
@@ -909,7 +1053,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/1/f1fdb9bb-09a2-4ff7-bcd4-35ea33c1b752.png?1611078087"
       ],
       "set_code": "khm",
-      "collector_num": "63"
+      "collector_num": "63",
+      "clips": [
+        {
+          "start": "4020",
+          "stop": "4422",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(A)"
     },
     {
       "name": "Inga Rune-Eyes",
@@ -1003,7 +1155,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7b877e2-60eb-46cd-acd7-8555b9e7e993.png?1610656808"
       ],
       "set_code": "khm",
-      "collector_num": "69"
+      "collector_num": "69",
+      "clips": [
+        {
+          "start": "4422",
+          "stop": "4789",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "F"
     },
     {
       "name": "Orvar, the All-Form",
@@ -1012,7 +1172,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/f/7f36775e-9e48-49cc-a771-d58481712edc.png?1610997185"
       ],
       "set_code": "khm",
-      "collector_num": "70"
+      "collector_num": "70",
+      "clips": [
+        {
+          "start": "4789",
+          "stop": "5032",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B"
     },
     {
       "name": "Pilfering Hawk",
@@ -1055,7 +1223,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/eadee447-ce9a-4dea-a074-bfd04197548e.png?1610152006"
       ],
       "set_code": "khm",
-      "collector_num": "73"
+      "collector_num": "73",
+      "clips": [
+        {
+          "start": "5032",
+          "stop": "5428",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(B)/BA(A)"
     },
     {
       "name": "Run Ashore",
@@ -1149,7 +1325,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d8606f40-0af4-443b-a413-a88dc3e8f32e.png?1611054394"
       ],
       "set_code": "khm",
-      "collector_num": "79"
+      "collector_num": "79",
+      "clips": [
+        {
+          "start": "5443",
+          "stop": "5783",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C+/B"
     },
     {
       "name": "Bloodsky Berserker",
@@ -1175,7 +1359,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/3/f358a52b-8044-404e-8d04-2ec5903386cc.png?1611027869"
       ],
       "set_code": "khm",
-      "collector_num": "81"
+      "collector_num": "81",
+      "clips": [
+        {
+          "start": "5783",
+          "stop": "5935.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A+"
     },
     {
       "name": "Crippling Fear",
@@ -1184,7 +1376,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/d/7d9bd181-b99f-477e-bcfb-9b78cbf51224.png?1611110713"
       ],
       "set_code": "khm",
-      "collector_num": "82"
+      "collector_num": "82",
+      "clips": [
+        {
+          "start": "5935.5",
+          "stop": "6119",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Deathknell Berserker",
@@ -1244,7 +1444,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/6/76d8e0ff-e720-41ca-af69-35585a2d7ae2.png?1610996857"
       ],
       "set_code": "khm",
-      "collector_num": "86"
+      "collector_num": "86",
+      "clips": [
+        {
+          "start": "6119",
+          "stop": "6246.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Draugr Recruiter",
@@ -1304,7 +1512,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/f/ff1d88a6-a74d-44b5-b7a8-866e866807f1.png?1611170269"
       ],
       "set_code": "khm",
-      "collector_num": "90"
+      "collector_num": "90",
+      "clips": [
+        {
+          "start": "6246.5",
+          "stop": "6507",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B"
     },
     {
       "name": "Duskwielder",
@@ -1328,7 +1544,15 @@
       "color": "B",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9dfdb73d-b001-4a59-b79e-8c8c1baea116.png?1610397419",
       "set_code": "khm",
-      "collector_num": "92"
+      "collector_num": "92",
+      "clips": [
+        {
+          "start": "6507",
+          "stop": "6792",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B-"
     },
     {
       "name": "Elderfang Disciple",
@@ -1354,7 +1578,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/0/d00edda3-ddbc-44ee-a14b-47a701445bb0.png?1610852419"
       ],
       "set_code": "khm",
-      "collector_num": "94"
+      "collector_num": "94",
+      "clips": [
+        {
+          "start": "6792",
+          "stop": "6843",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Feed the Serpent",
@@ -1414,7 +1646,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/2/a/2ac5bca0-35fe-47be-a78c-d5eac68a3bfa.png?1611170310"
       ],
       "set_code": "khm",
-      "collector_num": "98"
+      "collector_num": "98",
+      "clips": [
+        {
+          "start": "6843",
+          "stop": "7092",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B"
     },
     {
       "name": "Infernal Pet",
@@ -1559,7 +1799,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9d3a1ec1-f362-494d-a23b-6a963ce44fdd.png?1610586117"
       ],
       "set_code": "khm",
-      "collector_num": "107"
+      "collector_num": "107",
+      "clips": [
+        {
+          "start": "7092",
+          "stop": "7268",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B-/B"
     },
     {
       "name": "Rune of Mortality",
@@ -1585,7 +1833,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fad2c6d4-03dd-4dab-861c-77c55bda0db7.png?1610642286"
       ],
       "set_code": "khm",
-      "collector_num": "109"
+      "collector_num": "109",
+      "clips": [
+        {
+          "start": "7268",
+          "stop": "7358",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B"
     },
     {
       "name": "Skemfar Shadowsage",
@@ -1626,7 +1882,15 @@
       "color": "B",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/1/4/14dc88ee-bba9-4625-af0d-89f3762a0ead.png?1610586381",
       "set_code": "khm",
-      "collector_num": "112"
+      "collector_num": "112",
+      "clips": [
+        {
+          "start": "7358",
+          "stop": "7567",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Tergrid's Shadow",
@@ -1650,7 +1914,15 @@
       "color": "BR",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/ea7e4c65-b4c4-4795-9475-3cba71c50ea5.png?1610153366",
       "set_code": "khm",
-      "collector_num": "114"
+      "collector_num": "114",
+      "clips": [
+        {
+          "start": "7567",
+          "stop": "7809",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A+"
     },
     {
       "name": "Varragoth, Bloodsky Sire",
@@ -1659,7 +1931,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/f/efa8dbf0-4e5a-452b-826f-5813e8cd9d85.png?1610910043"
       ],
       "set_code": "khm",
-      "collector_num": "115"
+      "collector_num": "115",
+      "clips": [
+        {
+          "start": "7809",
+          "stop": "7895",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+/A-"
     },
     {
       "name": "Vengeful Reaper",
@@ -1736,7 +2016,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/f/ff334bba-0805-4d5d-86c4-99185fe9a77a.png?1610910031"
       ],
       "set_code": "khm",
-      "collector_num": "120"
+      "collector_num": "120",
+      "clips": [
+        {
+          "start": "7897",
+          "stop": "7990",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B"
     },
     {
       "name": "Axgard Cavalry",
@@ -1777,7 +2065,15 @@
       "color": "R",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/4/44657ab1-0a6a-4a5f-9688-86f239083821.png?1611054410",
       "set_code": "khm",
-      "collector_num": "123"
+      "collector_num": "123",
+      "clips": [
+        {
+          "start": "7990",
+          "stop": "8215",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Breakneck Berserker",
@@ -1803,7 +2099,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a15edad1-ff68-4f20-95f6-99fe549bea98.png?1610132515"
       ],
       "set_code": "khm",
-      "collector_num": "125"
+      "collector_num": "125",
+      "clips": [
+        {
+          "start": "8215",
+          "stop": "8360",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-/A"
     },
     {
       "name": "Cinderheart Giant",
@@ -1897,7 +2201,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e7f22fe4-2390-4c3d-8b5e-0cf398d97f6a.png?1611170448"
       ],
       "set_code": "khm",
-      "collector_num": "131"
+      "collector_num": "131",
+      "clips": [
+        {
+          "start": "8360",
+          "stop": "8430.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Dual Strike",
@@ -2025,7 +2337,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9d914868-9000-4df2-a818-0ef8a7f636ae.png?1610079316"
       ],
       "set_code": "khm",
-      "collector_num": "139"
+      "collector_num": "139",
+      "clips": [
+        {
+          "start": "8430.5",
+          "stop": "8521.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A/A+"
     },
     {
       "name": "Hagi Mob",
@@ -2068,7 +2388,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/7/079e6263-e54c-4899-a336-5315909b9322.png?1608253195"
       ],
       "set_code": "khm",
-      "collector_num": "142"
+      "collector_num": "142",
+      "clips": [
+        {
+          "start": "8521.5",
+          "stop": "8650",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C+"
     },
     {
       "name": "Open the Omenpaths",
@@ -2111,7 +2439,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/5/c5bbffb9-1f1c-40e5-97f4-29bf1fc68625.png?1610586090"
       ],
       "set_code": "khm",
-      "collector_num": "145"
+      "collector_num": "145",
+      "clips": [
+        {
+          "start": "8649.5",
+          "stop": "8796.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A/A-"
     },
     {
       "name": "Reckless Crew",
@@ -2120,7 +2456,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bdd68d9d-b0b9-4915-8a12-658eb0e3dd4a.png?1611077208"
       ],
       "set_code": "khm",
-      "collector_num": "146"
+      "collector_num": "146",
+      "clips": [
+        {
+          "start": "8796.5",
+          "stop": "8854.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "F"
     },
     {
       "name": "Run Amok",
@@ -2231,14 +2575,30 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/d/dd921e27-3e08-438c-bec2-723226d35175.png?1610391556"
       ],
       "set_code": "khm",
-      "collector_num": "153"
+      "collector_num": "153",
+      "clips": [
+        {
+          "start": "8854.5",
+          "stop": "8900",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "F"
     },
     {
       "name": "Toralf, God of Fury // Toralf's Hammer",
       "color": "R",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/2/22a6a5f1-1405-4efb-af3e-e1f58d664e99.png?1610652603",
       "set_code": "khm",
-      "collector_num": "154"
+      "collector_num": "154",
+      "clips": [
+        {
+          "start": "8899.5",
+          "stop": "9081.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A+"
     },
     {
       "name": "Tormentor's Helm",
@@ -2264,7 +2624,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/2/b251aa7c-d011-4b52-ab92-415d536c0182.png?1610996938"
       ],
       "set_code": "khm",
-      "collector_num": "156"
+      "collector_num": "156",
+      "clips": [
+        {
+          "start": "9081.5",
+          "stop": "9175",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Tuskeri Firewalker",
@@ -2324,7 +2692,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/b/cb3377d9-eec3-49b9-a3a7-e540d2038f51.png?1611000018"
       ],
       "set_code": "khm",
-      "collector_num": "160"
+      "collector_num": "160",
+      "clips": [
+        {
+          "start": "9183",
+          "stop": "9266",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A/A+"
     },
     {
       "name": "Blessing of Frost",
@@ -2333,7 +2709,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/4/2/42f01f4d-491e-4f25-a017-a0d9c437ac8c.png?1610999394"
       ],
       "set_code": "khm",
-      "collector_num": "161"
+      "collector_num": "161",
+      "clips": [
+        {
+          "start": "9266",
+          "stop": "9357",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(B)"
     },
     {
       "name": "Blizzard Brawl",
@@ -2427,14 +2811,30 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/58da074a-a776-4e3f-be04-9e7f18320ae1.png?1610394530"
       ],
       "set_code": "khm",
-      "collector_num": "167"
+      "collector_num": "167",
+      "clips": [
+        {
+          "start": "9357",
+          "stop": "9428",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Esika, God of the Tree // The Prismatic Bridge",
       "color": "BGRUW",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6.png?1610295185",
       "set_code": "khm",
-      "collector_num": "168"
+      "collector_num": "168",
+      "clips": [
+        {
+          "start": "9428",
+          "stop": "9595",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C+"
     },
     {
       "name": "Esika's Chariot",
@@ -2443,7 +2843,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/a/8/a87606cc-fbf0-4e2c-9798-f1c935d0573d.png?1610226891"
       ],
       "set_code": "khm",
-      "collector_num": "169"
+      "collector_num": "169",
+      "clips": [
+        {
+          "start": "9595",
+          "stop": "9708",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Fynn, the Fangbearer",
@@ -2571,7 +2979,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/a/c/ac0e50fa-5114-4f96-89f4-000906da7c76.png?1611027904"
       ],
       "set_code": "khm",
-      "collector_num": "177"
+      "collector_num": "177",
+      "clips": [
+        {
+          "start": "9708",
+          "stop": "9814",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "D"
     },
     {
       "name": "Jaspera Sentinel",
@@ -2595,7 +3011,15 @@
       "color": "BGU",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/c/6/c697548f-925b-405e-970a-4e78067d5c8e.png?1610996900",
       "set_code": "khm",
-      "collector_num": "179"
+      "collector_num": "179",
+      "clips": [
+        {
+          "start": "9814",
+          "stop": "10087",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(A)"
     },
     {
       "name": "King Harald's Revenge",
@@ -2619,7 +3043,15 @@
       "color": "G",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/7/b76bed98-30b1-4572-b36c-684ada06826c.png?1610368590",
       "set_code": "khm",
-      "collector_num": "181"
+      "collector_num": "181",
+      "clips": [
+        {
+          "start": "10087",
+          "stop": "10155",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "D"
     },
     {
       "name": "Littjara Glade-Warden",
@@ -2679,7 +3111,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/7/b759b0f6-342c-4bba-89f1-8451835d8c45.png?1611000660"
       ],
       "set_code": "khm",
-      "collector_num": "185"
+      "collector_num": "185",
+      "clips": [
+        {
+          "start": "10155",
+          "stop": "10308.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+/A-"
     },
     {
       "name": "Path to the World Tree",
@@ -2722,7 +3162,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/8/c8212667-7e18-42a5-9f36-4f8a6ad12f83.png?1610152605"
       ],
       "set_code": "khm",
-      "collector_num": "188"
+      "collector_num": "188",
+      "clips": [
+        {
+          "start": "10308.5",
+          "stop": "10389.5",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Rootless Yew",
@@ -2867,7 +3315,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/9/f9e79b59-94c8-4697-bf88-f0a0433170f5.png?1609099942"
       ],
       "set_code": "khm",
-      "collector_num": "197"
+      "collector_num": "197",
+      "clips": [
+        {
+          "start": "10389.5",
+          "stop": "10484",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B"
     },
     {
       "name": "Tyvar Kell",
@@ -2876,7 +3332,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8d18008f-10d2-4cdf-b4b5-7675782a8b0d.png?1610391454"
       ],
       "set_code": "khm",
-      "collector_num": "198"
+      "collector_num": "198",
+      "clips": [
+        {
+          "start": "10484",
+          "stop": "10673",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B-"
     },
     {
       "name": "Vorinclex, Monstrous Raider",
@@ -2885,7 +3349,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/9/2/92613468-205e-488b-930d-11908477e9f8.png?1610149607"
       ],
       "set_code": "khm",
-      "collector_num": "199"
+      "collector_num": "199",
+      "clips": [
+        {
+          "start": "10673",
+          "stop": "10798",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Aegar, the Freezing Flame",
@@ -2945,7 +3417,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/d/cd31ec15-2fe0-40ab-b320-bc4333db4787.png?1611170565"
       ],
       "set_code": "khm",
-      "collector_num": "203"
+      "collector_num": "203",
+      "clips": [
+        {
+          "start": "10813",
+          "stop": "10944",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C/C+"
     },
     {
       "name": "Battle of Frost and Fire",
@@ -2954,7 +3434,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/620ed5b7-8874-40d0-9245-98876bdec153.png?1610562185"
       ],
       "set_code": "khm",
-      "collector_num": "204"
+      "collector_num": "204",
+      "clips": [
+        {
+          "start": "10944",
+          "stop": "11063",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "The Bears of Littjara",
@@ -2963,7 +3451,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/be43a643-6cb7-4bb6-a28d-8ad30b7fbb6d.png?1610909969"
       ],
       "set_code": "khm",
-      "collector_num": "205"
+      "collector_num": "205",
+      "clips": [
+        {
+          "start": "11063",
+          "stop": "11274",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+/A-"
     },
     {
       "name": "Binding the Old Gods",
@@ -2989,7 +3485,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/6/6/669975ed-0501-4b48-988d-29c1215179a4.png?1610999315"
       ],
       "set_code": "khm",
-      "collector_num": "207"
+      "collector_num": "207",
+      "clips": [
+        {
+          "start": "11274",
+          "stop": "11337",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Fall of the Impostor",
@@ -3032,7 +3536,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/3/03dff23e-d7e3-4d75-a9dc-fdf4a42f31e0.png?1610910004"
       ],
       "set_code": "khm",
-      "collector_num": "210"
+      "collector_num": "210",
+      "clips": [
+        {
+          "start": "11337",
+          "stop": "11445",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A+"
     },
     {
       "name": "Forging the Tyrite Sword",
@@ -3075,7 +3587,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e7c5f681-0145-45e9-b943-ca9784cfdea0.png?1611000409"
       ],
       "set_code": "khm",
-      "collector_num": "213"
+      "collector_num": "213",
+      "clips": [
+        {
+          "start": "11445",
+          "stop": "11593",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(B)"
     },
     {
       "name": "Immersturm Predator",
@@ -3084,7 +3604,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/d/0d83d2d9-b9d0-47f5-989b-f2c726401ade.png?1610999503"
       ],
       "set_code": "khm",
-      "collector_num": "214"
+      "collector_num": "214",
+      "clips": [
+        {
+          "start": "11593",
+          "stop": "11722",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Invasion of the Giants",
@@ -3144,7 +3672,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/1/6/166c0bd1-b59d-4644-832f-888a4ca3a0aa.png?1608253213"
       ],
       "set_code": "khm",
-      "collector_num": "218"
+      "collector_num": "218",
+      "clips": [
+        {
+          "start": "11722",
+          "stop": "11911",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A+"
     },
     {
       "name": "King Narfi's Betrayal",
@@ -3153,7 +3689,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c30ff1fa-6639-492a-b257-934e5818c98f.png?1611170592"
       ],
       "set_code": "khm",
-      "collector_num": "219"
+      "collector_num": "219",
+      "clips": [
+        {
+          "start": "11911",
+          "stop": "12035",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C+"
     },
     {
       "name": "Koll, the Forgemaster",
@@ -3179,7 +3723,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/2/d/2de25ea4-284a-4c16-b823-048ff00c6a03.png?1610152349"
       ],
       "set_code": "khm",
-      "collector_num": "221"
+      "collector_num": "221",
+      "clips": [
+        {
+          "start": "12035",
+          "stop": "12138",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A+"
     },
     {
       "name": "Maja, Bretagard Protector",
@@ -3239,7 +3791,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/6/c/6c4e9cfe-e72e-46a1-a8d8-9fda5f2bae73.png?1610065852"
       ],
       "set_code": "khm",
-      "collector_num": "225"
+      "collector_num": "225",
+      "clips": [
+        {
+          "start": "12137.5",
+          "stop": "12375",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Niko Defies Destiny",
@@ -3265,7 +3825,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/0/d00bd457-e1cc-45e1-8b2e-58f886bd6df8.png?1610802543"
       ],
       "set_code": "khm",
-      "collector_num": "227"
+      "collector_num": "227",
+      "clips": [
+        {
+          "start": "12375",
+          "stop": "12465",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Sarulf, Realm Eater",
@@ -3274,7 +3842,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/c/bcecf9ba-36da-490a-9460-99ff87d99fbd.png?1608311916"
       ],
       "set_code": "khm",
-      "collector_num": "228"
+      "collector_num": "228",
+      "clips": [
+        {
+          "start": "12465",
+          "stop": "12622",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A"
     },
     {
       "name": "Showdown of the Skalds",
@@ -3283,7 +3859,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/3/d/3d9d840e-1f13-44e3-a4de-903cfa58a346.png?1608253097"
       ],
       "set_code": "khm",
-      "collector_num": "229"
+      "collector_num": "229",
+      "clips": [
+        {
+          "start": "12622",
+          "stop": "12727",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "A-"
     },
     {
       "name": "Svella, Ice Shaper",
@@ -3360,7 +3944,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/36016324-384c-4c68-8f73-8f39a244c879.png?1610586318"
       ],
       "set_code": "khm",
-      "collector_num": "234"
+      "collector_num": "234",
+      "clips": [
+        {
+          "start": "12726",
+          "stop": "12922",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "SB(B)"
     },
     {
       "name": "Bloodline Pretender",
@@ -3403,7 +3995,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/6/b/6bf084fe-7762-49c5-974a-cdecc10666b3.png?1610802547"
       ],
       "set_code": "khm",
-      "collector_num": "237"
+      "collector_num": "237",
+      "clips": [
+        {
+          "start": "12949",
+          "stop": "13231",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "B+"
     },
     {
       "name": "Funeral Longboat",
@@ -3446,7 +4046,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/471d2aef-cfd4-4131-bbc7-62eeed9f3343.png?1610304401"
       ],
       "set_code": "khm",
-      "collector_num": "240"
+      "collector_num": "240",
+      "clips": [
+        {
+          "start": "13231",
+          "stop": "13354",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "BA(B)"
     },
     {
       "name": "Pyre of Heroes",
@@ -3455,7 +4063,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/a/e/ae9a8e44-f5de-497d-be48-adf1bcbaec97.png?1608253115"
       ],
       "set_code": "khm",
-      "collector_num": "241"
+      "collector_num": "241",
+      "clips": [
+        {
+          "start": "13354",
+          "stop": "13468",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "F"
     },
     {
       "name": "Raiders' Karve",
@@ -3615,14 +4231,30 @@
       "color": "GU",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b6de14ae-0132-4261-af00-630bf15918cd.png?1608226844",
       "set_code": "khm",
-      "collector_num": "251"
+      "collector_num": "251",
+      "clips": [
+        {
+          "start": "13472",
+          "stop": "13519",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C+"
     },
     {
       "name": "Blightstep Pathway // Searstep Pathway",
       "color": "BR",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/0/c/0ce39a19-f51d-4a35-ae80-5b82eb15fcff.png?1608058149",
       "set_code": "khm",
-      "collector_num": "252"
+      "collector_num": "252",
+      "clips": [
+        {
+          "start": "13472",
+          "stop": "13519",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C+"
     },
     {
       "name": "Bretagard Stronghold",
@@ -3646,7 +4278,15 @@
       "color": "BG",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/8/7/87a4e5fe-161f-42da-9ca2-67c8e8970e94.png?1608057969",
       "set_code": "khm",
-      "collector_num": "254"
+      "collector_num": "254",
+      "clips": [
+        {
+          "start": "13472",
+          "stop": "13519",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C+"
     },
     {
       "name": "Faceless Haven",
@@ -3655,7 +4295,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/3/e3cd82e5-6072-4334-a493-01ca4ad6b4eb.png?1610996860"
       ],
       "set_code": "khm",
-      "collector_num": "255"
+      "collector_num": "255",
+      "clips": [
+        {
+          "start": "13519",
+          "stop": "13584",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C/C+"
     },
     {
       "name": "Gates of Istfell",
@@ -3730,7 +4378,15 @@
       "color": "UW",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7ef37cb3-d803-47d7-8a01-9c803aa2eadc.png?1608058266",
       "set_code": "khm",
-      "collector_num": "260"
+      "collector_num": "260",
+      "clips": [
+        {
+          "start": "13472",
+          "stop": "13519",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "C+"
     },
     {
       "name": "Highland Forest",
@@ -3926,7 +4582,15 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/309ff3bf-acd3-4bea-b518-6e25f6cfce61.png?1610824869"
       ],
       "set_code": "khm",
-      "collector_num": "272"
+      "collector_num": "272",
+      "clips": [
+        {
+          "start": "13584",
+          "stop": "13706",
+          "videoId": "aBkKxA0RKtw"
+        }
+      ],
+      "grade": "F"
     },
     {
       "name": "Volatile Fjord",
@@ -4027,8 +4691,8 @@
   ],
   "metadata": {
     "show_names": {
-      "jcqfqyb5-nc": "LR Set Review",
-      "7ly0rX2uiCc": "LR Set Review"
+      "VQ-HwoeduNQ": "LR Set Review",
+      "aBkKxA0RKtw": "LR Set Review"
     }
   }
 }
