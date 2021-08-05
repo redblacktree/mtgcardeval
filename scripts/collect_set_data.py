@@ -82,7 +82,7 @@ def get_scryfall_data(set, end_collector_num, chunk_size=75):
 
 def main(args):
     scryfall_data = get_scryfall_data(args.setcode, int(args.cardsinset))
-    data = [transform_data(x, args.preferred_face) for x in scryfall_data]
+    data = {'cards': [transform_data(x, args.preferred_face) for x in scryfall_data]}
     if args.outfile:
         with open(args.outfile, "w") as outfile:
             json.dump(data, outfile, indent=2)
