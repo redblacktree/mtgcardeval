@@ -1,0 +1,4447 @@
+{
+  "cards": [
+    {
+      "name": "+2 Mace",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/8/e882c9f9-bf30-46b6-bedc-379d2c80e5cb.png?1625109691"
+      ],
+      "set_code": "afr",
+      "collector_num": "1",
+      "clips": [
+        {
+          "start": "2996",
+          "stop": "3155",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Aberrant Mind Sorcerer",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d9c6401a-e152-4acf-a2ca-75c484f296d5.png?1625686065"
+      ],
+      "set_code": "afr",
+      "collector_num": "44",
+      "clips": [
+        {
+          "start": "7752",
+          "stop": "7852",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Acererak the Archlich",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/d/dd52d0bd-3abd-401c-9f56-ee911613da3b.png?1625602449"
+      ],
+      "set_code": "afr",
+      "collector_num": "87",
+      "clips": [
+        {
+          "start": "3885",
+          "stop": "4053",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Adult Gold Dragon",
+      "color": "RW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/7/67a76010-d932-4727-8b5e-b8e2d14e1362.png?1624997941"
+      ],
+      "set_code": "afr",
+      "collector_num": "216",
+      "clips": [
+        {
+          "start": "7478",
+          "stop": "7511",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Air-Cult Elemental",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/b/fba82564-a9a9-4ded-a5fa-0e5fab2a3faa.png?1625103419"
+      ],
+      "set_code": "afr",
+      "collector_num": "45",
+      "clips": [
+        {
+          "start": "8135",
+          "stop": "8192",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Arborea Pegasus",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/c/fc45c9d4-ecc7-4a9d-9efe-f4b7d697dd97.png?1625598585"
+      ],
+      "set_code": "afr",
+      "collector_num": "2",
+      "clips": [
+        {
+          "start": "5146",
+          "stop": "5222",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Arcane Investigator",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/c/dc457520-9947-4f65-bbe7-9b95bd2c23af.png?1625246508"
+      ],
+      "set_code": "afr",
+      "collector_num": "46",
+      "clips": [
+        {
+          "start": "6309",
+          "stop": "6410",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Armory Veteran",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/1/4177f57e-c239-47e8-ae50-5f593f6d54ec.png?1626484020"
+      ],
+      "set_code": "afr",
+      "collector_num": "130",
+      "clips": [
+        {
+          "start": "10655",
+          "stop": "10685",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Asmodeus the Archfiend",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/5/a5e6b864-58e7-43b9-9d79-1d0361340960.png?1625678618"
+      ],
+      "set_code": "afr",
+      "collector_num": "88",
+      "clips": [
+        {
+          "start": "4487",
+          "stop": "4654",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Bag of Holding",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/e/6ea5e4e9-491b-4c80-8801-f4cd5225c601.png?1625171848"
+      ],
+      "set_code": "afr",
+      "collector_num": "240",
+      "clips": [
+        {
+          "start": "14738",
+          "stop": "14827",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D-"
+    },
+    {
+      "name": "Baleful Beholder",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/5/e52d6ef6-d8a3-4288-8917-4c0a179ed4e0.png?1625607488"
+      ],
+      "set_code": "afr",
+      "collector_num": "89",
+      "clips": [
+        {
+          "start": "10094",
+          "stop": "10183",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Bar the Gate",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/9/b9b1e53f-1384-4860-9944-e68922afc65c.png?1625102390"
+      ],
+      "set_code": "afr",
+      "collector_num": "47",
+      "clips": [
+        {
+          "start": "6813",
+          "stop": "6889",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Barbarian Class",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/36284248-dddb-4aa0-ba47-8c5dc0e114ca.png?1626626448"
+      ],
+      "set_code": "afr",
+      "collector_num": "131",
+      "clips": [
+        {
+          "start": "10281",
+          "stop": "10390",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(B)"
+    },
+    {
+      "name": "Bard Class",
+      "color": "GR",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/7/37d6343a-c514-4ca6-a415-62d1a473ae20.png?1625961754"
+      ],
+      "set_code": "afr",
+      "collector_num": "217",
+      "clips": [
+        {
+          "start": "6754",
+          "stop": "6803",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Barrowin of Clan Undurr",
+      "color": "BW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/8/6896c311-5593-4437-b945-43ade9665e43.png?1625107991"
+      ],
+      "set_code": "afr",
+      "collector_num": "218",
+      "clips": [
+        {
+          "start": "1431",
+          "stop": "1663.5",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(B+)"
+    },
+    {
+      "name": "Battle Cry Goblin",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/9766a427-2bb3-4028-a502-d1194cdc93aa.png?1625000773"
+      ],
+      "set_code": "afr",
+      "collector_num": "132",
+      "clips": [
+        {
+          "start": "10685",
+          "stop": "10745",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Black Dragon",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/a/aaca283a-39f1-4ae7-98fb-7821a927ef86.png?1625607463"
+      ],
+      "set_code": "afr",
+      "collector_num": "90",
+      "clips": [
+        {
+          "start": "10227",
+          "stop": "10276",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Blink Dog",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/c/cc040492-7fb7-4fdb-aafe-8179e5f2b28c.png?1625678424"
+      ],
+      "set_code": "afr",
+      "collector_num": "3",
+      "clips": [
+        {
+          "start": "4136",
+          "stop": "4247.5",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Blue Dragon",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/98dea71b-2778-4374-8ea2-7fa82f0f6110.png?1625603829"
+      ],
+      "set_code": "afr",
+      "collector_num": "49",
+      "clips": [
+        {
+          "start": "8245",
+          "stop": "8349",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Boots of Speed",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/db6d9913-3d4f-4f47-ba3a-6586a50ddbd7.png?1625607331"
+      ],
+      "set_code": "afr",
+      "collector_num": "133",
+      "clips": [
+        {
+          "start": "10390",
+          "stop": "10450",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Brazen Dwarf",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/3658e65b-df54-4327-9104-c2f3dd65df85.png?1625265833"
+      ],
+      "set_code": "afr",
+      "collector_num": "134",
+      "clips": [
+        {
+          "start": "10745",
+          "stop": "10763",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Bruenor Battlehammer",
+      "color": "RW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/53e1eb00-412e-4c25-bc7b-6d074330fd97.png?1624735009"
+      ],
+      "set_code": "afr",
+      "collector_num": "219",
+      "clips": [
+        {
+          "start": "1663.5",
+          "stop": "1814",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Bulette",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/206a9e7b-45c1-4213-8fc4-27d90e2ab0e9.png?1626972196"
+      ],
+      "set_code": "afr",
+      "collector_num": "173",
+      "clips": [
+        {
+          "start": "13959",
+          "stop": "14068",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Bull's Strength",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/9/092cab70-c771-4c96-a5ce-22f2e32e3ea8.png?1624994345"
+      ],
+      "set_code": "afr",
+      "collector_num": "174",
+      "clips": [
+        {
+          "start": "12755",
+          "stop": "12823",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Burning Hands",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/6/66e2d723-3fa0-4411-8f98-e4e6b3a5e6df.png?1625410284"
+      ],
+      "set_code": "afr",
+      "collector_num": "135",
+      "clips": [
+        {
+          "start": "10763",
+          "stop": "10802",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Cave of the Frost Dragon",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bdb41396-5008-4a5f-92ca-54ecac42e926.png?1625457390"
+      ],
+      "set_code": "afr",
+      "collector_num": "253",
+      "clips": [
+        {
+          "start": "7973",
+          "stop": "8030",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Celestial Unicorn",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/2/f2d68812-8862-4e34-a992-7d6bbadaf316.png?1625004661"
+      ],
+      "set_code": "afr",
+      "collector_num": "5",
+      "clips": [
+        {
+          "start": "4247.5",
+          "stop": "4340",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(C+)"
+    },
+    {
+      "name": "Chaos Channeler",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/b/7b9bb587-f732-42c9-a2a7-152629889997.png?1625107121"
+      ],
+      "set_code": "afr",
+      "collector_num": "136",
+      "clips": [
+        {
+          "start": "11776",
+          "stop": "11850",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Charmed Sleep",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/2/4238ad00-af9c-4535-a589-c5afb0d2ec57.png?1624991797"
+      ],
+      "set_code": "afr",
+      "collector_num": "50",
+      "clips": [
+        {
+          "start": "6889",
+          "stop": "6926",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Check for Traps",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/f/6f58ea8a-30ac-45b0-a701-8b8d8262cfcf.png?1626359700"
+      ],
+      "set_code": "afr",
+      "collector_num": "92",
+      "clips": [
+        {
+          "start": "8746",
+          "stop": "8811",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Choose Your Weapon",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/1/213726e4-e2f5-4e52-b05a-21c4bab9927c.png?1624995816"
+      ],
+      "set_code": "afr",
+      "collector_num": "175",
+      "clips": [
+        {
+          "start": "13419",
+          "stop": "13487",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D+"
+    },
+    {
+      "name": "Circle of Dreams Druid",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/be6fdec0-a2c4-4da2-ae14-961185eaee66.png?1624989444"
+      ],
+      "set_code": "afr",
+      "collector_num": "176",
+      "clips": [
+        {
+          "start": "5998",
+          "stop": "6040",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Circle of the Moon Druid",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/0/700c9ed8-6bfe-4f1e-855a-5f31e0d2fc9b.png?1626193626"
+      ],
+      "set_code": "afr",
+      "collector_num": "177",
+      "clips": [
+        {
+          "start": "13487",
+          "stop": "13534",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D+"
+    },
+    {
+      "name": "Clattering Skeletons",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/9/09ac0b2b-d4d3-4977-b241-7788239362de.png?1625162925"
+      ],
+      "set_code": "afr",
+      "collector_num": "93",
+      "clips": [
+        {
+          "start": "9662",
+          "stop": "9704",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Cleric Class",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/47ce8b7e-d8e1-489a-a69e-99089eeb8739.png?1625398029"
+      ],
+      "set_code": "afr",
+      "collector_num": "6",
+      "clips": [
+        {
+          "start": "2223",
+          "stop": "2431",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(B)"
+    },
+    {
+      "name": "Clever Conjurer",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/9/b9784c97-3839-4a4b-ae8a-965844dbeb70.png?1625103499"
+      ],
+      "set_code": "afr",
+      "collector_num": "51",
+      "clips": [
+        {
+          "start": "6926",
+          "stop": "7011",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Cloister Gargoyle",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/9/297bf274-d13d-4b75-b251-2d004b16b431.png?1624733746"
+      ],
+      "set_code": "afr",
+      "collector_num": "7",
+      "clips": [
+        {
+          "start": "4340",
+          "stop": "4433",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Compelled Duel",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/a/2a7e501d-943e-4e6d-9d8e-6bedc32a0dd8.png?1625601603"
+      ],
+      "set_code": "afr",
+      "collector_num": "178",
+      "clips": [
+        {
+          "start": "12823",
+          "stop": "12883",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Contact Other Plane",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/6/a6fefb38-c6f2-43c4-a6b9-ac82f8827bc2.png?1625169699"
+      ],
+      "set_code": "afr",
+      "collector_num": "52",
+      "clips": [
+        {
+          "start": "7559",
+          "stop": "7649",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Critical Hit",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/2/d2e9aaaf-0b51-4721-b75c-923892a41743.png?1625169959"
+      ],
+      "set_code": "afr",
+      "collector_num": "137",
+      "clips": [
+        {
+          "start": "10802",
+          "stop": "10870",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Dancing Sword",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/c/9c3d7824-1297-408c-a11f-0622cab9c4c3.png?1625246671"
+      ],
+      "set_code": "afr",
+      "collector_num": "8",
+      "clips": [
+        {
+          "start": "595",
+          "stop": "702",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Dawnbringer Cleric",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c00856f7-fef5-4ba5-9079-59a81d452c82.png?1625456245"
+      ],
+      "set_code": "afr",
+      "collector_num": "9",
+      "clips": [
+        {
+          "start": "3155",
+          "stop": "3239",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Deadly Dispute",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/3/7373fe95-ad1c-44b9-8c7f-464ce8cbffc6.png?1625679578"
+      ],
+      "set_code": "afr",
+      "collector_num": "94",
+      "clips": [
+        {
+          "start": "8811",
+          "stop": "8882",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D+"
+    },
+    {
+      "name": "Death-Priest of Myrkul",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/1/2/126b2636-030a-4a0e-9307-54c3372afb52.png?1625456628"
+      ],
+      "set_code": "afr",
+      "collector_num": "95",
+      "clips": [
+        {
+          "start": "9704",
+          "stop": "9742",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Delina, Wild Mage",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/8/e87459aa-af8f-4bd2-a310-151353083a2e.png?1627006843"
+      ],
+      "set_code": "afr",
+      "collector_num": "138",
+      "clips": [
+        {
+          "start": "5142",
+          "stop": "5297",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Delver's Torch",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/53df7b80-71bf-4013-ad44-f76eae8ac81b.png?1625163435"
+      ],
+      "set_code": "afr",
+      "collector_num": "10",
+      "clips": [
+        {
+          "start": "3239",
+          "stop": "3316",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Demilich",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/a/0a1351ed-b9df-4a6d-aaa1-ec6db673d265.png?1626483604"
+      ],
+      "set_code": "afr",
+      "collector_num": "53",
+      "clips": [
+        {
+          "start": "2519",
+          "stop": "2713",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(A)"
+    },
+    {
+      "name": "Demogorgon's Clutches",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/581e7ac6-65e5-4a16-ab0b-0988c3a3cfea.png?1625410388"
+      ],
+      "set_code": "afr",
+      "collector_num": "96",
+      "clips": [
+        {
+          "start": "9429",
+          "stop": "9457",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Den of the Bugbear",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/2/f231caf8-56c0-4719-a90d-5e5efbee3148.png?1624987929"
+      ],
+      "set_code": "afr",
+      "collector_num": "254",
+      "clips": [
+        {
+          "start": "8030",
+          "stop": "8072",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Devoted Paladin",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/3620ed96-1d15-4942-b9e5-9f9a64b0cab4.png?1626359711"
+      ],
+      "set_code": "afr",
+      "collector_num": "11",
+      "clips": [
+        {
+          "start": "5479",
+          "stop": "5542",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Devour Intellect",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/1/3/13c34f2d-2eac-4241-8b23-9cab3268c254.png?1625456677"
+      ],
+      "set_code": "afr",
+      "collector_num": "97",
+      "clips": [
+        {
+          "start": "8361",
+          "stop": "8408",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Dire Wolf Prowler",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/a/4ab4769d-31ba-40d3-9375-494b93f01183.png?1625397963"
+      ],
+      "set_code": "afr",
+      "collector_num": "179",
+      "clips": [
+        {
+          "start": "13534",
+          "stop": "13581",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Displacer Beast",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/5/95d5c36c-bcc8-459c-9f4b-b265ccdb1f06.png?1625127408"
+      ],
+      "set_code": "afr",
+      "collector_num": "54",
+      "clips": [
+        {
+          "start": "7011",
+          "stop": "7070",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Divine Smite",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/b/6b8d0852-4df3-4b29-830d-c6975265ef53.png?1625509131"
+      ],
+      "set_code": "afr",
+      "collector_num": "12",
+      "clips": [
+        {
+          "start": "3316",
+          "stop": "3390",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "SB(B)"
+    },
+    {
+      "name": "Djinni Windseer",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/7/67a42698-bf3b-4352-8178-9c98abfc5b09.png?1625706527"
+      ],
+      "set_code": "afr",
+      "collector_num": "55",
+      "clips": [
+        {
+          "start": "7649",
+          "stop": "7707",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Dragon Turtle",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/4/d436ba80-386f-40ad-b0ca-a98cc50de964.png?1625130303"
+      ],
+      "set_code": "afr",
+      "collector_num": "56",
+      "clips": [
+        {
+          "start": "2091",
+          "stop": "2207",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Dragon's Disciple",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/e/9e5e6b78-3e99-49f5-9eaf-bbb2e9789fbe.png?1626511313"
+      ],
+      "set_code": "afr",
+      "collector_num": "13",
+      "clips": [
+        {
+          "start": "3390",
+          "stop": "3450",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Dragon's Fire",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/6/9666987a-5267-46d3-9b00-31baa92a9cbc.png?1625683047"
+      ],
+      "set_code": "afr",
+      "collector_num": "139",
+      "clips": [
+        {
+          "start": "10870",
+          "stop": "10916",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Drider",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/b/bbc06a88-1eb6-4edb-8f03-d8274560cc41.png?1625456733"
+      ],
+      "set_code": "afr",
+      "collector_num": "98",
+      "clips": [
+        {
+          "start": "9921",
+          "stop": "9998",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Drizzt Do'Urden",
+      "color": "GW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/46e3259e-93c2-48c0-8b96-835cdb883383.png?1621816003"
+      ],
+      "set_code": "afr",
+      "collector_num": "220",
+      "clips": [
+        {
+          "start": "7511",
+          "stop": "7619",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "Druid Class",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/9/09278e95-eaae-4cd4-a0d8-a2d15b0abb58.png?1625398071"
+      ],
+      "set_code": "afr",
+      "collector_num": "180",
+      "clips": [
+        {
+          "start": "12883",
+          "stop": "13044",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(B)"
+    },
+    {
+      "name": "Dueling Rapier",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c304118a-c83b-490a-b0e2-721734a996ee.png?1624998217"
+      ],
+      "set_code": "afr",
+      "collector_num": "140",
+      "clips": [
+        {
+          "start": "10450",
+          "stop": "10518",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Dungeon Crawler",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/1/4138b66d-cf18-42a5-8522-241bd3969624.png?1624733823"
+      ],
+      "set_code": "afr",
+      "collector_num": "99",
+      "clips": [
+        {
+          "start": "8408",
+          "stop": "8438",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Dungeon Descent",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/4/f4cccdbc-f4f4-42b6-9747-6ef703ff949a.png?1625680526"
+      ],
+      "set_code": "afr",
+      "collector_num": "255",
+      "clips": [
+        {
+          "start": "8210",
+          "stop": "8237",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Dungeon Map",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/2/028506ad-ad36-44e5-b488-d038e2d2445f.png?1625265553"
+      ],
+      "set_code": "afr",
+      "collector_num": "242",
+      "clips": [
+        {
+          "start": "14827",
+          "stop": "14901",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Dwarfhold Champion",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/4/2404a028-05f5-469b-80e0-e820721ff266.png?1625102462"
+      ],
+      "set_code": "afr",
+      "collector_num": "14",
+      "clips": [
+        {
+          "start": "3450",
+          "stop": "3527",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Earth-Cult Elemental",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fa05f317-b2f8-4eea-951b-0c374774764b.png?1625107219"
+      ],
+      "set_code": "afr",
+      "collector_num": "141",
+      "clips": [
+        {
+          "start": "12394",
+          "stop": "12508",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D/C-"
+    },
+    {
+      "name": "Ebondeath, Dracolich",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e6b3f460-92ba-4af0-aad9-cf86615d4177.png?1624997541"
+      ],
+      "set_code": "afr",
+      "collector_num": "100",
+      "clips": [
+        {
+          "start": "4128",
+          "stop": "4188",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Eccentric Apprentice",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/b/3baa08ac-9a94-4e22-91bb-c6966cd0a0de.png?1625165137"
+      ],
+      "set_code": "afr",
+      "collector_num": "57",
+      "clips": [
+        {
+          "start": "7070",
+          "stop": "7124.5",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Ellywick Tumblestrum",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/bab81bc0-0369-469e-9296-6d9681697b21.png?1624534647"
+      ],
+      "set_code": "afr",
+      "collector_num": "181",
+      "clips": [
+        {
+          "start": "6199",
+          "stop": "6408",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Elturgard Ranger",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f6898737-957f-44a6-bef7-fb196658176f.png?1625130255"
+      ],
+      "set_code": "afr",
+      "collector_num": "182",
+      "clips": [
+        {
+          "start": "14315",
+          "stop": "14390",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Evolving Wilds",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/71afb548-691d-4c72-b369-85f9b451c71d.png?1626483958"
+      ],
+      "set_code": "afr",
+      "collector_num": "256",
+      "clips": [
+        {
+          "start": "15277",
+          "stop": "15294",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Eye of Vecna",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/9/b91e2431-500e-441a-881d-094ebef62283.png?1625510145"
+      ],
+      "set_code": "afr",
+      "collector_num": "243",
+      "clips": [
+        {
+          "start": "8267.5",
+          "stop": "8343",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(B)"
+    },
+    {
+      "name": "Eyes of the Beholder",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/f/3f9e5402-690f-497d-ada3-aa41fa900fdd.png?1625509691"
+      ],
+      "set_code": "afr",
+      "collector_num": "101",
+      "clips": [
+        {
+          "start": "10183",
+          "stop": "10227",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Farideh's Fireball",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/7/57a46987-f05a-4b83-af56-f18000874e65.png?1625603945"
+      ],
+      "set_code": "afr",
+      "collector_num": "142",
+      "clips": [
+        {
+          "start": "12178",
+          "stop": "12269",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Farideh, Devil's Chosen",
+      "color": "RU",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1b2ff142-029b-4446-960a-2ff200fb9aee.png?1625457242"
+      ],
+      "set_code": "afr",
+      "collector_num": "221",
+      "clips": [
+        {
+          "start": "1814",
+          "stop": "2051",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(B)"
+    },
+    {
+      "name": "Fates' Reversal",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/1/9/19ff3d76-e985-4d8d-837e-89360cc23824.png?1625108091"
+      ],
+      "set_code": "afr",
+      "collector_num": "102",
+      "clips": [
+        {
+          "start": "8882",
+          "stop": "8903",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Feign Death",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/2/32af7061-fca6-4a06-be3c-01881e6b96f7.png?1626484053"
+      ],
+      "set_code": "afr",
+      "collector_num": "103",
+      "clips": [
+        {
+          "start": "8438",
+          "stop": "8478",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Feywild Trickster",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/9/c93e0296-69e0-45e0-a1c2-0214a53c52d0.png?1625265849"
+      ],
+      "set_code": "afr",
+      "collector_num": "58",
+      "clips": [
+        {
+          "start": "7124.5",
+          "stop": "7172",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(B+)"
+    },
+    {
+      "name": "Fifty Feet of Rope",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/ba7ebe7b-732f-4245-a194-e087c3878f61.png?1625603460"
+      ],
+      "set_code": "afr",
+      "collector_num": "244",
+      "clips": [
+        {
+          "start": "14901",
+          "stop": "14950",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Fighter Class",
+      "color": "RW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d54a8329-b940-42c9-8ace-1d74407d14cb.png?1626162177"
+      ],
+      "set_code": "afr",
+      "collector_num": "222",
+      "clips": [
+        {
+          "start": "6803",
+          "stop": "6862",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Find the Path",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/a/5afe37a0-ccc3-467a-b787-304465b38355.png?1625457019"
+      ],
+      "set_code": "afr",
+      "collector_num": "183",
+      "clips": [
+        {
+          "start": "13581",
+          "stop": "13643",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Flameskull",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/2/32d3f766-4098-4023-9a23-e9ff6722b66d.png?1625686168"
+      ],
+      "set_code": "afr",
+      "collector_num": "143",
+      "clips": [
+        {
+          "start": "4757",
+          "stop": "4824",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Flumph",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/d/cdc86e78-8911-4a0d-ba3a-7802f8d991ef.png?1624506073"
+      ],
+      "set_code": "afr",
+      "collector_num": "15",
+      "clips": [
+        {
+          "start": "702",
+          "stop": "851",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Fly",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/1/f1a91cc6-67e1-4f1b-86e2-eb388a75d6ad.png?1625456511"
+      ],
+      "set_code": "afr",
+      "collector_num": "59",
+      "clips": [
+        {
+          "start": "5677",
+          "stop": "5826",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D+/B"
+    },
+    {
+      "name": "Forsworn Paladin",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/a/4acaf396-f950-42da-85ab-149ffb31fee6.png?1625679753"
+      ],
+      "set_code": "afr",
+      "collector_num": "104",
+      "clips": [
+        {
+          "start": "3518",
+          "stop": "3608",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Froghemoth",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/728e9567-2585-4c03-99a5-3e84fd8044d2.png?1625106289"
+      ],
+      "set_code": "afr",
+      "collector_num": "184",
+      "clips": [
+        {
+          "start": "6408",
+          "stop": "6503",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Gelatinous Cube",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/1/c/1c472e70-300c-4881-86e7-c5ca690ab9b6.png?1624992857"
+      ],
+      "set_code": "afr",
+      "collector_num": "105",
+      "clips": [
+        {
+          "start": "4188",
+          "stop": "4283",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A/A-"
+    },
+    {
+      "name": "Gloom Stalker",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/8/388722ad-dcc6-41b9-afd8-a93be91b30e0.png?1624531212"
+      ],
+      "set_code": "afr",
+      "collector_num": "16",
+      "clips": [
+        {
+          "start": "4433",
+          "stop": "4541",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(C-)"
+    },
+    {
+      "name": "Gnoll Hunter",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/1/d/1d0634cb-e973-4f05-965e-d39b09fe57a9.png?1625265572"
+      ],
+      "set_code": "afr",
+      "collector_num": "185",
+      "clips": [
+        {
+          "start": "13044",
+          "stop": "13083",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Goblin Javelineer",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/3/d32b3f1b-40cb-413d-adb9-0809e4a2abdd.png?1625265815"
+      ],
+      "set_code": "afr",
+      "collector_num": "144",
+      "clips": [
+        {
+          "start": "10518",
+          "stop": "10556",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Goblin Morningstar",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/998f3785-c806-4848-adcb-d89ea51159c5.png?1625265745"
+      ],
+      "set_code": "afr",
+      "collector_num": "145",
+      "clips": [
+        {
+          "start": "10916",
+          "stop": "10985",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Grand Master of Flowers",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/8/c/8ca4ffff-404e-4e8e-8fd6-4e64d4828fc7.png?1626511360"
+      ],
+      "set_code": "afr",
+      "collector_num": "17",
+      "clips": [
+        {
+          "start": "1407",
+          "stop": "1674",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-/A"
+    },
+    {
+      "name": "Grazilaxx, Illithid Scholar",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/98cca453-4611-4f3d-85d8-d74d260c7598.png?1624995724"
+      ],
+      "set_code": "afr",
+      "collector_num": "60",
+      "clips": [
+        {
+          "start": "2207",
+          "stop": "2310",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Greataxe",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/8/e840aef6-eec4-40dd-bbc4-6fd0b2b57805.png?1625686191"
+      ],
+      "set_code": "afr",
+      "collector_num": "245",
+      "clips": [
+        {
+          "start": "14950",
+          "stop": "14984",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Green Dragon",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/5/45804134-cc04-4587-9674-2c884964083d.png?1624998040"
+      ],
+      "set_code": "afr",
+      "collector_num": "186",
+      "clips": [
+        {
+          "start": "14500",
+          "stop": "14570",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Gretchen Titchwillow",
+      "color": "GU",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/c/3c8b248e-1460-4650-9721-85c134c21b89.png?1625186332"
+      ],
+      "set_code": "afr",
+      "collector_num": "223",
+      "clips": [
+        {
+          "start": "405.5",
+          "stop": "545",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Grim Bounty",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/9/b98e0ab1-dea8-492b-a712-2057f2b1d020.png?1625598177"
+      ],
+      "set_code": "afr",
+      "collector_num": "106",
+      "clips": [
+        {
+          "start": "9742",
+          "stop": "9776",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Grim Wanderer",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/3/e339f0f7-a79d-4947-a9c4-b9a0949dd06a.png?1626483717"
+      ],
+      "set_code": "afr",
+      "collector_num": "107",
+      "clips": [
+        {
+          "start": "8903",
+          "stop": "9041",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Guardian of Faith",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/8/08e3dda1-a1d3-48c9-8c81-da7eae20ac8a.png?1625250051"
+      ],
+      "set_code": "afr",
+      "collector_num": "18",
+      "clips": [
+        {
+          "start": "1035",
+          "stop": "1150",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Guild Thief",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/d/fd4348ec-fdb1-4c3b-bec5-42513c6c0662.png?1625456548"
+      ],
+      "set_code": "afr",
+      "collector_num": "61",
+      "clips": [
+        {
+          "start": "6410",
+          "stop": "6491",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Half-Elf Monk",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/1/f10f1687-fb20-4ad2-bad7-52e4470b35e4.png?1625103091"
+      ],
+      "set_code": "afr",
+      "collector_num": "19",
+      "clips": [
+        {
+          "start": "5222",
+          "stop": "5388",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Hall of Storm Giants",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bf8f052d-8840-4905-a807-9a305f4fd8f7.png?1625457433"
+      ],
+      "set_code": "afr",
+      "collector_num": "257",
+      "clips": [
+        {
+          "start": "8072",
+          "stop": "8116",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Hama Pashar, Ruin Seeker",
+      "color": "UW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/47b8eb2e-73ac-4ad6-9ab6-4f8da7b41020.png?1625265563"
+      ],
+      "set_code": "afr",
+      "collector_num": "224",
+      "clips": [
+        {
+          "start": "1011.5",
+          "stop": "1431",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(B+)"
+    },
+    {
+      "name": "Hand of Vecna",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/d/ddd0beb7-80dc-4665-bab2-747c795d97db.png?1625601842"
+      ],
+      "set_code": "afr",
+      "collector_num": "246",
+      "clips": [
+        {
+          "start": "8343",
+          "stop": "8439",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Herald of Hadar",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/baa74204-2593-4468-856d-a5791336126a.png?1625397933"
+      ],
+      "set_code": "afr",
+      "collector_num": "108",
+      "clips": [
+        {
+          "start": "9998",
+          "stop": "10049",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Hill Giant Herdgorger",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b69315cc-c230-4704-9d66-411f624f3e49.png?1625171287"
+      ],
+      "set_code": "afr",
+      "collector_num": "187",
+      "clips": [
+        {
+          "start": "14570",
+          "stop": "14636",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Hired Hexblade",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c23cbf01-90d0-4962-92d5-5e1566e8ef4b.png?1625171696"
+      ],
+      "set_code": "afr",
+      "collector_num": "109",
+      "clips": [
+        {
+          "start": "9041",
+          "stop": "9082",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Hive of the Eye Tyrant",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/e/9eb391dc-0378-4793-a5de-899b09792a4b.png?1624941608"
+      ],
+      "set_code": "afr",
+      "collector_num": "258",
+      "clips": [
+        {
+          "start": "8116",
+          "stop": "8156",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Hoard Robber",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/7/b723d9cd-05f5-4894-9f2b-52a434a3019c.png?1625679592"
+      ],
+      "set_code": "afr",
+      "collector_num": "110",
+      "clips": [
+        {
+          "start": "9082",
+          "stop": "9120",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Hoarding Ogre",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/df39eaac-b13f-4cb3-960d-8f7a0d590663.png?1625171584"
+      ],
+      "set_code": "afr",
+      "collector_num": "146",
+      "clips": [
+        {
+          "start": "11850",
+          "stop": "11917",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Hobgoblin Bandit Lord",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/9/09e9dc36-f2d8-4384-98cb-e44c00b02433.png?1625604195"
+      ],
+      "set_code": "afr",
+      "collector_num": "147",
+      "clips": [
+        {
+          "start": "4824",
+          "stop": "4907",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(B)"
+    },
+    {
+      "name": "Hobgoblin Captain",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7c0aa86-fd3b-4e0f-9d37-ce1ea8922243.png?1625004969"
+      ],
+      "set_code": "afr",
+      "collector_num": "148",
+      "clips": [
+        {
+          "start": "10985",
+          "stop": "11018",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Hulking Bugbear",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/5/f55d43d4-5f63-45c3-b8f8-0aebd23750a5.png?1625456816"
+      ],
+      "set_code": "afr",
+      "collector_num": "149",
+      "clips": [
+        {
+          "start": "11195",
+          "stop": "11233",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Hunter's Mark",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/62023c58-8b94-4a81-a259-a047e1edd342.png?1625457058"
+      ],
+      "set_code": "afr",
+      "collector_num": "188",
+      "clips": [
+        {
+          "start": "14068",
+          "stop": "14128",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Icingdeath, Frost Tyrant",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/6/26b0e68a-9d4e-42ea-8dac-c47cbed0c6ad.png?1625603016"
+      ],
+      "set_code": "afr",
+      "collector_num": "20",
+      "clips": [
+        {
+          "start": "1674",
+          "stop": "1778",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "Improvised Weaponry",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/9/29d5fd00-c616-4079-a91e-4da0bcaf9120.png?1625108176"
+      ],
+      "set_code": "afr",
+      "collector_num": "150",
+      "clips": [
+        {
+          "start": "11233",
+          "stop": "11283",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Inferno of the Star Mounts",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/7/c788c6a6-20d9-4a93-a898-330b085226c4.png?1626701807"
+      ],
+      "set_code": "afr",
+      "collector_num": "151",
+      "clips": [
+        {
+          "start": "5555",
+          "stop": "5612",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Ingenious Smith",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/a/2ad29773-7c1b-410d-9f69-7aa751f6ebca.png?1625397952"
+      ],
+      "set_code": "afr",
+      "collector_num": "21",
+      "clips": [
+        {
+          "start": "3527",
+          "stop": "3587",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Inspiring Bard",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/b/0b33db66-d205-4164-b168-6084df562ebb.png?1624999943"
+      ],
+      "set_code": "afr",
+      "collector_num": "189",
+      "clips": [
+        {
+          "start": "14128",
+          "stop": "14171",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Instrument of the Bards",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d58486dc-3e78-4649-89c7-46f6210ff80f.png?1625679745"
+      ],
+      "set_code": "afr",
+      "collector_num": "190",
+      "clips": [
+        {
+          "start": "5616",
+          "stop": "5761",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Intrepid Outlander",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/30b00777-d921-4264-9faf-5c048b656210.png?1625003238"
+      ],
+      "set_code": "afr",
+      "collector_num": "191",
+      "clips": [
+        {
+          "start": "13083",
+          "stop": "13130",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Iron Golem",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/a/5ae24ef5-b12c-48ee-935a-00e048fb8d0f.png?1625679611"
+      ],
+      "set_code": "afr",
+      "collector_num": "247",
+      "clips": [
+        {
+          "start": "14984",
+          "stop": "15044",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Iymrith, Desert Doom",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c3e6025d-d273-4ae4-9929-5e588612f1b3.png?1625304757"
+      ],
+      "set_code": "afr",
+      "collector_num": "62",
+      "clips": [
+        {
+          "start": "2713",
+          "stop": "2831",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Jaded Sell-Sword",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/f/ff5219c0-fb43-47b1-b682-131ba7c70990.png?1625171478"
+      ],
+      "set_code": "afr",
+      "collector_num": "152",
+      "clips": [
+        {
+          "start": "11917",
+          "stop": "12029",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Kalain, Reclusive Painter",
+      "color": "BR",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/4/e45e9552-7737-4c61-89b0-5a3bec3c8f34.png?1625172594"
+      ],
+      "set_code": "afr",
+      "collector_num": "225",
+      "clips": [
+        {
+          "start": "545",
+          "stop": "653",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B/B+"
+    },
+    {
+      "name": "Keen-Eared Sentry",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/e/de169d64-8242-4f57-980e-47f901fd57ab.png?1625456334"
+      ],
+      "set_code": "afr",
+      "collector_num": "22",
+      "clips": [
+        {
+          "start": "3587",
+          "stop": "3637",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Kick in the Door",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/2/222102d0-fed3-41fd-87b0-f6d22766d7fd.png?1625107320"
+      ],
+      "set_code": "afr",
+      "collector_num": "153",
+      "clips": [
+        {
+          "start": "10556",
+          "stop": "10655",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Krydle of Baldur's Gate",
+      "color": "BU",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/5/75f4d622-2d50-4e6e-87a5-5a1cc65d6919.png?1625457278"
+      ],
+      "set_code": "afr",
+      "collector_num": "226",
+      "clips": [
+        {
+          "start": "653",
+          "stop": "802",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Lair of the Hydra",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b670bb0f-680f-4036-bdb6-ac73e866a398.png?1625603485"
+      ],
+      "set_code": "afr",
+      "collector_num": "259",
+      "clips": [
+        {
+          "start": "8156",
+          "stop": "8210",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Leather Armor",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e62d4e76-cdb0-48c7-aa1c-b1f514057b68.png?1625679357"
+      ],
+      "set_code": "afr",
+      "collector_num": "248",
+      "clips": [
+        {
+          "start": "15044",
+          "stop": "15088",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Lightfoot Rogue",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/f/9f88de61-8dee-46b3-91b2-d4cdb4db36bf.png?1625166944"
+      ],
+      "set_code": "afr",
+      "collector_num": "111",
+      "clips": [
+        {
+          "start": "9120",
+          "stop": "9210",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Loathsome Troll",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/0/50ac66df-760d-495d-a067-13114071b7b8.png?1625246448"
+      ],
+      "set_code": "afr",
+      "collector_num": "192",
+      "clips": [
+        {
+          "start": "14390",
+          "stop": "14447",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D/F"
+    },
+    {
+      "name": "Lolth, Spider Queen",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/2/420a5689-d73e-4dda-82fd-8b8897ff5b55.png?1625597250"
+      ],
+      "set_code": "afr",
+      "collector_num": "112",
+      "clips": [
+        {
+          "start": "4283",
+          "stop": "4398",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Long Rest",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/6/0615e930-3b6b-4b2f-a09c-0730d491545c.png?1625410068"
+      ],
+      "set_code": "afr",
+      "collector_num": "193",
+      "clips": [
+        {
+          "start": "6040",
+          "stop": "6130",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Loyal Warhound",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/4/f408c5e4-e18d-4e4d-959a-f41df4c3019c.png?1625678574"
+      ],
+      "set_code": "afr",
+      "collector_num": "23",
+      "clips": [
+        {
+          "start": "851",
+          "stop": "959",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Lurking Roper",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/c/2cce25d7-3f22-48ce-9428-184e661696b9.png?1626484080"
+      ],
+      "set_code": "afr",
+      "collector_num": "194",
+      "clips": [
+        {
+          "start": "13643",
+          "stop": "13755",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Magic Missile",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/8/c814ac58-8826-48cd-8209-4af6803866e3.png?1625603278"
+      ],
+      "set_code": "afr",
+      "collector_num": "154",
+      "clips": [
+        {
+          "start": "11283",
+          "stop": "11369",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Manticore",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/b/3b3d9117-724a-4b67-be27-142b9c283788.png?1624994140"
+      ],
+      "set_code": "afr",
+      "collector_num": "113",
+      "clips": [
+        {
+          "start": "9776",
+          "stop": "9921",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C=/C"
+    },
+    {
+      "name": "Meteor Swarm",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8f5e669-4e69-4763-bbb9-e9685bde912c.png?1625265582"
+      ],
+      "set_code": "afr",
+      "collector_num": "155",
+      "clips": [
+        {
+          "start": "4907",
+          "stop": "5002",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "Mimic",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9da96aab-cf84-4150-b9d0-a4b84fcf585f.png?1625457354"
+      ],
+      "set_code": "afr",
+      "collector_num": "249",
+      "clips": [
+        {
+          "start": "15088",
+          "stop": "15164",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Mind Flayer",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c29ac797-a186-4224-94e1-9bb9dca4b029.png?1625603880"
+      ],
+      "set_code": "afr",
+      "collector_num": "63",
+      "clips": [
+        {
+          "start": "2831",
+          "stop": "2977.5",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Minimus Containment",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/5/0556f0d9-50d2-4c67-8522-de366d96500a.png?1625172898"
+      ],
+      "set_code": "afr",
+      "collector_num": "24",
+      "clips": [
+        {
+          "start": "4541",
+          "stop": "4661",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Minion of the Mighty",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/f/ffd0a827-778b-48c3-bb85-4b4acef351d6.png?1625679665"
+      ],
+      "set_code": "afr",
+      "collector_num": "156",
+      "clips": [
+        {
+          "start": "4663",
+          "stop": "4713",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Minsc, Beloved Ranger",
+      "color": "GRW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/72405607-a60e-42af-b523-64008d3f89b9.png?1626359727"
+      ],
+      "set_code": "afr",
+      "collector_num": "227",
+      "clips": [
+        {
+          "start": "7190",
+          "stop": "7270",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(B+)"
+    },
+    {
+      "name": "Monk Class",
+      "color": "UW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/2/b2edd708-46ee-4963-b7e6-b631616d78fe.png?1626203276"
+      ],
+      "set_code": "afr",
+      "collector_num": "228",
+      "clips": [
+        {
+          "start": "6862",
+          "stop": "6951",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Monk of the Open Hand",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d934765f-f490-4e8d-843d-b2b559ee0418.png?1625508658"
+      ],
+      "set_code": "afr",
+      "collector_num": "25",
+      "clips": [
+        {
+          "start": "2431",
+          "stop": "2541",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Moon-Blessed Cleric",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/b/2b7fea79-9600-41d2-84d2-34a61a08a0d4.png?1625686025"
+      ],
+      "set_code": "afr",
+      "collector_num": "26",
+      "clips": [
+        {
+          "start": "4661",
+          "stop": "4741",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Mordenkainen",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/f/2fa5e4c7-12fa-4ec4-bd4b-752e367306c7.png?1625597191"
+      ],
+      "set_code": "afr",
+      "collector_num": "64",
+      "clips": [
+        {
+          "start": "2977.5",
+          "stop": "3171.5",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Mordenkainen's Polymorph",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b6551442-d74c-4f16-a9de-0cfdc88208a5.png?1625101589"
+      ],
+      "set_code": "afr",
+      "collector_num": "65",
+      "clips": [
+        {
+          "start": "6491",
+          "stop": "6540",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Nadaar, Selfless Paladin",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/8/7/878a0d8c-11c1-4c65-9051-78e036ac496f.png?1624530978"
+      ],
+      "set_code": "afr",
+      "collector_num": "27",
+      "clips": [
+        {
+          "start": "1150",
+          "stop": "1222",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "Neverwinter Dryad",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e64d7cc7-bbdd-4db3-906e-a2f7672e0f67.png?1625678474"
+      ],
+      "set_code": "afr",
+      "collector_num": "195",
+      "clips": [
+        {
+          "start": "12586",
+          "stop": "12645",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Ochre Jelly",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/f/9f23cfb7-c6b6-4f04-abba-5b2a6117ea12.png?1626483811"
+      ],
+      "set_code": "afr",
+      "collector_num": "196",
+      "clips": [
+        {
+          "start": "5761",
+          "stop": "5861",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "Old Gnawbone",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/7/77ceba8b-de19-4db8-b5a7-f5df49bf241f.png?1625398094"
+      ],
+      "set_code": "afr",
+      "collector_num": "197",
+      "clips": [
+        {
+          "start": "6503",
+          "stop": "6567",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Orb of Dragonkind",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/a/9a1c2cdd-353c-4747-bf0e-b995dd37ffca.png?1624996743"
+      ],
+      "set_code": "afr",
+      "collector_num": "157",
+      "clips": [
+        {
+          "start": "4713",
+          "stop": "4757",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Orcus, Prince of Undeath",
+      "color": "BR",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/91f5c6d3-fb04-4a2e-87b6-9ed2314085a8.png?1625163139"
+      ],
+      "set_code": "afr",
+      "collector_num": "229",
+      "clips": [
+        {
+          "start": "7270",
+          "stop": "7342",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Oswald Fiddlebender",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/b/bba1650f-eddf-49a9-820e-489cb8d5b6fa.png?1626511392"
+      ],
+      "set_code": "afr",
+      "collector_num": "28",
+      "clips": [
+        {
+          "start": "959",
+          "stop": "1035",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Owlbear",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/30e8a00f-8131-470d-8072-4c23b812281a.png?1625679724"
+      ],
+      "set_code": "afr",
+      "collector_num": "198",
+      "clips": [
+        {
+          "start": "14447",
+          "stop": "14500",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Paladin Class",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/b/5bf81fb1-7992-4ae9-b1a8-80c31579a2bf.png?1625265351"
+      ],
+      "set_code": "afr",
+      "collector_num": "29",
+      "clips": [
+        {
+          "start": "445",
+          "stop": "595",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "Paladin's Shield",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/e/2e13b103-202f-41d7-a855-a6807e5fb4b7.png?1625252680"
+      ],
+      "set_code": "afr",
+      "collector_num": "30",
+      "clips": [
+        {
+          "start": "3637",
+          "stop": "3774",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D+"
+    },
+    {
+      "name": "Pixie Guide",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/6/c65631b9-ca62-4851-9eca-9c760fb1a177.png?1626117450"
+      ],
+      "set_code": "afr",
+      "collector_num": "66",
+      "clips": [
+        {
+          "start": "6540",
+          "stop": "6579",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Planar Ally",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/9/a9e7457a-8ab4-4f3c-a2d8-2da4d81b7470.png?1625163016"
+      ],
+      "set_code": "afr",
+      "collector_num": "31",
+      "clips": [
+        {
+          "start": "5542",
+          "stop": "5615",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Plate Armor",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/d/ad447e50-cfb1-40df-ae01-a65c46f2f572.png?1625509607"
+      ],
+      "set_code": "afr",
+      "collector_num": "32",
+      "clips": [
+        {
+          "start": "4741",
+          "stop": "4972",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Plummet",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4be85ceb-be98-43ce-9565-a72990797437.png?1625601696"
+      ],
+      "set_code": "afr",
+      "collector_num": "199",
+      "clips": [
+        {
+          "start": "13130",
+          "stop": "13146",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "SB(B)"
+    },
+    {
+      "name": "Plundering Barbarian",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d875881c-c285-47f1-8a37-e4a0239d47ec.png?1625679713"
+      ],
+      "set_code": "afr",
+      "collector_num": "158",
+      "clips": [
+        {
+          "start": "11369",
+          "stop": "11419",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Portable Hole",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.png?1620558378"
+      ],
+      "set_code": "afr",
+      "collector_num": "33",
+      "clips": [
+        {
+          "start": "2541",
+          "stop": "2633",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Potion of Healing",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d5edb608-c7d7-4fa9-b969-262c9789fc17.png?1625331975"
+      ],
+      "set_code": "afr",
+      "collector_num": "34",
+      "clips": [
+        {
+          "start": "3774",
+          "stop": "3898.8",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(C-)"
+    },
+    {
+      "name": "Power Word Kill",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/395b6ce4-143f-4eed-b565-98aa3d6208ef.png?1626483678"
+      ],
+      "set_code": "afr",
+      "collector_num": "114",
+      "clips": [
+        {
+          "start": "9210",
+          "stop": "9342",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Power of Persuasion",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8d84cb72-d0a0-4af0-aded-47e5fb7addef.png?1625984652"
+      ],
+      "set_code": "afr",
+      "collector_num": "67",
+      "clips": [
+        {
+          "start": "7172",
+          "stop": "7345",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Precipitous Drop",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/7293f9b4-565a-4065-940b-543f76ebecae.png?1625164323"
+      ],
+      "set_code": "afr",
+      "collector_num": "115",
+      "clips": [
+        {
+          "start": "9457",
+          "stop": "9509",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Price of Loyalty",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/47634528-cc34-406a-8572-812a41d6a86a.png?1625603309"
+      ],
+      "set_code": "afr",
+      "collector_num": "159",
+      "clips": [
+        {
+          "start": "11419",
+          "stop": "11552",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Priest of Ancient Lore",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/1/b10caff0-701a-48d8-a943-f947482e795a.png?1625598660"
+      ],
+      "set_code": "afr",
+      "collector_num": "35",
+      "clips": [
+        {
+          "start": "4972",
+          "stop": "5024",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Prosperous Innkeeper",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/9/096d3c0c-98e2-4cfc-a6e1-fddb0359c63f.png?1620344772"
+      ],
+      "set_code": "afr",
+      "collector_num": "200",
+      "clips": [
+        {
+          "start": "13146",
+          "stop": "13203",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Purple Worm",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/4/e419d58b-6241-4892-9080-f6894ac7ba89.png?1626483698"
+      ],
+      "set_code": "afr",
+      "collector_num": "201",
+      "clips": [
+        {
+          "start": "14636",
+          "stop": "14730",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Rally Maneuver",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/2/926ce53e-8e30-4018-a9e7-7266791b5d27.png?1626299770"
+      ],
+      "set_code": "afr",
+      "collector_num": "36",
+      "clips": [
+        {
+          "start": "5024",
+          "stop": "5146",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Ranger Class",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/c/7ca392ca-3219-4694-9a74-aa079c76b91e.png?1626359666"
+      ],
+      "set_code": "afr",
+      "collector_num": "202",
+      "clips": [
+        {
+          "start": "5861",
+          "stop": "5929",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Ranger's Hawk",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9d7a7744-e49d-4b4e-b6ae-7fc6d2892cef.png?1625130352"
+      ],
+      "set_code": "afr",
+      "collector_num": "37",
+      "clips": [
+        {
+          "start": "2633",
+          "stop": "2768",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Ranger's Longbow",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/34c99b32-353c-4930-a6ee-3fb44cf70253.png?1626137403"
+      ],
+      "set_code": "afr",
+      "collector_num": "203",
+      "clips": [
+        {
+          "start": "13203",
+          "stop": "13269",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Ray of Enfeeblement",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/f/ff5d948b-fd89-4b90-9b63-ad7da13b5f0e.png?1625516058"
+      ],
+      "set_code": "afr",
+      "collector_num": "116",
+      "clips": [
+        {
+          "start": "8478",
+          "stop": "8512",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Ray of Frost",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7edd5058-a964-4288-937b-84df6e9ba7c4.png?1625456587"
+      ],
+      "set_code": "afr",
+      "collector_num": "68",
+      "clips": [
+        {
+          "start": "6579",
+          "stop": "6701",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Reaper's Talisman",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/3/93b68168-e77d-4745-9393-726ef9fb72ec.png?1625603188"
+      ],
+      "set_code": "afr",
+      "collector_num": "117",
+      "clips": [
+        {
+          "start": "8512",
+          "stop": "8585",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Red Dragon",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/c/7cf57369-b8e2-481c-89d4-c83c617499a3.png?1625456866"
+      ],
+      "set_code": "afr",
+      "collector_num": "160",
+      "clips": [
+        {
+          "start": "12508",
+          "stop": "12567",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Rimeshield Frost Giant",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/6/767b499e-3bdb-4809-b430-6e965bd100d4.png?1625265782"
+      ],
+      "set_code": "afr",
+      "collector_num": "69",
+      "clips": [
+        {
+          "start": "7852",
+          "stop": "7933",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Rogue Class",
+      "color": "BU",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/7/0727f65b-cfbe-47d5-87c6-239cf8d93ca6.png?1625265432"
+      ],
+      "set_code": "afr",
+      "collector_num": "230",
+      "clips": [
+        {
+          "start": "6951",
+          "stop": "7051",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Rust Monster",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/a/6a7c6b2c-9ba0-4fc1-9922-0988acf2dfde.png?1625516044"
+      ],
+      "set_code": "afr",
+      "collector_num": "161",
+      "clips": [
+        {
+          "start": "11552",
+          "stop": "11644",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Scaled Herbalist",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/c/6cb05274-5a94-44e3-889a-667cba1da033.png?1625398109"
+      ],
+      "set_code": "afr",
+      "collector_num": "204",
+      "clips": [
+        {
+          "start": "13269",
+          "stop": "13296",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Scion of Stygia",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/8/f/8f0abdb4-4898-4818-b7e2-24a90f15e49d.png?1625169652"
+      ],
+      "set_code": "afr",
+      "collector_num": "70",
+      "clips": [
+        {
+          "start": "7345",
+          "stop": "7445",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Secret Door",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/1/3191e400-aa4e-4955-aca0-ecbe63ea240f.png?1625163243"
+      ],
+      "set_code": "afr",
+      "collector_num": "71",
+      "clips": [
+        {
+          "start": "5826",
+          "stop": "5880",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Sepulcher Ghoul",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/b/5b302bc8-683f-4a26-ab86-87eaa19dce4d.png?1625252082"
+      ],
+      "set_code": "afr",
+      "collector_num": "118",
+      "clips": [
+        {
+          "start": "9342",
+          "stop": "9378",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Shambling Ghast",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d96198a7-dd19-4940-bf8f-23135011fc84.png?1625679700"
+      ],
+      "set_code": "afr",
+      "collector_num": "119",
+      "clips": [
+        {
+          "start": "8585",
+          "stop": "8625",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Shessra, Death's Whisper",
+      "color": "BG",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/0/60ca5fef-af21-4e2b-9efa-61e08a638a1f.png?1625105043"
+      ],
+      "set_code": "afr",
+      "collector_num": "231",
+      "clips": [
+        {
+          "start": "2051",
+          "stop": "2199",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Shocking Grasp",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/b/ab95fe13-c09b-4eed-aeae-fb1c5b6eb476.png?1625172499"
+      ],
+      "set_code": "afr",
+      "collector_num": "72",
+      "clips": [
+        {
+          "start": "6701",
+          "stop": "6763",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D/C-"
+    },
+    {
+      "name": "Shortcut Seeker",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/1/2/122d2635-c4f4-44cd-8f82-37e3016e421e.png?1624629491"
+      ],
+      "set_code": "afr",
+      "collector_num": "73",
+      "clips": [
+        {
+          "start": "7707",
+          "stop": "7752",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Silver Raven",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/6/a671ec19-32f4-4fde-8ee0-1224471e79db.png?1625680741"
+      ],
+      "set_code": "afr",
+      "collector_num": "74",
+      "clips": [
+        {
+          "start": "5883.5",
+          "stop": "5950",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Skeletal Swarming",
+      "color": "BG",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/7/3768ac68-0d87-4f99-aa77-2d009df0a567.png?1625465368"
+      ],
+      "set_code": "afr",
+      "collector_num": "232",
+      "clips": [
+        {
+          "start": "7619",
+          "stop": "7765",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Skullport Merchant",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/b/2bbb8865-dc37-4d56-9a2d-a92f7462c338.png?1625512176"
+      ],
+      "set_code": "afr",
+      "collector_num": "120",
+      "clips": [
+        {
+          "start": "9509",
+          "stop": "9561",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Sorcerer Class",
+      "color": "RU",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f754b385-a28d-48de-a91f-2b4f33cc47f7.png?1625603397"
+      ],
+      "set_code": "afr",
+      "collector_num": "233",
+      "clips": [
+        {
+          "start": "7051",
+          "stop": "7128",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Soulknife Spy",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/4/045c7c23-d418-42f0-b497-50c39e5321ad.png?1625397895"
+      ],
+      "set_code": "afr",
+      "collector_num": "75",
+      "clips": [
+        {
+          "start": "7445",
+          "stop": "7493",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Spare Dagger",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/b/ab6b0291-00f8-45bf-9f3a-ee43739c2b77.png?1626573387"
+      ],
+      "set_code": "afr",
+      "collector_num": "250",
+      "clips": [
+        {
+          "start": "15164",
+          "stop": "15220",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Sphere of Annihilation",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/d/3d2315a9-584b-4c59-af43-dd38bcb6c322.png?1625690264"
+      ],
+      "set_code": "afr",
+      "collector_num": "121",
+      "clips": [
+        {
+          "start": "3608",
+          "stop": "3726",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Spiked Pit Trap",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/9/59fbf45a-23b4-4d06-abd9-4cc3895cb29d.png?1625707107"
+      ],
+      "set_code": "afr",
+      "collector_num": "251",
+      "clips": [
+        {
+          "start": "15220",
+          "stop": "15277",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Split the Party",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/743a0a96-f90a-4852-9a92-848795518e0a.png?1625254927"
+      ],
+      "set_code": "afr",
+      "collector_num": "76",
+      "clips": [
+        {
+          "start": "7933",
+          "stop": "8135",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Spoils of the Hunt",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/1/0/10dfdfd4-8621-40ef-a60f-74e9c107bbaf.png?1625357609"
+      ],
+      "set_code": "afr",
+      "collector_num": "205",
+      "clips": [
+        {
+          "start": "13755",
+          "stop": "13793",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Steadfast Paladin",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a2c06b6e-faf5-467d-bfe1-9ff00be9e2f5.png?1625598718"
+      ],
+      "set_code": "afr",
+      "collector_num": "38",
+      "clips": [
+        {
+          "start": "3898.8",
+          "stop": "3945",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Sudden Insight",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/6/06ec3c87-d5aa-4f8a-a9bf-ef4e38e21ad1.png?1625410194"
+      ],
+      "set_code": "afr",
+      "collector_num": "77",
+      "clips": [
+        {
+          "start": "8192",
+          "stop": "8244",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Swarming Goblins",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/623c1d1b-69a4-4bc4-b388-17a7600fd960.png?1625456904"
+      ],
+      "set_code": "afr",
+      "collector_num": "162",
+      "clips": [
+        {
+          "start": "12269",
+          "stop": "12297",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "Sylvan Shepherd",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/7/c7d608fb-35b0-498e-988a-f53986b59dd2.png?1625457203"
+      ],
+      "set_code": "afr",
+      "collector_num": "206",
+      "clips": [
+        {
+          "start": "13793",
+          "stop": "13862",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Targ Nar, Demon-Fang Gnoll",
+      "color": "GR",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/f/5fe57856-9d35-470e-9138-360b02ac0c90.png?1625098804"
+      ],
+      "set_code": "afr",
+      "collector_num": "234",
+      "clips": [
+        {
+          "start": "802",
+          "stop": "937",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Tasha's Hideous Laughter",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/4/c4932113-904f-427a-9566-509cc008f3ef.png?1625686087"
+      ],
+      "set_code": "afr",
+      "collector_num": "78",
+      "clips": [
+        {
+          "start": "2310",
+          "stop": "2519",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Teleportation Circle",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/0/90140bc0-4a9c-4422-b07c-3400c7ccde56.png?1625285007"
+      ],
+      "set_code": "afr",
+      "collector_num": "39",
+      "clips": [
+        {
+          "start": "1778",
+          "stop": "1919",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(A)"
+    },
+    {
+      "name": "Temple of the Dragon Queen",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/c/0c79b3c6-ccbe-48ae-a1f7-ddfd37ecdbf5.png?1625678532"
+      ],
+      "set_code": "afr",
+      "collector_num": "260",
+      "clips": [
+        {
+          "start": "15294",
+          "stop": "15376",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "The Blackstaff of Waterdeep",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/3/3317cbf3-13a1-4471-a23c-de429941e8a4.png?1626204803"
+      ],
+      "set_code": "afr",
+      "collector_num": "48",
+      "clips": [
+        {
+          "start": "1924",
+          "stop": "2030",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(D)"
+    },
+    {
+      "name": "The Book of Exalted Deeds",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a1899bb1-dd8e-4437-8ea3-4ad637eabf2b.png?1626285954"
+      ],
+      "set_code": "afr",
+      "collector_num": "4",
+      "clips": [
+        {
+          "start": "1222",
+          "stop": "1407",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(C)"
+    },
+    {
+      "name": "The Book of Vile Darkness",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/5/05dcff61-8c48-401f-a31f-5fc53a298356.png?1625762257"
+      ],
+      "set_code": "afr",
+      "collector_num": "91",
+      "clips": [
+        {
+          "start": "4053",
+          "stop": "4128",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "The Deck of Many Things",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/e/feddbdc6-0757-43cb-bb41-dc83c6cf42ea.png?1625166642"
+      ],
+      "set_code": "afr",
+      "collector_num": "241",
+      "clips": [
+        {
+          "start": "8607",
+          "stop": "8723",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "The Tarrasque",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/8/a/8a26fa15-d81f-4152-ae33-e91aa276b3fc.png?1625457160"
+      ],
+      "set_code": "afr",
+      "collector_num": "207",
+      "clips": [
+        {
+          "start": "6567",
+          "stop": "6748",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(A-)"
+    },
+    {
+      "name": "Thieves' Tools",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/5/f50b922e-32dd-4645-b6f4-c07d1a0c70fc.png?1625601021"
+      ],
+      "set_code": "afr",
+      "collector_num": "122",
+      "clips": [
+        {
+          "start": "9378",
+          "stop": "9429",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(C+)"
+    },
+    {
+      "name": "Tiamat",
+      "color": "BGRUW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/d/6dd0b9b0-55f4-4ce7-a916-6f23687f3fe4.png?1624735061"
+      ],
+      "set_code": "afr",
+      "collector_num": "235",
+      "clips": [
+        {
+          "start": "7902",
+          "stop": "7965",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Tiger-Tribe Hunter",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/46e0c229-aa31-4c79-bafe-28a8d8e64c61.png?1625511184"
+      ],
+      "set_code": "afr",
+      "collector_num": "163",
+      "clips": [
+        {
+          "start": "12297",
+          "stop": "12394",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Treasure Chest",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/6/e/6ecbeb07-0f45-49bf-9a12-f4ca09969122.png?1626871833"
+      ],
+      "set_code": "afr",
+      "collector_num": "252",
+      "clips": [
+        {
+          "start": "8439",
+          "stop": "8607",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Treasure Vault",
+      "color": "",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/0/a0931eb3-b403-4b1a-ad46-a7b0a51bb9a4.png?1626483784"
+      ],
+      "set_code": "afr",
+      "collector_num": "261",
+      "clips": [
+        {
+          "start": "8237",
+          "stop": "8267.5",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Trelasarra, Moon Dancer",
+      "color": "GW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5.png?1625679688"
+      ],
+      "set_code": "afr",
+      "collector_num": "236",
+      "clips": [
+        {
+          "start": "937",
+          "stop": "1011.5",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "BA(B+)"
+    },
+    {
+      "name": "Trickster's Talisman",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/3/33cb9973-c9ce-48f1-9972-651092624751.png?1625603103"
+      ],
+      "set_code": "afr",
+      "collector_num": "79",
+      "clips": [
+        {
+          "start": "5950",
+          "stop": "6079",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Triumphant Adventurer",
+      "color": "BW",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/1/214d3167-4eea-42a1-a464-ddff59843142.png?1625106795"
+      ],
+      "set_code": "afr",
+      "collector_num": "237",
+      "clips": [
+        {
+          "start": "7128",
+          "stop": "7190",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "True Polymorph",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/4/04a1f384-9266-425c-b739-09d74871fc7b.png?1625515477"
+      ],
+      "set_code": "afr",
+      "collector_num": "80",
+      "clips": [
+        {
+          "start": "3171",
+          "stop": "3269",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "D/F"
+    },
+    {
+      "name": "Underdark Basilisk",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/d/ed220158-e4e3-4d46-8098-7b940a923ce9.png?1626483688"
+      ],
+      "set_code": "afr",
+      "collector_num": "208",
+      "clips": [
+        {
+          "start": "13296",
+          "stop": "13337",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Unexpected Windfall",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/bae6a5fb-39f5-4cf8-85f7-661cb4570507.png?1625353320"
+      ],
+      "set_code": "afr",
+      "collector_num": "164",
+      "clips": [
+        {
+          "start": "12029",
+          "stop": "12178",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D+"
+    },
+    {
+      "name": "Valor Singer",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/8/9/89bc162c-bdf1-43f7-882f-d8cee4f3f415.png?1625456981"
+      ],
+      "set_code": "afr",
+      "collector_num": "165",
+      "clips": [
+        {
+          "start": "11644",
+          "stop": "11683",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Vampire Spawn",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8975c72-b2ec-4c5f-86a4-4e1e3bb41c15.png?1625603164"
+      ],
+      "set_code": "afr",
+      "collector_num": "123",
+      "clips": [
+        {
+          "start": "9561",
+          "stop": "9609",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Varis, Silverymoon Ranger",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/3/e3bd3ea9-f06d-4df7-8b8d-ac6a0e591b09.png?1625106086"
+      ],
+      "set_code": "afr",
+      "collector_num": "209",
+      "clips": [
+        {
+          "start": "6130",
+          "stop": "6199",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "Veteran Dungeoneer",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d8fe33b3-afaf-4a98-ae64-7d7e0eabe993.png?1625163548"
+      ],
+      "set_code": "afr",
+      "collector_num": "40",
+      "clips": [
+        {
+          "start": "5388",
+          "stop": "5479",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Volo, Guide to Monsters",
+      "color": "GU",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/9/c9ae01f9-7461-47b4-aa1e-93bd6ff1bf9e.png?1626483771"
+      ],
+      "set_code": "afr",
+      "collector_num": "238",
+      "clips": [
+        {
+          "start": "7342",
+          "stop": "7478",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Vorpal Sword",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/a/7adbe69f-326d-4b4f-850f-c57a1860d17c.png?1620369326"
+      ],
+      "set_code": "afr",
+      "collector_num": "124",
+      "clips": [
+        {
+          "start": "3726",
+          "stop": "3828.5",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Wandering Troubadour",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/3/d3c7f123-31c8-469b-85e5-d20c4d21b2a0.png?1625679674"
+      ],
+      "set_code": "afr",
+      "collector_num": "210",
+      "clips": [
+        {
+          "start": "14171",
+          "stop": "14226",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Warlock Class",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/7/b7faf899-96b7-454e-b634-6684c2d72f26.png?1625398056"
+      ],
+      "set_code": "afr",
+      "collector_num": "125",
+      "clips": [
+        {
+          "start": "8625",
+          "stop": "8746",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "Werewolf Pack Leader",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/8/e88e6b39-bb4d-4d69-8007-d42f31bcbc29.png?1624997178"
+      ],
+      "set_code": "afr",
+      "collector_num": "211",
+      "clips": [
+        {
+          "start": "5928",
+          "stop": "5998",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Westgate Regent",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e757cc7d-b9cc-4ef1-80c9-a22755a6d271.png?1626299998"
+      ],
+      "set_code": "afr",
+      "collector_num": "126",
+      "clips": [
+        {
+          "start": "4398",
+          "stop": "4487",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A"
+    },
+    {
+      "name": "White Dragon",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/2/1/21e290c4-6c94-472a-9dec-6994aade29c2.png?1625508959"
+      ],
+      "set_code": "afr",
+      "collector_num": "41",
+      "clips": [
+        {
+          "start": "5615",
+          "stop": "5671",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Wight",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f62abe9c-7599-433b-a964-10d6641f3586.png?1625004770"
+      ],
+      "set_code": "afr",
+      "collector_num": "127",
+      "clips": [
+        {
+          "start": "3828",
+          "stop": "3885",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B+"
+    },
+    {
+      "name": "Wild Shape",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/ec9738f1-b2e7-45a5-b235-290256aabed0.png?1625509328"
+      ],
+      "set_code": "afr",
+      "collector_num": "212",
+      "clips": [
+        {
+          "start": "12645",
+          "stop": "12755",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "Wish",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/e/3ed021d2-e2bc-44b3-8934-4bd02e0a42ec.png?1625001648"
+      ],
+      "set_code": "afr",
+      "collector_num": "166",
+      "clips": [
+        {
+          "start": "5002",
+          "stop": "5065",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "F"
+    },
+    {
+      "name": "Wizard Class",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/1/d1f629fb-b097-4240-8560-ef47f5678f48.png?1625398046"
+      ],
+      "set_code": "afr",
+      "collector_num": "81",
+      "clips": [
+        {
+          "start": "6079",
+          "stop": "6224",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "Wizard's Spellbook",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b6ed0a4c-0234-4341-8dcb-5eea6a9632e7.png?1625265769"
+      ],
+      "set_code": "afr",
+      "collector_num": "82",
+      "clips": [
+        {
+          "start": "3269",
+          "stop": "3505",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "BA(A)"
+    },
+    {
+      "name": "Xanathar, Guild Kingpin",
+      "color": "BU",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/b/5bc58050-a615-4090-9cf5-cd49ccb4e2c6.png?1626203339"
+      ],
+      "set_code": "afr",
+      "collector_num": "239",
+      "clips": [
+        {
+          "start": "7765",
+          "stop": "7902",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A+"
+    },
+    {
+      "name": "Xorn",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f73fdf76-e3a6-49d0-bfb0-4b7cdbd4271e.png?1625247238"
+      ],
+      "set_code": "afr",
+      "collector_num": "167",
+      "clips": [
+        {
+          "start": "5065",
+          "stop": "5142",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B"
+    },
+    {
+      "name": "You Come to a River",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/b/ebf9bab7-98a0-4394-90c0-e7c52e14eb37.png?1625679648"
+      ],
+      "set_code": "afr",
+      "collector_num": "83",
+      "clips": [
+        {
+          "start": "6763",
+          "stop": "6813",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "You Come to the Gnoll Camp",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/e/0e893613-423e-409b-9334-292bd252405b.png?1625104450"
+      ],
+      "set_code": "afr",
+      "collector_num": "168",
+      "clips": [
+        {
+          "start": "11018",
+          "stop": "11105",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D+"
+    },
+    {
+      "name": "You Find Some Prisoners",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/f/0f2a95ae-feb2-42c3-99b4-9ea7a491d326.png?1626468731"
+      ],
+      "set_code": "afr",
+      "collector_num": "169",
+      "clips": [
+        {
+          "start": "11105",
+          "stop": "11195",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "You Find a Cursed Idol",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/e/f/efb5671a-942a-4730-9756-32fe600e0528.png?1625679634"
+      ],
+      "set_code": "afr",
+      "collector_num": "213",
+      "clips": [
+        {
+          "start": "13337",
+          "stop": "13419",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "SB(C)"
+    },
+    {
+      "name": "You Find the Villains' Lair",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/c/6/c6704458-6e9e-4795-a56d-25b68fbf9672.png?1625130374"
+      ],
+      "set_code": "afr",
+      "collector_num": "84",
+      "clips": [
+        {
+          "start": "7493",
+          "stop": "7559",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "D"
+    },
+    {
+      "name": "You Happen On a Glade",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/f/9/f9ae7693-a6b5-42f8-9f05-c0643b95a710.png?1625104646"
+      ],
+      "set_code": "afr",
+      "collector_num": "214",
+      "clips": [
+        {
+          "start": "13862",
+          "stop": "13959",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "You Hear Something on Watch",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/6/76e939ab-9d0c-4685-805c-c8bc4e6af163.png?1625456410"
+      ],
+      "set_code": "afr",
+      "collector_num": "42",
+      "clips": [
+        {
+          "start": "3956",
+          "stop": "4051",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "You Meet in a Tavern",
+      "color": "G",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/5/9/593aa59a-4025-4df8-9f27-188fc7712fde.png?1625253264"
+      ],
+      "set_code": "afr",
+      "collector_num": "215",
+      "clips": [
+        {
+          "start": "14226",
+          "stop": "14315",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "B-"
+    },
+    {
+      "name": "You See a Guard Approach",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/30c5fd8e-753a-45e1-bcdd-fb6e072ffbb0.png?1624997058"
+      ],
+      "set_code": "afr",
+      "collector_num": "85",
+      "clips": [
+        {
+          "start": "6224",
+          "stop": "6309",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "SB(C)"
+    },
+    {
+      "name": "You See a Pair of Goblins",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b69e7200-96ea-4455-83cc-0a497d56efe5.png?1625004259"
+      ],
+      "set_code": "afr",
+      "collector_num": "170",
+      "clips": [
+        {
+          "start": "11683",
+          "stop": "11776",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    },
+    {
+      "name": "You're Ambushed on the Road",
+      "color": "W",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/726da84a-fdd4-46df-8ba4-f94d582bcce4.png?1626483829"
+      ],
+      "set_code": "afr",
+      "collector_num": "43",
+      "clips": [
+        {
+          "start": "2768",
+          "stop": "2996",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C-"
+    },
+    {
+      "name": "Yuan-Ti Fang-Blade",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a7e0e09c-ed43-4a37-85f2-c60bdfdb2624.png?1625102836"
+      ],
+      "set_code": "afr",
+      "collector_num": "128",
+      "clips": [
+        {
+          "start": "9609",
+          "stop": "9662",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C+"
+    },
+    {
+      "name": "Yuan-Ti Malison",
+      "color": "U",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/0/f/0f51afd9-7093-4aa3-ad5b-7383684d6285.png?1625103035"
+      ],
+      "set_code": "afr",
+      "collector_num": "86",
+      "clips": [
+        {
+          "start": "2030",
+          "stop": "2091",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B+/A-"
+    },
+    {
+      "name": "Zalto, Fire Giant Duke",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/9/c/9c6da066-accb-4c09-9acb-4de263dadad3.png?1625106128"
+      ],
+      "set_code": "afr",
+      "collector_num": "171",
+      "clips": [
+        {
+          "start": "5466",
+          "stop": "5555",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "B/C"
+    },
+    {
+      "name": "Zariel, Archduke of Avernus",
+      "color": "R",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/7/b/7be5b866-d479-4698-98b2-87a973f6b8f6.png?1625024615"
+      ],
+      "set_code": "afr",
+      "collector_num": "172",
+      "clips": [
+        {
+          "start": "5297",
+          "stop": "5466",
+          "videoId": "RpQDAoUK9tI"
+        }
+      ],
+      "grade": "A-"
+    },
+    {
+      "name": "Zombie Ogre",
+      "color": "B",
+      "image_url": [
+        "https://c1.scryfall.com/file/scryfall-cards/png/front/d/4/d4dbed36-190c-4748-b282-409a2fb5d134.png?1625603253"
+      ],
+      "set_code": "afr",
+      "collector_num": "129",
+      "clips": [
+        {
+          "start": "10049",
+          "stop": "10094",
+          "videoId": "4JejBLuVomA"
+        }
+      ],
+      "grade": "C"
+    }
+  ],
+  "metadata": {
+    "show_names": {
+      "RpQDAoUK9tI": "LR Set Review",
+      "4JejBLuVomA": "LR Set Review"
+    }
+  }
+}

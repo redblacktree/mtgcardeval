@@ -14,19 +14,21 @@ import cards_m21 from "./data/M21.json";
 import cards_znr from "./data/ZNR.json";
 import cards_khm from "./data/KHM.json";
 import cards_stx from "./data/STX.json";
+import cards_afr from "./data/AFR.json";
 import ControlPanel from "./ControlPanel";
 
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {set: "STX", selectedCard: null, options: {playbackRate: 1}};
+    this.state = {set: "AFR", selectedCard: null, options: {playbackRate: 1}};
     this.data = {
       "IKO": cards_iko,
       "M20": cards_m20,
       "M21": cards_m21,
       "ZNR": cards_znr,
       "KHM": cards_khm,
-      "STX": cards_stx
+      "STX": cards_stx,
+      "AFR": cards_afr
     };
 
     ReactGA.initialize('UA-164496702-1');
