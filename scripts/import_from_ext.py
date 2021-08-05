@@ -65,7 +65,7 @@ def main(args):
                     "stop": card['stop'],
                     "videoId": card['videoId']
                 })
-                current_card['grade'] = card['grade']
+                current_card['grade'] = card['grade'] if card['grade'] != "" else current_card['grade']
     with open(args.currentdata.split('.')[0] + '.output.json', 'w') as outputfile:
         json.dump(current_data, outputfile)
 
