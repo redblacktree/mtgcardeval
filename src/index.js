@@ -15,6 +15,7 @@ import cards_znr from "./data/ZNR.json";
 import cards_khm from "./data/KHM.json";
 import cards_stx from "./data/STX.json";
 import cards_afr from "./data/AFR.json";
+import cards_mid from "./data/MID.json";
 import cards_vow from "./data/VOW.json";
 import ControlPanel from "./ControlPanel";
 
@@ -30,7 +31,8 @@ class App extends React.Component {
       "KHM": cards_khm,
       "STX": cards_stx,
       "AFR": cards_afr,
-      "VOW": cards_vow,
+      "MID": cards_mid,
+      "VOW": cards_vow
     };
 
     ReactGA.initialize('UA-164496702-1');
