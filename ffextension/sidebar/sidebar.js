@@ -235,4 +235,54 @@ loadButton.addEventListener("click", () => {
   });
 });
 
+const startMinusButton = document.querySelector("#startMinus");
+startMinusButton.addEventListener("click", () => {
+  const input = document.querySelector('#startTime');
+  input.value = input.value - 0.5;
+  browser.tabs.query({
+    currentWindow: true,
+    active: true
+  }).then(test).catch(onError);
+});
+
+const startPlusButton = document.querySelector("#startPlus");
+startPlusButton.addEventListener("click", () => {
+  const input = document.querySelector('#startTime');
+  input.value = parseFloat(input.value) + 0.5;
+  browser.tabs.query({
+    currentWindow: true,
+    active: true
+  }).then(test).catch(onError);
+});
+
+const stopMinusButton = document.querySelector("#stopMinus");
+stopMinusButton.addEventListener("click", () => {
+  const input = document.querySelector('#stopTime');
+  input.value = input.value - 0.5;
+  browser.tabs.query({
+    currentWindow: true,
+    active: true
+  }).then(testEnd).catch(onError);
+});
+
+const stopPlusButton = document.querySelector("#stopPlus");
+stopPlusButton.addEventListener("click", () => {
+  const input = document.querySelector('#stopTime');
+  input.value = parseFloat(input.value) + 0.5;
+  browser.tabs.query({
+    currentWindow: true,
+    active: true
+  }).then(testEnd).catch(onError);
+});
+
+function addToGrade(event) {
+  const input = document.querySelector('#cardGrade');
+  input.value = input.value.concat(event.target.innerText);
+  input.focus();
+}
+["#gradeBA", "#gradeSB", "#gradeA", "#gradeB", "#gradeC", "#gradeD", "#gradeF",].forEach((selector) => {
+  const gradeChangeButton = document.querySelector(selector);
+  gradeChangeButton.addEventListener("click", addToGrade);
+});
+
 updateDisplay();
