@@ -30,6 +30,7 @@ class CardList extends React.Component {
         {filteredCards.map(card => (
           <CardListItem card={card}
                         key={card.name}
+                        options={this.props.options}
                         onCardSelect={this.props.onCardSelect}
                         selectedCard={this.props.selectedCard}/>
         ))}

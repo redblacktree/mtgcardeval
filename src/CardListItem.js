@@ -23,13 +23,14 @@ class CardListItem extends React.Component {
   render() {
     const card = this.props.card;
     const selectedCard = this.props.selectedCard;
+    const options = this.props.options;
 
     return (
       <ListGroup.Item active={selectedCard !== null && selectedCard.name === card.name}
                       onClick={this.handleCardSelect}>
         <Row>
           <Col xs={9}>{card.name}</Col>
-          <Col xs={3}>{card.grade}</Col>
+          <Col xs={3}>{card.grade[options.gradeDisplay] ? card.grade[options.gradeDisplay] : "--"}</Col>
         </Row>
       </ListGroup.Item>
     )

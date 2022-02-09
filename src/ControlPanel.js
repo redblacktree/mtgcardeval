@@ -56,6 +56,7 @@ class ControlPanel extends React.Component {
           <Search onFilterTextChange={this.handleFilterTextChange}/>
           <CardList cards={this.props.cards}
                     selectedColors={this.state.selectedColors}
+                    options={this.props.options}
                     filterText={this.state.filterText}
                     selectedCard={this.props.selectedCard}
                     onCardSelect={this.props.onCardSelect}/>

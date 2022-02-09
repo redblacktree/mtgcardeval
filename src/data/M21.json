@@ -10,7 +10,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A",
+      "grade": {
+        "LR": "A"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/c/9c017fa9-7021-417a-9c2e-3df409644fcf.png?1592760526",
       "set_code": "m21",
       "collector_num": "1"
@@ -25,7 +27,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/3/c392a7e5-6ff5-4c2f-9590-f8811a724f44.png?1592760531",
       "set_code": "m21",
       "collector_num": "2"
@@ -40,7 +44,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/8/e8cca776-b0e4-4cd2-815f-36c1f86cf497.png?1592760537",
       "set_code": "m21",
       "collector_num": "3"
@@ -55,7 +61,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/c/9c977c67-b0c0-40b0-b129-28de094aaf40.png?1592760542",
       "set_code": "m21",
       "collector_num": "4"
@@ -70,7 +78,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/5/c5b57247-81cc-44ec-b5a9-0702111a98a8.png?1592760548",
       "set_code": "m21",
       "collector_num": "5"
@@ -85,7 +95,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A+",
+      "grade": {
+        "LR": "A+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/b/4bd3014b-94bb-4a9f-92cf-239a2dcc7e97.png?1592760553",
       "set_code": "m21",
       "collector_num": "6"
@@ -100,7 +112,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/8/98c85699-2daf-4e87-a3be-465d02bd64bb.png?1592760559",
       "set_code": "m21",
       "collector_num": "7"
@@ -115,7 +129,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/8/08d1dd97-2675-4953-ab95-d47d23abfe05.png?1592760564",
       "set_code": "m21",
       "collector_num": "8"
@@ -130,7 +146,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A-",
+      "grade": {
+        "LR": "A-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/4/74b1eae0-1bf8-4922-a9e3-45c01ece9005.png?1592760570",
       "set_code": "m21",
       "collector_num": "9"
@@ -145,7 +163,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/2/c2e6fdc0-bdd4-4bba-b8f1-bbc8dfad038e.png?1592760575",
       "set_code": "m21",
       "collector_num": "10"
@@ -160,7 +180,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/6/46666fba-d4a7-4687-8747-a42e4c6d853e.png?1592760580",
       "set_code": "m21",
       "collector_num": "11"
@@ -175,7 +197,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/0/600d3517-e370-47ae-ac4f-c7ef8995a89c.png?1592760585",
       "set_code": "m21",
       "collector_num": "12"
@@ -190,7 +214,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/2/a24e8dba-5c86-4e32-8a52-61402f7fe9f0.png?1592760591",
       "set_code": "m21",
       "collector_num": "13"
@@ -205,7 +231,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D+",
+      "grade": {
+        "LR": "D+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/f/ff87a671-054f-4357-8a62-450d36559a1b.png?1592760596",
       "set_code": "m21",
       "collector_num": "14"
@@ -220,7 +248,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/c/5c23869b-c99a-49dd-9e29-fcc0eb63fad1.png?1592760604",
       "set_code": "m21",
       "collector_num": "15"
@@ -235,7 +265,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D-",
+      "grade": {
+        "LR": "D-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/3/c3de35fd-425d-46b8-bc7d-c2f05d86858d.png?1592760610",
       "set_code": "m21",
       "collector_num": "16"
@@ -250,7 +282,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "A-",
+      "grade": {
+        "LR": "A-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/e/8e742d49-e6f0-4016-ba4c-11878fad89cb.png?1592760615",
       "set_code": "m21",
       "collector_num": "17"
@@ -265,7 +299,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/b/fb4733e6-6fe2-4460-ac9f-82feb583d790.png?1592760621",
       "set_code": "m21",
       "collector_num": "18"
@@ -280,7 +316,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/3/73148b3b-73d3-4f57-8b67-1e91fbe112b9.png?1592760626",
       "set_code": "m21",
       "collector_num": "19"
@@ -295,7 +333,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/2/d2e3b99c-e48e-4f4d-ba7a-e9218137b432.png?1592760631",
       "set_code": "m21",
       "collector_num": "20"
@@ -310,7 +350,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/7/17d154d3-7ae5-43ff-9978-d974285e2c89.png?1592760637",
       "set_code": "m21",
       "collector_num": "21"
@@ -325,7 +367,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(A)",
+      "grade": {
+        "LR": "BA(A)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/e/6ea1ee60-5644-4f78-913d-32c36065957f.png?1592760642",
       "set_code": "m21",
       "collector_num": "22"
@@ -340,7 +384,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "BA(C)/SB(B)",
+      "grade": {
+        "LR": "BA(C)/SB(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/d/4d60e84e-be05-49da-9720-4225abe9d003.png?1592760649",
       "set_code": "m21",
       "collector_num": "23"
@@ -355,7 +401,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/3/032f6c5a-8d88-4a55-a54b-28df42d801e1.png?1592760654",
       "set_code": "m21",
       "collector_num": "24"
@@ -370,7 +418,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/5/d5f80411-0a95-4e0a-b7a8-af23ddf385cc.png?1592760660",
       "set_code": "m21",
       "collector_num": "25"
@@ -385,7 +435,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D+/D",
+      "grade": {
+        "LR": "D+/D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/1/31a500e6-01f5-4a3a-8839-68b9b515e919.png?1592760665",
       "set_code": "m21",
       "collector_num": "26"
@@ -400,7 +452,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/b/9b4e628f-5fc5-4c17-a07d-448d361d7e7c.png?1592760671",
       "set_code": "m21",
       "collector_num": "27"
@@ -415,7 +469,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/7/e70b7a73-484e-48f1-944c-3d38866cdc20.png?1592760676",
       "set_code": "m21",
       "collector_num": "28"
@@ -430,7 +486,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/8/a8b94bc1-68d1-41dc-914c-a33ecb9aeb49.png?1592760682",
       "set_code": "m21",
       "collector_num": "29"
@@ -445,7 +503,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/f/3f602ecc-c264-4f3e-adeb-d0186668653e.png?1592760687",
       "set_code": "m21",
       "collector_num": "30"
@@ -460,7 +520,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D+",
+      "grade": {
+        "LR": "D+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/3/a3bd4bce-8ab0-40b9-aad7-7d57a011bb0b.png?1592760692",
       "set_code": "m21",
       "collector_num": "31"
@@ -475,7 +537,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/1/61296b2d-4e5c-419a-8775-4e6af902c7b1.png?1592760697",
       "set_code": "m21",
       "collector_num": "32"
@@ -490,7 +554,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B-)",
+      "grade": {
+        "LR": "BA(B-)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/4/34a5478a-1a2c-4117-b543-da083ed2b562.png?1592760703",
       "set_code": "m21",
       "collector_num": "33"
@@ -505,7 +571,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/e/feb59931-8941-46fb-8e1c-f80ff3730dd9.png?1592760708",
       "set_code": "m21",
       "collector_num": "34"
@@ -520,7 +588,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C/D",
+      "grade": {
+        "LR": "C/D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/6/d6467d96-e43a-4b1e-b6ce-578d991077b5.png?1592760713",
       "set_code": "m21",
       "collector_num": "35"
@@ -535,7 +605,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/9/6911759c-7177-402c-a95a-f9f46efaf521.png?1592760719",
       "set_code": "m21",
       "collector_num": "36"
@@ -550,7 +622,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/a/7a0ffa89-e6ee-466c-8edc-dd24c8b52e80.png?1592760724",
       "set_code": "m21",
       "collector_num": "37"
@@ -565,7 +639,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "BA(C)/D",
+      "grade": {
+        "LR": "BA(C)/D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/f/1f44b96a-8498-414a-a4ac-54c80dfa9f23.png?1592760729",
       "set_code": "m21",
       "collector_num": "38"
@@ -580,7 +656,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/b/db17f25a-32d1-469b-bb5f-f1761e227990.png?1592760735",
       "set_code": "m21",
       "collector_num": "39"
@@ -595,7 +673,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/9/a90c1ad0-83bd-471c-8d4c-e65bc2abaa18.png?1592760740",
       "set_code": "m21",
       "collector_num": "40"
@@ -610,7 +690,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/b/3b43d7bc-173c-41eb-bba9-a9d94dcfc5fa.png?1592760746",
       "set_code": "m21",
       "collector_num": "41"
@@ -625,7 +707,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/a/aa01cb8c-f080-456b-a91a-f1d7943a70b2.png?1592760751",
       "set_code": "m21",
       "collector_num": "42"
@@ -640,7 +724,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/7/17b59819-4746-4c67-b6e5-4157d498a065.png?1592760757",
       "set_code": "m21",
       "collector_num": "43"
@@ -655,7 +741,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/2/f234999b-54e9-40f5-a537-7d6ce169c710.png?1592760762",
       "set_code": "m21",
       "collector_num": "44"
@@ -670,7 +758,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/b/cb078fbb-beb9-4c0b-be93-ed1e73e6f8d8.png?1592760767",
       "set_code": "m21",
       "collector_num": "45"
@@ -685,7 +775,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/9/59e14910-ee2e-49ae-855e-46a8ab6cad82.png?1592760773",
       "set_code": "m21",
       "collector_num": "46"
@@ -700,7 +792,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/5/f5ed9f08-56e8-4e24-aae2-05270d7c1ba8.png?1592760778",
       "set_code": "m21",
       "collector_num": "47"
@@ -715,7 +809,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/3/b33ba0a8-04e9-4df6-af20-a3ca4470cdcc.png?1592760783",
       "set_code": "m21",
       "collector_num": "48"
@@ -730,7 +826,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "A-",
+      "grade": {
+        "LR": "A-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/3/d3bc7176-abe0-47cf-a242-cf22a1f590be.png?1592760788",
       "set_code": "m21",
       "collector_num": "49"
@@ -745,7 +843,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(?)",
+      "grade": {
+        "LR": "BA(?)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/f/8f14abb0-0e9f-448e-85d7-6cb71f756c56.png?1592760793",
       "set_code": "m21",
       "collector_num": "50"
@@ -760,7 +860,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/9/393fc485-d3c1-4826-933d-89f66df769d4.png?1592760798",
       "set_code": "m21",
       "collector_num": "51"
@@ -775,7 +877,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/8/2810631f-c55c-4947-a26f-4d3ce76024b3.png?1592760804",
       "set_code": "m21",
       "collector_num": "52"
@@ -790,7 +894,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C/C+",
+      "grade": {
+        "LR": "C/C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/1/a188164c-01fe-4980-83a5-91d14e218cf5.png?1592760809",
       "set_code": "m21",
       "collector_num": "53"
@@ -805,7 +911,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/c/cce6289e-f665-4faa-8285-c843447f3e52.png?1592760813",
       "set_code": "m21",
       "collector_num": "54"
@@ -820,7 +928,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/b/cb33529b-80bd-4f52-94cc-d8371c53ad75.png?1592760819",
       "set_code": "m21",
       "collector_num": "55"
@@ -835,7 +945,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D/C",
+      "grade": {
+        "LR": "D/C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/4/64832674-beb1-446e-b2f7-8a5e271139a5.png?1592760824",
       "set_code": "m21",
       "collector_num": "56"
@@ -850,7 +962,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "SB(B)",
+      "grade": {
+        "LR": "SB(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/3/033afbd5-9937-4957-98ba-48e469a490bb.png?1592760829",
       "set_code": "m21",
       "collector_num": "57"
@@ -865,7 +979,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+/B-",
+      "grade": {
+        "LR": "C+/B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/9/d961c441-b76b-4bd8-b510-a3e073207a1b.png?1592760834",
       "set_code": "m21",
       "collector_num": "58"
@@ -880,7 +996,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C/C+",
+      "grade": {
+        "LR": "C/C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/2/323db259-d35e-467d-9a46-4adcb2fc107c.png?1592760840",
       "set_code": "m21",
       "collector_num": "59"
@@ -895,7 +1013,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/1/b1501118-5837-49b5-9446-0bc3032035ca.png?1592760845",
       "set_code": "m21",
       "collector_num": "60"
@@ -910,7 +1030,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/a/da367981-9d6f-419f-9f58-f969b6183336.png?1592760850",
       "set_code": "m21",
       "collector_num": "61"
@@ -925,7 +1047,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D/C-",
+      "grade": {
+        "LR": "D/C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/3/5360fe8c-41b0-4409-b03e-072f129fb352.png?1592760856",
       "set_code": "m21",
       "collector_num": "62"
@@ -940,7 +1064,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/8/b832abcc-9ffd-47bf-827a-01b303c610ee.png?1592760861",
       "set_code": "m21",
       "collector_num": "63"
@@ -955,7 +1081,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/5/d5acb8ef-5a57-4d10-b59c-2dbf84635084.png?1592760866",
       "set_code": "m21",
       "collector_num": "64"
@@ -970,7 +1098,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/c/8cbac0e4-f79f-476d-b410-d19ab3696606.png?1592760871",
       "set_code": "m21",
       "collector_num": "65"
@@ -985,7 +1115,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/1/b19de7a5-c291-405b-a2e6-8d3ac56e6570.png?1592760876",
       "set_code": "m21",
       "collector_num": "66"
@@ -1000,7 +1132,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/8/c82be2ca-8350-4cf5-83b6-e8b60a9e21c6.png?1592760881",
       "set_code": "m21",
       "collector_num": "67"
@@ -1015,7 +1149,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/0/80b2fb65-5868-4cab-b45d-e103558ce7dc.png?1592760886",
       "set_code": "m21",
       "collector_num": "68"
@@ -1030,7 +1166,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/1/91af15cc-fdd5-4d72-a53a-314fa5353527.png?1592760892",
       "set_code": "m21",
       "collector_num": "69"
@@ -1045,7 +1183,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/a/7a5a88e3-e73c-4b34-a645-06fe27e68cee.png?1592760897",
       "set_code": "m21",
       "collector_num": "70"
@@ -1060,7 +1200,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/9/59d38ef7-5017-4ea3-b97f-a8fe12d03e98.png?1592760904",
       "set_code": "m21",
       "collector_num": "71"
@@ -1075,7 +1217,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D+",
+      "grade": {
+        "LR": "D+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/d/6d42d3dd-29df-44a1-89b8-994761eda77d.png?1592760909",
       "set_code": "m21",
       "collector_num": "72"
@@ -1090,7 +1234,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/5/0540ee72-6370-4f70-9526-6f441b3cac1e.png?1592760915",
       "set_code": "m21",
       "collector_num": "73"
@@ -1105,7 +1251,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A+",
+      "grade": {
+        "LR": "A+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/d/ad1bcb44-a562-4f66-b862-6d0ef3546ab4.png?1592760920",
       "set_code": "m21",
       "collector_num": "74"
@@ -1120,7 +1268,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/c/9c0c61e3-9f3d-4e7f-9046-0ea336dd8a2d.png?1592760925",
       "set_code": "m21",
       "collector_num": "75"
@@ -1135,7 +1285,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/3/c38d1722-96b0-4756-9da9-fe18b1c80649.png?1592760931",
       "set_code": "m21",
       "collector_num": "76"
@@ -1150,7 +1302,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-/C",
+      "grade": {
+        "LR": "C-/C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/4/5449d71c-5c1b-44c6-9407-0212aa3c3e3a.png?1592760936",
       "set_code": "m21",
       "collector_num": "77"
@@ -1165,7 +1319,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B+)",
+      "grade": {
+        "LR": "BA(B+)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/2/c26450d4-125f-423d-b074-3c959460c242.png?1592760941",
       "set_code": "m21",
       "collector_num": "78"
@@ -1180,7 +1336,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/e/dee1d595-a998-4652-931f-a1a72446f3a6.png?1592760947",
       "set_code": "m21",
       "collector_num": "79"
@@ -1195,7 +1353,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/2/c2776694-6183-498d-9a38-e4c5c9e78179.png?1592760952",
       "set_code": "m21",
       "collector_num": "80"
@@ -1210,7 +1370,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/3/0360d27b-37e1-4e00-9cfc-b574efc38ea0.png?1592760957",
       "set_code": "m21",
       "collector_num": "81"
@@ -1225,7 +1387,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/d/2dc0bafd-debc-4b62-9fe0-56b4aad02484.png?1592760963",
       "set_code": "m21",
       "collector_num": "82"
@@ -1240,7 +1404,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/5/a52e90c0-b012-4ce5-8462-1e33c7143de5.png?1592760968",
       "set_code": "m21",
       "collector_num": "83"
@@ -1255,7 +1421,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/b/abb47990-a5a9-4a22-a8bb-d229b17132c6.png?1592760973",
       "set_code": "m21",
       "collector_num": "84"
@@ -1270,7 +1438,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/a/6ac0f66a-213f-463e-8ebb-35ff5940ea06.png?1592760979",
       "set_code": "m21",
       "collector_num": "85"
@@ -1285,7 +1455,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/4/348955a0-e988-48d7-a6a0-a8045fcffd25.png?1592760984",
       "set_code": "m21",
       "collector_num": "86"
@@ -1300,7 +1472,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/e/6e4c9574-1ee3-461e-848f-8f02c6a8b7ee.png?1592760989",
       "set_code": "m21",
       "collector_num": "87"
@@ -1315,7 +1489,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(D)",
+      "grade": {
+        "LR": "BA(D)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/3/83437022-ba00-4370-83c2-ce1260336fcc.png?1592760995",
       "set_code": "m21",
       "collector_num": "88"
@@ -1330,7 +1506,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/a/7a3f8bc2-ef66-474f-92a3-9c4df1670cec.png?1592761000",
       "set_code": "m21",
       "collector_num": "89"
@@ -1345,7 +1523,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/8/28ff52a2-4223-4551-b388-b4dd21cc1437.png?1592761006",
       "set_code": "m21",
       "collector_num": "90"
@@ -1360,7 +1540,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/8/f8067745-35b6-4abd-9ae9-712159a26c89.png?1592761012",
       "set_code": "m21",
       "collector_num": "91"
@@ -1375,7 +1557,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/1/31df3d95-bbdb-449d-9601-4fa844c3c640.png?1592761017",
       "set_code": "m21",
       "collector_num": "92"
@@ -1390,7 +1574,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C/C+",
+      "grade": {
+        "LR": "C/C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/0/c0bba170-5176-4fab-a10d-e23d70128875.png?1592761023",
       "set_code": "m21",
       "collector_num": "93"
@@ -1405,7 +1591,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/c/dc4513e1-9978-44ce-b7a5-4e2b5b63ad9e.png?1592761028",
       "set_code": "m21",
       "collector_num": "94"
@@ -1420,7 +1608,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A",
+      "grade": {
+        "LR": "A"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/6/56149192-ddc1-45a4-b7aa-be311da5fe8e.png?1592761034",
       "set_code": "m21",
       "collector_num": "95"
@@ -1435,7 +1625,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "SB(C)",
+      "grade": {
+        "LR": "SB(C)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/9/49c07ea0-27ff-46fb-a41f-3e378c977b5d.png?1592761040",
       "set_code": "m21",
       "collector_num": "96"
@@ -1450,7 +1642,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B/B-",
+      "grade": {
+        "LR": "B/B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/8/f8eb4087-3a4c-4de8-8e29-f4cd71acb180.png?1592761046",
       "set_code": "m21",
       "collector_num": "97"
@@ -1465,7 +1659,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/6/56a95546-c45a-4da5-b1e8-d5658b5b7d53.png?1592761051",
       "set_code": "m21",
       "collector_num": "98"
@@ -1480,7 +1676,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/b/2b85a552-2119-4d9c-b7c1-c09c2d9f2f38.png?1592761056",
       "set_code": "m21",
       "collector_num": "99"
@@ -1495,7 +1693,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(C)",
+      "grade": {
+        "LR": "BA(C)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/1/a1b4f7ec-ea2e-4d90-98cd-0c92bd9f64c1.png?1592761062",
       "set_code": "m21",
       "collector_num": "100"
@@ -1510,7 +1710,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/9/c9cd537c-e40e-438f-a751-e0ad8f6e6283.png?1592761067",
       "set_code": "m21",
       "collector_num": "101"
@@ -1525,7 +1727,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+/A-",
+      "grade": {
+        "LR": "B+/A-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/7/7737b578-8ae3-4846-b508-93ef40f25244.png?1592761073",
       "set_code": "m21",
       "collector_num": "102"
@@ -1540,7 +1744,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/2/928558ab-e29a-44cb-ac2f-88443571f41a.png?1592761078",
       "set_code": "m21",
       "collector_num": "103"
@@ -1555,7 +1761,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/c/ac38a51f-9a3b-451c-b72d-6d4e0b296fbd.png?1592761084",
       "set_code": "m21",
       "collector_num": "104"
@@ -1570,7 +1778,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/7/975e4b8e-add9-439c-9463-e2facee96c10.png?1592761090",
       "set_code": "m21",
       "collector_num": "105"
@@ -1585,7 +1795,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/0/b0fd1009-cd3d-4b53-b9f1-dbc47e8708ab.png?1592761095",
       "set_code": "m21",
       "collector_num": "106"
@@ -1600,7 +1812,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/8/88496096-fd9a-451a-85d9-31ccc3580623.png?1592761101",
       "set_code": "m21",
       "collector_num": "107"
@@ -1615,7 +1829,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B-/B+",
+      "grade": {
+        "LR": "B-/B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/3/e329a3e2-6702-4758-8aac-c3017e77b619.png?1592761106",
       "set_code": "m21",
       "collector_num": "108"
@@ -1630,7 +1846,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/e/ae5d7f15-a86f-4eaa-8280-2e7f73c8ce3a.png?1592761112",
       "set_code": "m21",
       "collector_num": "109"
@@ -1645,7 +1863,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/d/3dc48b87-62cb-48f6-8979-e6fb98717b52.png?1592761117",
       "set_code": "m21",
       "collector_num": "110"
@@ -1660,7 +1880,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/9/1945fc78-8aa4-46fb-9571-eaa1c4729e3d.png?1592761123",
       "set_code": "m21",
       "collector_num": "111"
@@ -1675,7 +1897,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/9/89e2bc57-8f18-4ba1-a11b-9d69d029f56a.png?1592761129",
       "set_code": "m21",
       "collector_num": "112"
@@ -1690,7 +1914,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/6/d61b4b71-3cbb-4422-8ce7-657ca3bb6a82.png?1592761135",
       "set_code": "m21",
       "collector_num": "113"
@@ -1705,7 +1931,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A+",
+      "grade": {
+        "LR": "A+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/3/e3185b01-0d91-4927-98e9-bc9df6c20917.png?1592761140",
       "set_code": "m21",
       "collector_num": "114"
@@ -1720,7 +1948,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/3/833a8604-92d5-443b-9bc0-bd91c973ef07.png?1592761146",
       "set_code": "m21",
       "collector_num": "115"
@@ -1735,7 +1965,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/2/32c5252e-ff15-4f86-ad63-d8286427e70f.png?1592761152",
       "set_code": "m21",
       "collector_num": "116"
@@ -1750,7 +1982,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/a/aac00055-640e-4749-8d23-d242e6d0b23a.png?1592761158",
       "set_code": "m21",
       "collector_num": "117"
@@ -1765,7 +1999,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/8/08b78aa8-a63a-4aa2-bb82-3fbf2595ed7c.png?1592761164",
       "set_code": "m21",
       "collector_num": "118"
@@ -1780,7 +2016,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/6/660ec88f-2063-404a-853e-c985e21d17b0.png?1592761169",
       "set_code": "m21",
       "collector_num": "119"
@@ -1795,7 +2033,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B+)/C+",
+      "grade": {
+        "LR": "BA(B+)/C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/1/d1439412-618c-483d-89b9-5ea37f0f1edc.png?1592761175",
       "set_code": "m21",
       "collector_num": "120"
@@ -1810,7 +2050,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/b/abfcd08a-cfb5-4d34-b950-f57a88c5cb8e.png?1592761180",
       "set_code": "m21",
       "collector_num": "121"
@@ -1825,7 +2067,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B+)/C+",
+      "grade": {
+        "LR": "BA(B+)/C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/f/ff5444cb-0ecd-4482-a8d8-09332f382dbd.png?1592761186",
       "set_code": "m21",
       "collector_num": "122"
@@ -1840,7 +2084,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/c/fcb8d414-7f80-4a61-a0f2-0f16bf53e1b9.png?1592761191",
       "set_code": "m21",
       "collector_num": "123"
@@ -1855,7 +2101,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(C+)",
+      "grade": {
+        "LR": "BA(C+)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/0/d00850e4-6be3-4246-ae45-c0e990e6d6e1.png?1592761197",
       "set_code": "m21",
       "collector_num": "124"
@@ -1870,7 +2118,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/f/df99f770-2c39-4025-a8a2-a5890f61eb53.png?1592761204",
       "set_code": "m21",
       "collector_num": "125"
@@ -1885,7 +2135,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/c/9c0f60a6-b5c8-4704-8b61-94e8fc463e5d.png?1592761209",
       "set_code": "m21",
       "collector_num": "126"
@@ -1900,7 +2152,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/f/0fe79ee4-c3f3-4a6b-a967-203ca3b70ee5.png?1592761215",
       "set_code": "m21",
       "collector_num": "127"
@@ -1915,7 +2169,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/5/053b59b4-a22c-4228-aadc-ae9da6bb465e.png?1592761220",
       "set_code": "m21",
       "collector_num": "128"
@@ -1930,7 +2186,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B-)",
+      "grade": {
+        "LR": "BA(B-)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/4/d43a3eb7-3daf-4667-b824-1f5d801c9341.png?1592761226",
       "set_code": "m21",
       "collector_num": "129"
@@ -1945,7 +2203,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+/B-",
+      "grade": {
+        "LR": "C+/B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/a/faca827d-0b35-48d7-acd6-13ecacc32b82.png?1592761231",
       "set_code": "m21",
       "collector_num": "130"
@@ -1960,7 +2220,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/f/9f8cf3f9-4e3b-4af2-b5ef-a97eb1d2b674.png?1592761237",
       "set_code": "m21",
       "collector_num": "131"
@@ -1975,7 +2237,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/0/6075e0a3-a0ab-4a11-8ad2-7dabb071d309.png?1592761243",
       "set_code": "m21",
       "collector_num": "132"
@@ -1990,7 +2254,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A-",
+      "grade": {
+        "LR": "A-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/b/ebb5e613-a803-42f3-840a-7089ac6b7e3d.png?1592761249",
       "set_code": "m21",
       "collector_num": "133"
@@ -2005,7 +2271,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D/F",
+      "grade": {
+        "LR": "D/F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/1/f19b4a80-41e1-4c5f-869a-682f08543f12.png?1592761255",
       "set_code": "m21",
       "collector_num": "134"
@@ -2020,7 +2288,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A",
+      "grade": {
+        "LR": "A"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/4/a4c3ca8c-c77c-43b8-84ad-796313ecc813.png?1592761261",
       "set_code": "m21",
       "collector_num": "135"
@@ -2035,7 +2305,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/d/ed875705-b7b6-4464-b16f-61629ffed04f.png?1592761267",
       "set_code": "m21",
       "collector_num": "136"
@@ -2050,7 +2322,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/1/91d3e366-4da5-42c8-bbd5-a0c178c0da28.png?1592761273",
       "set_code": "m21",
       "collector_num": "137"
@@ -2065,7 +2339,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B-)",
+      "grade": {
+        "LR": "BA(B-)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/7/e7744fcf-2336-489d-bc05-f3fce78713a9.png?1592761278",
       "set_code": "m21",
       "collector_num": "138"
@@ -2080,7 +2356,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/d/5d878dab-5ed2-4ef3-b2c7-472290892854.png?1592761284",
       "set_code": "m21",
       "collector_num": "139"
@@ -2095,7 +2373,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/2/8257c205-00cd-4d41-bd58-098575ea2343.png?1592761290",
       "set_code": "m21",
       "collector_num": "140"
@@ -2110,7 +2390,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "SB(D)/F",
+      "grade": {
+        "LR": "SB(D)/F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/f/bfe6a3a9-8d62-47c4-a78b-9baa9133a540.png?1592761296",
       "set_code": "m21",
       "collector_num": "141"
@@ -2125,7 +2407,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/5/754b77b4-4cc4-4e49-a7a4-667401e7e063.png?1592761301",
       "set_code": "m21",
       "collector_num": "142"
@@ -2140,7 +2424,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/b/0b12e4b7-2c45-4795-94d3-901f89b8f290.png?1592761307",
       "set_code": "m21",
       "collector_num": "143"
@@ -2155,7 +2441,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/a/2ae12125-73a3-488b-98b8-9f982addac56.png?1592761313",
       "set_code": "m21",
       "collector_num": "144"
@@ -2170,7 +2458,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/b/cb0e6279-8a66-4124-9def-fa0c83c26db9.png?1592761318",
       "set_code": "m21",
       "collector_num": "145"
@@ -2185,7 +2475,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A-",
+      "grade": {
+        "LR": "A-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/4/44b83bb7-00c8-4078-b27f-42a830a544b5.png?1592761324",
       "set_code": "m21",
       "collector_num": "146"
@@ -2200,7 +2492,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/a/fa4bf664-3b92-4598-b905-2bc090958c8b.png?1592761330",
       "set_code": "m21",
       "collector_num": "147"
@@ -2215,7 +2509,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/7/d7ac8bdd-851f-449d-a108-70578eabf254.png?1592761336",
       "set_code": "m21",
       "collector_num": "148"
@@ -2230,7 +2526,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/8/386e5cb2-39c8-453d-a642-c5d9f8495601.png?1592761342",
       "set_code": "m21",
       "collector_num": "149"
@@ -2245,7 +2543,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/6/869fb9f1-0d59-4874-aa52-ac665c3cc0e8.png?1592761348",
       "set_code": "m21",
       "collector_num": "150"
@@ -2260,7 +2560,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C/C+",
+      "grade": {
+        "LR": "C/C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/b/7bf663d3-850b-4a24-8e4b-08311adf4ed0.png?1592761354",
       "set_code": "m21",
       "collector_num": "151"
@@ -2275,7 +2577,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/b/4bfffc18-b36a-4dd5-909e-60ea9f8eb60b.png?1592761359",
       "set_code": "m21",
       "collector_num": "152"
@@ -2290,7 +2594,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/2/d2bfec5d-3182-415a-afe8-0b5511cfd656.png?1592761365",
       "set_code": "m21",
       "collector_num": "153"
@@ -2305,7 +2611,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/c/dc5e8221-fc2d-4d90-80f3-729606648c54.png?1592761371",
       "set_code": "m21",
       "collector_num": "154"
@@ -2320,7 +2628,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C/D",
+      "grade": {
+        "LR": "C/D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/6/76e42d07-57d9-4de4-8d41-eb42dd1573ed.png?1592761377",
       "set_code": "m21",
       "collector_num": "155"
@@ -2335,7 +2645,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/b/fbd306cf-6625-4414-b9e5-4b909bb1bb13.png?1592761383",
       "set_code": "m21",
       "collector_num": "156"
@@ -2350,7 +2662,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/8/482ae7f4-3950-4766-8392-eea753e29426.png?1592761389",
       "set_code": "m21",
       "collector_num": "157"
@@ -2365,7 +2679,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/9/a9a1cce7-1472-42fc-bfd3-c9ed9e563f03.png?1592761395",
       "set_code": "m21",
       "collector_num": "158"
@@ -2380,7 +2696,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/9/59fa8e8d-bcb8-47bf-b71a-df11c8d0f2c9.png?1592761401",
       "set_code": "m21",
       "collector_num": "159"
@@ -2395,7 +2713,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/2/62584e4f-dac1-4d99-ac0a-6a2451603889.png?1592761407",
       "set_code": "m21",
       "collector_num": "160"
@@ -2410,7 +2730,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/a/baefa06e-28ba-41b9-866e-1ed0c4969852.png?1592761413",
       "set_code": "m21",
       "collector_num": "161"
@@ -2427,7 +2749,9 @@
       ],
       "set_code": "m21",
       "image_url": "https://img.scryfall.com/cards/png/front/0/3/034b8d6d-95ea-434a-967a-e6675a7ce88a.png?1592761418",
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "collector_num": "162"
     },
     {
@@ -2440,7 +2764,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/6/064a6f1c-a058-4cc8-b467-5dbecb5eeb99.png?1592761424",
       "set_code": "m21",
       "collector_num": "163"
@@ -2455,7 +2781,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A+",
+      "grade": {
+        "LR": "A+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/3/432ecd5f-966f-4403-a973-51e175a524a0.png?1592761430",
       "set_code": "m21",
       "collector_num": "164"
@@ -2470,7 +2798,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/4/f4af156d-0fbf-4a4e-b0c1-db7e95be4903.png?1592761436",
       "set_code": "m21",
       "collector_num": "165"
@@ -2485,7 +2815,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/b/ab7052f1-9736-47b6-9da3-8c5ca925ab54.png?1592761442",
       "set_code": "m21",
       "collector_num": "166"
@@ -2500,7 +2832,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/2/f2fa5133-c238-47e8-befd-3729a3e4303a.png?1592761447",
       "set_code": "m21",
       "collector_num": "167"
@@ -2515,7 +2849,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C/C+",
+      "grade": {
+        "LR": "C/C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/8/38c18541-e95e-4ae0-be18-3bfcafa24ca2.png?1592761453",
       "set_code": "m21",
       "collector_num": "168"
@@ -2530,7 +2866,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/4/d47e9653-2a3a-4d37-8f3d-3dab4f468338.png?1592761459",
       "set_code": "m21",
       "collector_num": "169"
@@ -2545,7 +2883,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/8/e854e6a3-8684-43fa-9560-ef4c3b62c935.png?1592761465",
       "set_code": "m21",
       "collector_num": "170"
@@ -2560,7 +2900,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/e/7e22c791-6ef9-4f13-a14d-4f795f48bb1c.png?1592761471",
       "set_code": "m21",
       "collector_num": "171"
@@ -2575,7 +2917,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A",
+      "grade": {
+        "LR": "A"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/3/a31b6817-9b63-4d6f-a945-459b44ad184c.png?1592761476",
       "set_code": "m21",
       "collector_num": "172"
@@ -2590,7 +2934,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/b/0b8aff2c-1f7b-4507-b914-53f8c4706b3d.png?1592761482",
       "set_code": "m21",
       "collector_num": "173"
@@ -2605,7 +2951,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/d/3d0ec3bd-d894-4861-abcb-7b2e4f4de05c.png?1592761488",
       "set_code": "m21",
       "collector_num": "174"
@@ -2620,7 +2968,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/3/a3f6a13a-ab38-49d1-8712-f9c9135a23c8.png?1592761494",
       "set_code": "m21",
       "collector_num": "175"
@@ -2635,7 +2985,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/0/8059c52b-5d25-4052-b48a-e9e219a7a546.png?1592761500",
       "set_code": "m21",
       "collector_num": "176"
@@ -2650,7 +3002,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/a/4a433310-3fe2-4156-864d-7a6b2638340b.png?1592761506",
       "set_code": "m21",
       "collector_num": "177"
@@ -2665,7 +3019,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/8/288b056a-ea80-4fdc-990d-0ee1e9a7bf64.png?1592761512",
       "set_code": "m21",
       "collector_num": "178"
@@ -2680,7 +3036,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A+",
+      "grade": {
+        "LR": "A+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/5/d51269cf-a333-4a64-94cd-245798d840d2.png?1592761518",
       "set_code": "m21",
       "collector_num": "179"
@@ -2695,7 +3053,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/4/84a9485a-d356-4cbe-b257-b62008a21328.png?1592761524",
       "set_code": "m21",
       "collector_num": "180"
@@ -2710,7 +3070,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/7/17bc2af0-5a1d-4319-a285-6a15cf86be83.png?1592761529",
       "set_code": "m21",
       "collector_num": "181"
@@ -2725,7 +3087,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/0/4037e3b2-cb62-4f88-943d-3edcd6827c23.png?1592761535",
       "set_code": "m21",
       "collector_num": "182"
@@ -2740,7 +3104,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A-",
+      "grade": {
+        "LR": "A-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/f/af2fdbec-bca2-4af5-9c2a-28b0b35b18a3.png?1592761540",
       "set_code": "m21",
       "collector_num": "183"
@@ -2755,7 +3121,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/9/3928bbce-87b7-4b28-9af4-20362935c909.png?1592761546",
       "set_code": "m21",
       "collector_num": "184"
@@ -2770,7 +3138,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A-/B+",
+      "grade": {
+        "LR": "A-/B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/e/9e0fa0b6-5f3f-4669-84e8-2c38c9593d88.png?1592761552",
       "set_code": "m21",
       "collector_num": "185"
@@ -2785,7 +3155,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B+)",
+      "grade": {
+        "LR": "BA(B+)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/1/71a4860a-8bb6-45c0-b00a-b4a42da33ab9.png?1592761557",
       "set_code": "m21",
       "collector_num": "186"
@@ -2800,7 +3172,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C/C+",
+      "grade": {
+        "LR": "C/C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/f/5f22116a-8b6a-4bbe-999f-7329e1e2b2d9.png?1592761563",
       "set_code": "m21",
       "collector_num": "187"
@@ -2815,7 +3189,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/3/43c037e3-7d1a-48ca-8ecc-276696592f62.png?1592761569",
       "set_code": "m21",
       "collector_num": "188"
@@ -2830,7 +3206,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/c/7c08c80f-f27c-4e3a-b048-143aea740096.png?1592786197",
       "set_code": "m21",
       "collector_num": "189"
@@ -2845,7 +3223,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/3/531e1fc0-a3aa-4b57-87b2-79a31af5c922.png?1592761580",
       "set_code": "m21",
       "collector_num": "190"
@@ -2860,7 +3240,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "BA(B)",
+      "grade": {
+        "LR": "BA(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/d/7dcdcfce-3f32-48f9-83f8-87b9ccbf92e3.png?1592761586",
       "set_code": "m21",
       "collector_num": "191"
@@ -2875,7 +3257,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/8/3888197f-5da4-4413-9cad-b37a12ba1e60.png?1592761592",
       "set_code": "m21",
       "collector_num": "192"
@@ -2890,7 +3274,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/6/d6e23afa-7e08-4049-baf0-d4d0134ba2c8.png?1592761597",
       "set_code": "m21",
       "collector_num": "193"
@@ -2905,7 +3291,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/2/c2c4a0e7-9ca4-4291-94de-165cc2ded822.png?1592761603",
       "set_code": "m21",
       "collector_num": "194"
@@ -2920,7 +3308,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/1/d1abd95a-4ecc-479c-b200-5aaf7c993ef8.png?1592761609",
       "set_code": "m21",
       "collector_num": "195"
@@ -2935,7 +3325,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-",
+      "grade": {
+        "LR": "C-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/f/df520254-0c72-496b-9222-263ca9d3c5d5.png?1592761615",
       "set_code": "m21",
       "collector_num": "196"
@@ -2950,7 +3342,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B/B+",
+      "grade": {
+        "LR": "B/B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/c/1cd8cee8-7ea0-4037-8a3b-39334dc064fb.png?1592761621",
       "set_code": "m21",
       "collector_num": "197"
@@ -2965,7 +3359,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/2/a20d20f7-bc4d-42fa-9f5b-5bb330eb7f38.png?1592761626",
       "set_code": "m21",
       "collector_num": "198"
@@ -2980,7 +3376,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-/SB(B)",
+      "grade": {
+        "LR": "C-/SB(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/2/02392840-f0c4-462e-84ce-9a7cdd9f5efb.png?1592761632",
       "set_code": "m21",
       "collector_num": "199"
@@ -2995,7 +3393,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "SB(B)",
+      "grade": {
+        "LR": "SB(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/f/3f1b4490-d96d-4448-835b-6cc453c1f344.png?1592761638",
       "set_code": "m21",
       "collector_num": "200"
@@ -3010,7 +3410,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "SB(C)",
+      "grade": {
+        "LR": "SB(C)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/d/bd328139-0dc1-403b-ad79-b1cf3479ac33.png?1592761644",
       "set_code": "m21",
       "collector_num": "201"
@@ -3025,7 +3427,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-/C",
+      "grade": {
+        "LR": "C-/C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/e/fe39e38e-76e5-4883-b530-d3e30e88ccad.png?1592761650",
       "set_code": "m21",
       "collector_num": "202"
@@ -3040,7 +3444,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(B-)",
+      "grade": {
+        "LR": "BA(B-)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/c/5ca28cfd-1a1b-4176-8b07-993d3d7b7ae4.png?1592761655",
       "set_code": "m21",
       "collector_num": "203"
@@ -3055,7 +3461,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A",
+      "grade": {
+        "LR": "A"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/8/487116ab-b885-406b-aa54-56cb67eb3ca5.png?1592761662",
       "set_code": "m21",
       "collector_num": "204"
@@ -3070,7 +3478,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/9/1947f64a-5ca0-4dda-8bbd-8472e72ecf18.png?1592761667",
       "set_code": "m21",
       "collector_num": "205"
@@ -3085,7 +3495,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "SB(D)",
+      "grade": {
+        "LR": "SB(D)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/7/1776f5b4-1292-460f-9719-e1b603cee46c.png?1592761673",
       "set_code": "m21",
       "collector_num": "206"
@@ -3100,7 +3512,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C-/SB(B)",
+      "grade": {
+        "LR": "C-/SB(B)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/6/46700ccc-0975-49d1-b3fc-edb1eda3b624.png?1592761679",
       "set_code": "m21",
       "collector_num": "207"
@@ -3115,7 +3529,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/6/e6ab63c8-0adc-4d74-aee5-a58ce5c0dad8.png?1592761684",
       "set_code": "m21",
       "collector_num": "208"
@@ -3130,7 +3546,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/6/c6cf27a3-9bcf-475c-a324-7c3af50496dd.png?1592761690",
       "set_code": "m21",
       "collector_num": "209"
@@ -3145,7 +3563,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D+",
+      "grade": {
+        "LR": "D+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/d/6da62557-9783-4e6c-9b5f-2b77dbf96909.png?1592761696",
       "set_code": "m21",
       "collector_num": "210"
@@ -3160,7 +3580,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/4/b41b6c8a-bd76-4b69-ae72-4c8acac379b4.png?1592761701",
       "set_code": "m21",
       "collector_num": "211"
@@ -3175,7 +3597,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/b/8bba47c1-a874-456e-bea3-e99e2d61cfba.png?1592761707",
       "set_code": "m21",
       "collector_num": "212"
@@ -3190,7 +3614,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/1/f1d81cfc-cff8-4478-92b6-efbfc5084165.png?1592761713",
       "set_code": "m21",
       "collector_num": "213"
@@ -3205,7 +3631,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "BA(C)",
+      "grade": {
+        "LR": "BA(C)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/6/46ff0b33-d153-4b0e-ac48-7e5ed70dea09.png?1592761719",
       "set_code": "m21",
       "collector_num": "214"
@@ -3220,7 +3648,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/3/43224e74-2c51-40bd-bc34-f66e990a3e33.png?1592761724",
       "set_code": "m21",
       "collector_num": "215"
@@ -3235,7 +3665,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B/B+",
+      "grade": {
+        "LR": "B/B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/3/a328a93a-e720-46d5-a190-cc65d1c90cea.png?1592761730",
       "set_code": "m21",
       "collector_num": "216"
@@ -3250,7 +3682,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/f/1fa781df-859f-4346-9424-b3713b17e1f6.png?1592761736",
       "set_code": "m21",
       "collector_num": "217"
@@ -3265,7 +3699,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "A-/B+",
+      "grade": {
+        "LR": "A-/B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/f/6f1bace4-a327-4eb6-a6ef-8394e76c06b7.png?1592761741",
       "set_code": "m21",
       "collector_num": "218"
@@ -3280,7 +3716,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/4/642e0c48-1f77-41e0-abbe-f570b757cd66.png?1592761747",
       "set_code": "m21",
       "collector_num": "219"
@@ -3295,7 +3733,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/b/7bd3a903-23e0-4b5a-9c7e-390d5ced8371.png?1592761753",
       "set_code": "m21",
       "collector_num": "220"
@@ -3310,7 +3750,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/b/3be31fb0-115e-4e62-babd-16870f249f06.png?1592761759",
       "set_code": "m21",
       "collector_num": "221"
@@ -3325,7 +3767,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/2/e21827eb-fa49-4784-a86b-aef164a5018e.png?1592761764",
       "set_code": "m21",
       "collector_num": "222"
@@ -3340,7 +3784,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B/B+",
+      "grade": {
+        "LR": "B/B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/4/e449f985-d149-49eb-87d9-7a325215f82d.png?1592761770",
       "set_code": "m21",
       "collector_num": "223"
@@ -3355,7 +3801,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A",
+      "grade": {
+        "LR": "A"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/b/2bbd37b1-49cb-4295-9a1f-fb85368a8f12.png?1592761775",
       "set_code": "m21",
       "collector_num": "224"
@@ -3370,7 +3818,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/a/ba91338c-1f6c-4b83-851f-98c3e9dea17b.png?1592761781",
       "set_code": "m21",
       "collector_num": "225"
@@ -3385,7 +3835,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/d/5d387b19-a0a7-45c0-b1e9-71ca55fb4adc.png?1592761787",
       "set_code": "m21",
       "collector_num": "226"
@@ -3400,7 +3852,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B+",
+      "grade": {
+        "LR": "B+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/5/354b9ea4-3d55-48cc-b426-c46b1d1bb397.png?1592761793",
       "set_code": "m21",
       "collector_num": "227"
@@ -3415,7 +3869,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/a/3af78d76-ad5c-44ba-880d-b834bcde5398.png?1592761799",
       "set_code": "m21",
       "collector_num": "228"
@@ -3430,7 +3886,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/e/1e01bcb4-e823-4da5-b433-e75be3356367.png?1592761805",
       "set_code": "m21",
       "collector_num": "229"
@@ -3445,7 +3903,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/9/7988fd09-32a4-406b-8e7f-e77393d680a7.png?1592761810",
       "set_code": "m21",
       "collector_num": "230"
@@ -3460,7 +3920,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/3/b/3bd39a06-c53a-42c2-b2df-028358f03406.png?1592761816",
       "set_code": "m21",
       "collector_num": "231"
@@ -3475,7 +3937,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B",
+      "grade": {
+        "LR": "B"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/f/9fd761f3-6b43-4150-8595-dc3abd85b06c.png?1592761821",
       "set_code": "m21",
       "collector_num": "232"
@@ -3490,7 +3954,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D+",
+      "grade": {
+        "LR": "D+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/c/ec3a2c95-4e7a-43c5-90bd-6f1de7c82a5c.png?1592761827",
       "set_code": "m21",
       "collector_num": "233"
@@ -3505,7 +3971,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/7/27305aad-f1bd-4895-8611-143bc0250bee.png?1592761832",
       "set_code": "m21",
       "collector_num": "234"
@@ -3520,7 +3988,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/e/eedce8ab-771a-4247-9504-72ae0629df83.png?1592761837",
       "set_code": "m21",
       "collector_num": "235"
@@ -3535,7 +4005,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/7/973c166e-3e93-4ed5-b4c5-84dc158a8e4f.png?1592761843",
       "set_code": "m21",
       "collector_num": "236"
@@ -3550,7 +4022,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "D",
+      "grade": {
+        "LR": "D"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/4/e/4e12530d-5509-46f1-8273-dce2c1f60965.png?1592761849",
       "set_code": "m21",
       "collector_num": "237"
@@ -3565,7 +4039,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/a/cab69fbd-0179-4b02-adba-71d2a0eeea5c.png?1592761854",
       "set_code": "m21",
       "collector_num": "238"
@@ -3580,7 +4056,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "A-",
+      "grade": {
+        "LR": "A-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/7/b/7bbd2cab-538e-4932-a828-150e3e9d52ad.png?1592761859",
       "set_code": "m21",
       "collector_num": "239"
@@ -3595,7 +4073,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/a/d/ad357ed4-b4f2-45b5-b7c4-3c6013a4ea3d.png?1592761865",
       "set_code": "m21",
       "collector_num": "240"
@@ -3610,7 +4090,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "SB(F)",
+      "grade": {
+        "LR": "SB(F)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/c/9c224bf0-5641-4160-9d5c-46141ea8372a.png?1592761871",
       "set_code": "m21",
       "collector_num": "241"
@@ -3625,7 +4107,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "BA(C)",
+      "grade": {
+        "LR": "BA(C)"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/8/f8d7a2c7-666d-4fc6-bac8-ef8eb66e355d.png?1592761876",
       "set_code": "m21",
       "collector_num": "242"
@@ -3640,7 +4124,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/d/5d89a0e2-1163-4a11-b0df-deef2e6c8108.png?1592761882",
       "set_code": "m21",
       "collector_num": "243"
@@ -3655,7 +4141,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/8/c8483586-9a07-4f54-a390-7dd97fcea5cb.png?1592761887",
       "set_code": "m21",
       "collector_num": "244"
@@ -3670,7 +4158,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/b/3/b3b1afa0-9bb5-4566-a85e-86a5c03e0187.png?1592761892",
       "set_code": "m21",
       "collector_num": "245"
@@ -3685,7 +4175,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "C+",
+      "grade": {
+        "LR": "C+"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/d/3/d313d051-7295-4884-8cbf-f2f835fd45f4.png?1592761897",
       "set_code": "m21",
       "collector_num": "246"
@@ -3700,7 +4192,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/6/9/69f28d7a-6480-4725-9719-2354921e6410.png?1592761903",
       "set_code": "m21",
       "collector_num": "247"
@@ -3715,7 +4209,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "F",
+      "grade": {
+        "LR": "F"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/2/0296c34b-120b-483e-8b49-6d432c04f9a4.png?1592761908",
       "set_code": "m21",
       "collector_num": "248"
@@ -3730,7 +4226,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/9/d/9daef8db-56a5-4b1e-b4bf-734d0516557c.png?1592761914",
       "set_code": "m21",
       "collector_num": "249"
@@ -3745,7 +4243,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/e/feb3d45c-a28c-49d2-ab79-53ab42c7fdfd.png?1592761919",
       "set_code": "m21",
       "collector_num": "250"
@@ -3760,7 +4260,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/e/6/e649fc68-fca5-4234-aff4-0ec2382a66d4.png?1592761924",
       "set_code": "m21",
       "collector_num": "251"
@@ -3775,7 +4277,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/1/6/1652bb3c-c365-4046-b07e-3d861fa324c6.png?1592761930",
       "set_code": "m21",
       "collector_num": "252"
@@ -3790,7 +4294,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/c/9/c97929f8-ae80-4b4a-9d9b-2f3c7605edc8.png?1592761935",
       "set_code": "m21",
       "collector_num": "253"
@@ -3805,7 +4311,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/8/1/81634185-eb67-4d13-8b82-a662b8c9a7f0.png?1592761941",
       "set_code": "m21",
       "collector_num": "254"
@@ -3820,7 +4328,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/f/0f5b0f0a-dc16-45e2-91ab-28e0b9f66d00.png?1592761946",
       "set_code": "m21",
       "collector_num": "255"
@@ -3835,7 +4345,9 @@
           "videoId": "jqtDAnDUEug"
         }
       ],
-      "grade": "B-",
+      "grade": {
+        "LR": "B-"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/2/3/2366499c-9d07-46bb-8488-6cd60056fa16.png?1592761951",
       "set_code": "m21",
       "collector_num": "256"
@@ -3850,7 +4362,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/f/8/f82851a5-5f70-488a-b21c-bdd65d2fca7c.png?1592761956",
       "set_code": "m21",
       "collector_num": "257"
@@ -3865,7 +4379,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/0/f/0fee9b4b-1510-4b78-bdde-2e0bb319ee33.png?1592761961",
       "set_code": "m21",
       "collector_num": "258"
@@ -3880,7 +4396,9 @@
           "videoId": "JK6vCswRK2k"
         }
       ],
-      "grade": "C",
+      "grade": {
+        "LR": "C"
+      },
       "image_url": "https://img.scryfall.com/cards/png/front/5/6/56d7428b-25a7-4185-8c3e-69017bd1ba6d.png?1592761967",
       "set_code": "m21",
       "collector_num": "259"

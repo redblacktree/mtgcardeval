@@ -15,7 +15,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Battershield Warrior",
@@ -32,7 +34,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Battlefield Raptor",
@@ -49,7 +53,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C-"
+      "grade": {
+        "LR": "C-"
+      }
     },
     {
       "name": "Beskir Shieldmate",
@@ -66,7 +72,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Bound in Gold",
@@ -83,7 +91,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Clarion Spirit",
@@ -100,7 +110,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Codespell Cleric",
@@ -117,7 +129,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Divine Gambit",
@@ -134,7 +148,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Doomskar",
@@ -151,7 +167,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Doomskar Oracle",
@@ -168,7 +186,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Giant Ox",
@@ -185,7 +205,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Glorious Protector",
@@ -202,7 +224,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Gods' Hall Guardian",
@@ -219,7 +243,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Goldmaw Champion",
@@ -236,7 +262,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Halvar, God of Battle // Sword of the Realms",
@@ -251,7 +279,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A+"
+      "grade": {
+        "LR": "A+"
+      }
     },
     {
       "name": "Invoke the Divine",
@@ -268,7 +298,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "SB(C+)"
+      "grade": {
+        "LR": "SB(C+)"
+      }
     },
     {
       "name": "Iron Verdict",
@@ -285,7 +317,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Kaya's Onslaught",
@@ -302,7 +336,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Master Skald",
@@ -319,7 +355,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(B)"
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Rally the Ranks",
@@ -336,7 +374,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(B)"
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Reidane, God of the Worthy // Valkmira, Protector's Shield",
@@ -351,7 +391,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A/A-"
+      "grade": {
+        "LR": "A/A-"
+      }
     },
     {
       "name": "Resplendent Marshal",
@@ -368,7 +410,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Revitalize",
@@ -385,7 +429,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Righteous Valkyrie",
@@ -402,7 +448,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Rune of Sustenance",
@@ -419,7 +467,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Runeforge Champion",
@@ -436,7 +486,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(B)"
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Search for Glory",
@@ -453,7 +505,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(D)"
+      "grade": {
+        "LR": "BA(D)"
+      }
     },
     {
       "name": "Shepherd of the Cosmos",
@@ -470,7 +524,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Sigrid, God-Favored",
@@ -487,7 +543,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Spectral Steel",
@@ -504,7 +562,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Stalwart Valkyrie",
@@ -521,7 +581,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Starnheim Courser",
@@ -538,7 +600,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Starnheim Unleashed",
@@ -555,7 +619,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A+"
+      "grade": {
+        "LR": "A+"
+      }
     },
     {
       "name": "Story Seeker",
@@ -572,7 +638,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Usher of the Fallen",
@@ -589,7 +657,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Valkyrie's Sword",
@@ -606,7 +676,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B/C+"
+      "grade": {
+        "LR": "B/C+"
+      }
     },
     {
       "name": "Valor of the Worthy",
@@ -623,7 +695,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Warhorn Blast",
@@ -640,7 +714,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(C+)"
+      "grade": {
+        "LR": "BA(C+)"
+      }
     },
     {
       "name": "Wings of the Cosmos",
@@ -657,7 +733,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C-"
+      "grade": {
+        "LR": "C-"
+      }
     },
     {
       "name": "Alrund, God of the Cosmos // Hakka, Whispering Raven",
@@ -672,7 +750,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Alrund's Epiphany",
@@ -689,7 +769,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Annul",
@@ -706,7 +788,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "SB(D)"
+      "grade": {
+        "LR": "SB(D)"
+      }
     },
     {
       "name": "Ascendant Spirit",
@@ -723,7 +807,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "F/BA(B)"
+      "grade": {
+        "LR": "F/BA(B)"
+      }
     },
     {
       "name": "Augury Raven",
@@ -740,7 +826,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Avalanche Caller",
@@ -757,7 +845,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(B)"
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Behold the Multiverse",
@@ -774,7 +864,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Berg Strider",
@@ -791,7 +883,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Bind the Monster",
@@ -808,7 +902,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Brinebarrow Intruder",
@@ -825,7 +921,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C/C-"
+      "grade": {
+        "LR": "C/C-"
+      }
     },
     {
       "name": "Cosima, God of the Voyage // The Omenkeel",
@@ -840,7 +938,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Cosmos Charger",
@@ -857,7 +957,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Cyclone Summoner",
@@ -874,7 +976,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Depart the Realm",
@@ -891,7 +995,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Disdainful Stroke",
@@ -908,7 +1014,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Draugr Thought-Thief",
@@ -925,7 +1033,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Frost Augur",
@@ -942,7 +1052,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(C)"
+      "grade": {
+        "LR": "BA(C)"
+      }
     },
     {
       "name": "Frostpeak Yeti",
@@ -959,7 +1071,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Frostpyre Arcanist",
@@ -976,7 +1090,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Giant's Amulet",
@@ -993,7 +1109,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Glimpse the Cosmos",
@@ -1010,7 +1128,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Graven Lore",
@@ -1027,7 +1147,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Icebind Pillar",
@@ -1044,7 +1166,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(B+)"
+      "grade": {
+        "LR": "BA(B+)"
+      }
     },
     {
       "name": "Icebreaker Kraken",
@@ -1061,7 +1185,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(A)"
+      "grade": {
+        "LR": "BA(A)"
+      }
     },
     {
       "name": "Inga Rune-Eyes",
@@ -1078,7 +1204,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Karfell Harbinger",
@@ -1095,7 +1223,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Littjara Kinseekers",
@@ -1112,7 +1242,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Mists of Littjara",
@@ -1129,7 +1261,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Mistwalker",
@@ -1146,7 +1280,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Mystic Reflection",
@@ -1163,7 +1299,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Orvar, the All-Form",
@@ -1180,7 +1318,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Pilfering Hawk",
@@ -1197,7 +1337,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Ravenform",
@@ -1214,7 +1356,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D/SB(C)"
+      "grade": {
+        "LR": "D/SB(C)"
+      }
     },
     {
       "name": "Reflections of Littjara",
@@ -1231,7 +1375,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(B)/BA(A)"
+      "grade": {
+        "LR": "BA(B)/BA(A)"
+      }
     },
     {
       "name": "Run Ashore",
@@ -1248,7 +1394,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Rune of Flight",
@@ -1265,7 +1413,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Saw It Coming",
@@ -1282,7 +1432,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Strategic Planning",
@@ -1299,7 +1451,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Undersea Invader",
@@ -1316,7 +1470,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Blood on the Snow",
@@ -1333,7 +1489,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C+/B"
+      "grade": {
+        "LR": "C+/B"
+      }
     },
     {
       "name": "Bloodsky Berserker",
@@ -1350,7 +1508,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Burning-Rune Demon",
@@ -1367,7 +1527,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A+"
+      "grade": {
+        "LR": "A+"
+      }
     },
     {
       "name": "Crippling Fear",
@@ -1384,7 +1546,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Deathknell Berserker",
@@ -1401,7 +1565,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D+/C-"
+      "grade": {
+        "LR": "D+/C-"
+      }
     },
     {
       "name": "Demonic Gifts",
@@ -1418,7 +1584,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Dogged Pursuit",
@@ -1435,7 +1603,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Draugr Necromancer",
@@ -1452,7 +1622,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Draugr Recruiter",
@@ -1469,7 +1641,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Draugr's Helm",
@@ -1486,7 +1660,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Dread Rider",
@@ -1503,7 +1679,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D+"
+      "grade": {
+        "LR": "D+"
+      }
     },
     {
       "name": "Dream Devourer",
@@ -1520,7 +1698,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Duskwielder",
@@ -1537,7 +1717,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Egon, God of Death // Throne of Death",
@@ -1552,7 +1734,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Elderfang Disciple",
@@ -1569,7 +1753,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Eradicator Valkyrie",
@@ -1586,7 +1772,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Feed the Serpent",
@@ -1603,7 +1791,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Grim Draugr",
@@ -1620,7 +1810,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C-"
+      "grade": {
+        "LR": "C-"
+      }
     },
     {
       "name": "Hailstorm Valkyrie",
@@ -1637,7 +1829,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D/BA(C)"
+      "grade": {
+        "LR": "D/BA(C)"
+      }
     },
     {
       "name": "Haunting Voyage",
@@ -1654,7 +1848,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Infernal Pet",
@@ -1671,7 +1867,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Jarl of the Forsaken",
@@ -1688,7 +1886,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-/C+"
+      "grade": {
+        "LR": "B-/C+"
+      }
     },
     {
       "name": "Karfell Kennel-Master",
@@ -1705,7 +1905,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Koma's Faithful",
@@ -1722,7 +1924,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Poison the Cup",
@@ -1739,7 +1943,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Priest of the Haunted Edge",
@@ -1756,7 +1962,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(C)"
+      "grade": {
+        "LR": "BA(C)"
+      }
     },
     {
       "name": "Raise the Draugr",
@@ -1773,7 +1981,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Return Upon the Tide",
@@ -1790,7 +2000,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Rise of the Dread Marn",
@@ -1807,7 +2019,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B-/B"
+      "grade": {
+        "LR": "B-/B"
+      }
     },
     {
       "name": "Rune of Mortality",
@@ -1824,7 +2038,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Skemfar Avenger",
@@ -1841,7 +2057,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Skemfar Shadowsage",
@@ -1858,7 +2076,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+B-"
+      "grade": {
+        "LR": "C+B-"
+      }
     },
     {
       "name": "Skull Raid",
@@ -1875,7 +2095,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C-"
+      "grade": {
+        "LR": "C-"
+      }
     },
     {
       "name": "Tergrid, God of Fright // Tergrid's Lantern",
@@ -1890,7 +2112,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Tergrid's Shadow",
@@ -1907,7 +2131,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Valki, God of Lies // Tibalt, Cosmic Impostor",
@@ -1922,7 +2148,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A+"
+      "grade": {
+        "LR": "A+"
+      }
     },
     {
       "name": "Varragoth, Bloodsky Sire",
@@ -1939,7 +2167,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+/A-"
+      "grade": {
+        "LR": "B+/A-"
+      }
     },
     {
       "name": "Vengeful Reaper",
@@ -1956,7 +2186,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Village Rites",
@@ -1973,7 +2205,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C-"
+      "grade": {
+        "LR": "C-"
+      }
     },
     {
       "name": "Weigh Down",
@@ -1990,7 +2224,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Withercrown",
@@ -2007,7 +2243,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Arni Brokenbrow",
@@ -2024,7 +2262,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Axgard Cavalry",
@@ -2041,7 +2281,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Basalt Ravager",
@@ -2058,7 +2300,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Birgi, God of Storytelling // Harnfel, Horn of Bounty",
@@ -2073,7 +2317,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Breakneck Berserker",
@@ -2090,7 +2336,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Calamity Bearer",
@@ -2107,7 +2355,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-/A"
+      "grade": {
+        "LR": "A-/A"
+      }
     },
     {
       "name": "Cinderheart Giant",
@@ -2124,7 +2374,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Craven Hulk",
@@ -2141,7 +2393,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Crush the Weak",
@@ -2158,7 +2412,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Demon Bolt",
@@ -2175,7 +2431,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Doomskar Titan",
@@ -2192,7 +2450,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Dragonkin Berserker",
@@ -2209,7 +2469,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Dual Strike",
@@ -2226,7 +2488,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Dwarven Hammer",
@@ -2243,7 +2507,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Dwarven Reinforcements",
@@ -2260,7 +2526,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Fearless Liberator",
@@ -2277,7 +2545,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Fearless Pup",
@@ -2294,7 +2564,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C-"
+      "grade": {
+        "LR": "C-"
+      }
     },
     {
       "name": "Frenzied Raider",
@@ -2311,7 +2583,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Frost Bite",
@@ -2328,7 +2602,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Goldspan Dragon",
@@ -2345,7 +2621,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A/A+"
+      "grade": {
+        "LR": "A/A+"
+      }
     },
     {
       "name": "Hagi Mob",
@@ -2362,7 +2640,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Immersturm Raider",
@@ -2379,7 +2659,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Magda, Brazen Outlaw",
@@ -2396,7 +2678,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Open the Omenpaths",
@@ -2413,7 +2697,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Provoke the Trolls",
@@ -2430,7 +2716,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Quakebringer",
@@ -2447,7 +2735,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A/A-"
+      "grade": {
+        "LR": "A/A-"
+      }
     },
     {
       "name": "Reckless Crew",
@@ -2464,7 +2754,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Run Amok",
@@ -2481,7 +2773,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D+"
+      "grade": {
+        "LR": "D+"
+      }
     },
     {
       "name": "Rune of Speed",
@@ -2498,7 +2792,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Seize the Spoils",
@@ -2515,7 +2811,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Shackles of Treachery",
@@ -2532,7 +2830,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Smashing Success",
@@ -2549,7 +2849,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "SB(D)"
+      "grade": {
+        "LR": "SB(D)"
+      }
     },
     {
       "name": "Squash",
@@ -2566,7 +2868,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Tibalt's Trickery",
@@ -2583,7 +2887,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Toralf, God of Fury // Toralf's Hammer",
@@ -2598,7 +2904,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A+"
+      "grade": {
+        "LR": "A+"
+      }
     },
     {
       "name": "Tormentor's Helm",
@@ -2615,7 +2923,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Tundra Fumarole",
@@ -2632,7 +2942,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Tuskeri Firewalker",
@@ -2649,7 +2961,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Vault Robber",
@@ -2666,7 +2980,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Arachnoform",
@@ -2683,7 +2999,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Battle Mammoth",
@@ -2700,7 +3018,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A/A+"
+      "grade": {
+        "LR": "A/A+"
+      }
     },
     {
       "name": "Blessing of Frost",
@@ -2717,7 +3037,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(B)"
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Blizzard Brawl",
@@ -2734,7 +3056,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-/B"
+      "grade": {
+        "LR": "B-/B"
+      }
     },
     {
       "name": "Boreal Outrider",
@@ -2751,7 +3075,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(B+)"
+      "grade": {
+        "LR": "BA(B+)"
+      }
     },
     {
       "name": "Broken Wings",
@@ -2768,7 +3094,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "SB(C+)"
+      "grade": {
+        "LR": "SB(C+)"
+      }
     },
     {
       "name": "Elderleaf Mentor",
@@ -2785,7 +3113,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Elven Bow",
@@ -2802,7 +3132,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Elvish Warmaster",
@@ -2819,7 +3151,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Esika, God of the Tree // The Prismatic Bridge",
@@ -2834,7 +3168,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Esika's Chariot",
@@ -2851,7 +3187,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Fynn, the Fangbearer",
@@ -2868,7 +3206,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-/B"
+      "grade": {
+        "LR": "B-/B"
+      }
     },
     {
       "name": "Glittering Frost",
@@ -2885,7 +3225,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(C)"
+      "grade": {
+        "LR": "BA(C)"
+      }
     },
     {
       "name": "Gnottvold Recluse",
@@ -2902,7 +3244,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Grizzled Outrider",
@@ -2919,7 +3263,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Guardian Gladewalker",
@@ -2936,7 +3282,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Horizon Seeker",
@@ -2953,7 +3301,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Icehide Troll",
@@ -2970,7 +3320,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(C)"
+      "grade": {
+        "LR": "BA(C)"
+      }
     },
     {
       "name": "In Search of Greatness",
@@ -2987,7 +3339,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Jaspera Sentinel",
@@ -3004,7 +3358,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Jorn, God of Winter // Kaldring, the Rimestaff",
@@ -3019,7 +3375,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(A)"
+      "grade": {
+        "LR": "BA(A)"
+      }
     },
     {
       "name": "King Harald's Revenge",
@@ -3036,7 +3394,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Kolvori, God of Kinship // The Ringhart Crest",
@@ -3051,7 +3411,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Littjara Glade-Warden",
@@ -3068,7 +3430,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Mammoth Growth",
@@ -3085,7 +3449,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Masked Vandal",
@@ -3102,7 +3468,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Old-Growth Troll",
@@ -3119,7 +3487,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+/A-"
+      "grade": {
+        "LR": "B+/A-"
+      }
     },
     {
       "name": "Path to the World Tree",
@@ -3136,7 +3506,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Ravenous Lindwurm",
@@ -3153,7 +3525,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Realmwalker",
@@ -3170,7 +3544,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Rootless Yew",
@@ -3187,7 +3563,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Roots of Wisdom",
@@ -3204,7 +3582,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Rune of Might",
@@ -3221,7 +3601,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Sarulf's Packmate",
@@ -3238,7 +3620,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Sculptor of Winter",
@@ -3255,7 +3639,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Snakeskin Veil",
@@ -3272,7 +3658,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Spirit of the Aldergard",
@@ -3289,7 +3677,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Struggle for Skemfar",
@@ -3306,7 +3696,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Toski, Bearer of Secrets",
@@ -3323,7 +3715,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Tyvar Kell",
@@ -3340,7 +3734,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Vorinclex, Monstrous Raider",
@@ -3357,7 +3753,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Aegar, the Freezing Flame",
@@ -3374,7 +3772,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Arni Slays the Troll",
@@ -3391,7 +3791,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Ascent of the Worthy",
@@ -3408,7 +3810,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Battle for Bretagard",
@@ -3425,7 +3829,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C/C+"
+      "grade": {
+        "LR": "C/C+"
+      }
     },
     {
       "name": "Battle of Frost and Fire",
@@ -3442,7 +3848,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "The Bears of Littjara",
@@ -3459,7 +3867,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+/A-"
+      "grade": {
+        "LR": "B+/A-"
+      }
     },
     {
       "name": "Binding the Old Gods",
@@ -3476,7 +3886,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "The Bloodsky Massacre",
@@ -3493,7 +3905,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Fall of the Impostor",
@@ -3510,7 +3924,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Firja, Judge of Valor",
@@ -3527,7 +3943,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Firja's Retribution",
@@ -3544,7 +3962,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A+"
+      "grade": {
+        "LR": "A+"
+      }
     },
     {
       "name": "Forging the Tyrite Sword",
@@ -3561,7 +3981,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Harald, King of Skemfar",
@@ -3578,7 +4000,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Harald Unites the Elves",
@@ -3595,7 +4019,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(B)"
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Immersturm Predator",
@@ -3612,7 +4038,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Invasion of the Giants",
@@ -3629,7 +4057,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Kardur, Doomscourge",
@@ -3646,7 +4076,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Kardur's Vicious Return",
@@ -3663,7 +4095,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Kaya the Inexorable",
@@ -3680,7 +4114,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A+"
+      "grade": {
+        "LR": "A+"
+      }
     },
     {
       "name": "King Narfi's Betrayal",
@@ -3697,7 +4133,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Koll, the Forgemaster",
@@ -3714,7 +4152,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(B)"
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Koma, Cosmos Serpent",
@@ -3731,7 +4171,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A+"
+      "grade": {
+        "LR": "A+"
+      }
     },
     {
       "name": "Maja, Bretagard Protector",
@@ -3748,7 +4190,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Moritte of the Frost",
@@ -3765,7 +4209,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-/C+"
+      "grade": {
+        "LR": "B-/C+"
+      }
     },
     {
       "name": "Narfi, Betrayer King",
@@ -3782,7 +4228,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(B+)"
+      "grade": {
+        "LR": "BA(B+)"
+      }
     },
     {
       "name": "Niko Aris",
@@ -3799,7 +4247,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Niko Defies Destiny",
@@ -3816,7 +4266,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(C+)"
+      "grade": {
+        "LR": "BA(C+)"
+      }
     },
     {
       "name": "The Raven's Warning",
@@ -3833,7 +4285,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Sarulf, Realm Eater",
@@ -3850,7 +4304,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A"
+      "grade": {
+        "LR": "A"
+      }
     },
     {
       "name": "Showdown of the Skalds",
@@ -3867,7 +4323,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Svella, Ice Shaper",
@@ -3884,7 +4342,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "The Three Seasons",
@@ -3901,7 +4361,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "BA(B-)"
+      "grade": {
+        "LR": "BA(B-)"
+      }
     },
     {
       "name": "The Trickster-God's Heist",
@@ -3918,7 +4380,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Vega, the Watcher",
@@ -3935,7 +4399,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Waking the Trolls",
@@ -3952,7 +4418,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "SB(B)"
+      "grade": {
+        "LR": "SB(B)"
+      }
     },
     {
       "name": "Bloodline Pretender",
@@ -3969,7 +4437,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B-"
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Colossal Plow",
@@ -3986,7 +4456,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Cosmos Elixir",
@@ -4003,7 +4475,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Funeral Longboat",
@@ -4020,7 +4494,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Goldvein Pick",
@@ -4037,7 +4513,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Maskwood Nexus",
@@ -4054,7 +4532,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "BA(B)"
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Pyre of Heroes",
@@ -4071,7 +4551,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Raiders' Karve",
@@ -4088,7 +4570,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D"
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Raven Wings",
@@ -4105,7 +4589,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C-"
+      "grade": {
+        "LR": "C-"
+      }
     },
     {
       "name": "Replicating Ring",
@@ -4122,7 +4608,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "D/F"
+      "grade": {
+        "LR": "D/F"
+      }
     },
     {
       "name": "Runed Crown",
@@ -4139,7 +4627,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Scorn Effigy",
@@ -4156,7 +4646,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C"
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Weathered Runestone",
@@ -4173,7 +4665,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Alpine Meadow",
@@ -4190,7 +4684,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Arctic Treeline",
@@ -4207,7 +4703,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Axgard Armory",
@@ -4224,7 +4722,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B/B+"
+      "grade": {
+        "LR": "B/B+"
+      }
     },
     {
       "name": "Barkchannel Pathway // Tidechannel Pathway",
@@ -4239,7 +4739,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Blightstep Pathway // Searstep Pathway",
@@ -4254,7 +4756,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Bretagard Stronghold",
@@ -4271,7 +4775,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Darkbore Pathway // Slitherbore Pathway",
@@ -4286,7 +4792,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Faceless Haven",
@@ -4303,7 +4811,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C/C+"
+      "grade": {
+        "LR": "C/C+"
+      }
     },
     {
       "name": "Gates of Istfell",
@@ -4320,7 +4830,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Glacial Floodplain",
@@ -4337,7 +4849,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Gnottvold Slumbermound",
@@ -4354,7 +4868,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B+"
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Great Hall of Starnheim",
@@ -4371,7 +4887,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Hengegate Pathway // Mistgate Pathway",
@@ -4386,7 +4904,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Highland Forest",
@@ -4403,7 +4923,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Ice Tunnel",
@@ -4420,7 +4942,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Immersturm Skullcairn",
@@ -4437,7 +4961,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Littjara Mirrorlake",
@@ -4454,7 +4980,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "A-"
+      "grade": {
+        "LR": "A-"
+      }
     },
     {
       "name": "Port of Karfell",
@@ -4471,7 +4999,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "?"
+      "grade": {
+        "LR": "?"
+      }
     },
     {
       "name": "Rimewood Falls",
@@ -4488,7 +5018,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Shimmerdrift Vale",
@@ -4505,7 +5037,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Skemfar Elderhall",
@@ -4522,7 +5056,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B/B+"
+      "grade": {
+        "LR": "B/B+"
+      }
     },
     {
       "name": "Snowfield Sinkhole",
@@ -4539,7 +5075,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Sulfurous Mire",
@@ -4556,7 +5094,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Surtland Frostpyre",
@@ -4573,7 +5113,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "B"
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Tyrite Sanctum",
@@ -4590,7 +5132,9 @@
           "videoId": "aBkKxA0RKtw"
         }
       ],
-      "grade": "F"
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Volatile Fjord",
@@ -4607,7 +5151,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Woodland Chasm",
@@ -4624,7 +5170,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+/B-"
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "The World Tree",
@@ -4633,7 +5181,8 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a70cb6d9-3955-4064-917b-11dec26440c5.png?1610586862"
       ],
       "set_code": "khm",
-      "collector_num": "275"
+      "collector_num": "275",
+      "grade": {}
     },
     {
       "name": "Snow-Covered Plains",
@@ -4650,7 +5199,9 @@
           "videoId": "VQ-HwoeduNQ"
         }
       ],
-      "grade": "C+"
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Snow-Covered Island",
@@ -4659,7 +5210,8 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/3/b/3bfa5ebc-5623-4eec-89ea-dc187489ee4a.png?1610996921"
       ],
       "set_code": "khm",
-      "collector_num": "278"
+      "collector_num": "278",
+      "grade": {}
     },
     {
       "name": "Snow-Covered Swamp",
@@ -4668,7 +5220,8 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/6/a/6aa85af8-15f5-4620-8aea-0b45c28372ed.png?1610996926"
       ],
       "set_code": "khm",
-      "collector_num": "280"
+      "collector_num": "280",
+      "grade": {}
     },
     {
       "name": "Snow-Covered Mountain",
@@ -4677,7 +5230,8 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/5474e67c-628f-41b0-aa31-3d85a267265a.png?1610996923"
       ],
       "set_code": "khm",
-      "collector_num": "282"
+      "collector_num": "282",
+      "grade": {}
     },
     {
       "name": "Snow-Covered Forest",
@@ -4686,7 +5240,8 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/ca17acea-f079-4e53-8176-a2f5c5c408a1.png?1610996919"
       ],
       "set_code": "khm",
-      "collector_num": "284"
+      "collector_num": "284",
+      "grade": {}
     }
   ],
   "metadata": {

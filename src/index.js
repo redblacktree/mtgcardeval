@@ -22,7 +22,7 @@ import ControlPanel from "./ControlPanel";
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {set: "VOW", selectedCard: null, options: {playbackRate: 1}};
+    this.state = {set: "VOW", selectedCard: null, options: {playbackRate: 1, gradeDisplay: "LR"}};
     this.data = {
       "IKO": cards_iko,
       "M20": cards_m20,
