@@ -65,7 +65,9 @@ def main(args):
                     "stop": card['stop'],
                     "videoId": card['videoId']
                 })
-                current_card['grade'] = card['grade'] if card['grade'] != "" else current_card['grade']
+                if "grade" not in current_card:
+                    current_card["grade"] = {}
+                current_card['grade'][args.gradesource] = card['grade'] if card['grade'] != "" else current_card['grade']
     with open(args.currentdata.split('.')[0] + '.output.json', 'w') as outputfile:
         json.dump(current_data, outputfile)
 
@@ -77,6 +79,7 @@ if __name__ == "__main__":
     # Required positional argument
     parser.add_argument("currentdata", help="Current set info JSON file")
     parser.add_argument("newdata", help="New card info file from the browser extension")
+    parser.add_argument("gradesource", default="LR", help="Source of grade value (Limited Resources, Nizzahon, etc)")
 
     # Optional verbosity counter (eg. -v, -vv, -vvv, etc.)
     parser.add_argument(
