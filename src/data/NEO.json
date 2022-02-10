@@ -111,10 +111,16 @@
           "start": "347",
           "stop": "418.5",
           "videoId": "qyqoN3wnabI"
+        },
+        {
+          "start": "7502",
+          "stop": "7553",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B"
+        "NZ": "B",
+        "LR": "B"
       }
     },
     {
