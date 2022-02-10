@@ -1078,10 +1078,16 @@
           "start": "74.5",
           "stop": "129.5",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "9582.5",
+          "stop": "9683",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "B-"
       }
     },
     {
@@ -1097,10 +1103,16 @@
           "start": "129",
           "stop": "190",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "9683",
+          "stop": "9721.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "F/BA(C)"
+        "NZ": "F/BA(C)",
+        "LR": "F"
       }
     },
     {
@@ -1116,10 +1128,16 @@
           "start": "190",
           "stop": "224.5",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "9721.5",
+          "stop": "9790",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "C"
       }
     },
     {
@@ -1135,10 +1153,16 @@
           "start": "224",
           "stop": "284",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "9790",
+          "stop": "9905",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "D"
+        "NZ": "D",
+        "LR": "D"
       }
     },
     {
@@ -1177,10 +1201,16 @@
           "start": "363",
           "stop": "426",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "9905",
+          "stop": "9983.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "C"
       }
     },
     {
@@ -1196,10 +1226,16 @@
           "start": "426",
           "stop": "474",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "9983.5",
+          "stop": "10055",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "D+"
+        "NZ": "D+",
+        "LR": "F"
       }
     },
     {
@@ -1215,10 +1251,16 @@
           "start": "473.5",
           "stop": "521.5",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "10055",
+          "stop": "10136",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "D+"
       }
     },
     {
@@ -1234,10 +1276,16 @@
           "start": "521",
           "stop": "562",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "10136",
+          "stop": "10162.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "C-"
       }
     },
     {
@@ -1253,10 +1301,16 @@
           "start": "561.5",
           "stop": "629.5",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "10162.5",
+          "stop": "10249",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "C"
       }
     },
     {
@@ -1272,10 +1326,16 @@
           "start": "629",
           "stop": "657.5",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "10249",
+          "stop": "10299",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "D"
       }
     },
     {
@@ -1291,10 +1351,16 @@
           "start": "657",
           "stop": "714.5",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "10299",
+          "stop": "10359.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "BA(C)"
       }
     },
     {
@@ -1310,10 +1376,16 @@
           "start": "714",
           "stop": "747.5",
           "videoId": "nz_aIWa354M"
+        },
+        {
+          "start": "10359.5",
+          "stop": "10403.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "C"
       }
     },
     {
