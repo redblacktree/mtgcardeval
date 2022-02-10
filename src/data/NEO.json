@@ -2456,10 +2456,16 @@
           "start": "7088",
           "stop": "7191.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "59.5",
+          "stop": "130.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "B-"
+        "LR": "B-",
+        "NZ": "C"
       }
     },
     {
@@ -2475,10 +2481,16 @@
           "start": "4663",
           "stop": "4803",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "130",
+          "stop": "167",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D/C-"
+        "LR": "D/C-",
+        "NZ": "C"
       }
     },
     {
@@ -2494,10 +2506,16 @@
           "start": "4803",
           "stop": "4902.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "167",
+          "stop": "214.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "D+"
       }
     },
     {
@@ -2513,10 +2531,16 @@
           "start": "4902.5",
           "stop": "4963",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "214.5",
+          "stop": "262",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "B+/B"
+        "LR": "B+/B",
+        "NZ": "B"
       }
     },
     {
@@ -2532,10 +2556,16 @@
           "start": "4963",
           "stop": "5050.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "262",
+          "stop": "310",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C-"
+        "LR": "C-",
+        "NZ": "C"
       }
     },
     {
@@ -2549,10 +2579,16 @@
           "start": "7191.5",
           "stop": "7290",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "310",
+          "stop": "376",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "B-"
       }
     },
     {
@@ -2568,10 +2604,16 @@
           "start": "5050.5",
           "stop": "5150.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "375.5",
+          "stop": "417.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "C"
       }
     },
     {
@@ -2587,10 +2629,16 @@
           "start": "5150.5",
           "stop": "5218",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "417.5",
+          "stop": "462",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C+"
       }
     },
     {
@@ -2606,10 +2654,16 @@
           "start": "5218",
           "stop": "5315",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "462",
+          "stop": "493.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D/D+"
+        "LR": "D/D+",
+        "NZ": "D"
       }
     },
     {
@@ -2617,7 +2671,17 @@
       "color": "G",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/2/5/2534caaa-a793-415f-977f-1d0fac3642ab.png?1643325150",
       "set_code": "neo",
-      "collector_num": "181"
+      "collector_num": "181",
+      "clips": [
+        {
+          "start": "493.5",
+          "stop": "576.5",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "D"
+      }
     },
     {
       "name": "Fade into Antiquity",
@@ -2632,10 +2696,16 @@
           "start": "5315",
           "stop": "5403",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "576.5",
+          "stop": "600",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "C+"
       }
     },
     {
@@ -2651,10 +2721,16 @@
           "start": "5403",
           "stop": "5457",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "600",
+          "stop": "624.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C/C+"
+        "LR": "C/C+",
+        "NZ": "C"
       }
     },
     {
@@ -2670,10 +2746,16 @@
           "start": "5457",
           "stop": "5515",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "624.5",
+          "stop": "655",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "C"
       }
     },
     {
@@ -2689,10 +2771,16 @@
           "start": "5514.5",
           "stop": "5568",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "655",
+          "stop": "687.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "BA(B+)"
+        "LR": "BA(B+)",
+        "NZ": "B"
       }
     },
     {
@@ -2708,10 +2796,16 @@
           "start": "5568",
           "stop": "5624.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "687.5",
+          "stop": "717",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C-"
+        "LR": "C-",
+        "NZ": "C"
       }
     },
     {
@@ -2727,10 +2821,16 @@
           "start": "5624.5",
           "stop": "5693",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "716.5",
+          "stop": "746",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B-"
       }
     },
     {
@@ -2746,10 +2846,16 @@
           "start": "5693",
           "stop": "5800",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "745.5",
+          "stop": "773.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "C-"
       }
     },
     {
@@ -2765,10 +2871,16 @@
           "start": "5800",
           "stop": "5888",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "773",
+          "stop": "807",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "C+"
       }
     },
     {
@@ -2784,10 +2896,16 @@
           "start": "5888",
           "stop": "6008",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "806.5",
+          "stop": "855",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C-"
       }
     },
     {
@@ -2803,10 +2921,16 @@
           "start": "6008",
           "stop": "6112",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "854.5",
+          "stop": "886",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D+/C-"
+        "LR": "D+/C-",
+        "NZ": "C"
       }
     },
     {
@@ -2822,10 +2946,16 @@
           "start": "6112",
           "stop": "6219",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "886",
+          "stop": "930",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C"
       }
     },
     {
@@ -2835,14 +2965,34 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/5/b5c02102-3be7-462f-ab9c-ff404255002d.png?1643930770"
       ],
       "set_code": "neo",
-      "collector_num": "193"
+      "collector_num": "193",
+      "clips": [
+        {
+          "start": "930",
+          "stop": "967",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "B"
+      }
     },
     {
       "name": "Jugan Defends the Temple // Remnant of the Rising Star",
       "color": "G",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.png?1644088636",
       "set_code": "neo",
-      "collector_num": "194"
+      "collector_num": "194",
+      "clips": [
+        {
+          "start": "967",
+          "stop": "1043.5",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "A"
+      }
     },
     {
       "name": "Jukai Preserver",
@@ -2857,10 +3007,16 @@
           "start": "6219",
           "stop": "6279",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1043.5",
+          "stop": "1084",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "B-"
       }
     },
     {
@@ -2876,10 +3032,16 @@
           "start": "6279",
           "stop": "6347",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1084",
+          "stop": "1107.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C-"
+        "LR": "C-",
+        "NZ": "C"
       }
     },
     {
@@ -2889,7 +3051,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/d/7d038a59-e589-45f4-b5ef-6d2f9875d560.png?1643928230"
       ],
       "set_code": "neo",
-      "collector_num": "197"
+      "collector_num": "197",
+      "clips": [
+        {
+          "start": "1107.5",
+          "stop": "1139.5",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "A-"
+      }
     },
     {
       "name": "Kappa Tech-Wrecker",
@@ -2904,10 +3076,16 @@
           "start": "6347",
           "stop": "6468",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1139.5",
+          "stop": "1183.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "B+"
+        "LR": "B+",
+        "NZ": "B"
       }
     },
     {
@@ -2917,7 +3095,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/f/ef1e1dff-b559-441d-8df3-b6a418066aca.png?1644088758"
       ],
       "set_code": "neo",
-      "collector_num": "199"
+      "collector_num": "199",
+      "clips": [
+        {
+          "start": "1183",
+          "stop": "1224.5",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "B+"
+      }
     },
     {
       "name": "Kura, the Boundless Sky",
@@ -2926,7 +3114,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/6/06b25752-26be-4189-bc8b-828db6f0e612.png?1644000236"
       ],
       "set_code": "neo",
-      "collector_num": "200"
+      "collector_num": "200",
+      "clips": [
+        {
+          "start": "1224",
+          "stop": "1298.5",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "A+"
+      }
     },
     {
       "name": "March of Burgeoning Life",
@@ -2935,7 +3133,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/e/0e223d99-408a-413d-abb1-cb2f11ae521d.png?1643847519"
       ],
       "set_code": "neo",
-      "collector_num": "201"
+      "collector_num": "201",
+      "clips": [
+        {
+          "start": "1298.5",
+          "stop": "1339.5",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "F"
+      }
     },
     {
       "name": "Master's Rebuke",
@@ -2950,10 +3158,16 @@
           "start": "6468",
           "stop": "6493",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1339",
+          "stop": "1370.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B-"
       }
     },
     {
@@ -2969,10 +3183,16 @@
           "start": "6493",
           "stop": "6564",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1370.5",
+          "stop": "1401",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "B-"
+        "LR": "B-",
+        "NZ": "C+"
       }
     },
     {
@@ -2988,10 +3208,16 @@
           "start": "6563.5",
           "stop": "6639.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1400.5",
+          "stop": "1453",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B+"
       }
     },
     {
@@ -3007,10 +3233,16 @@
           "start": "6644",
           "stop": "6721",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1452.5",
+          "stop": "1490",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D+"
+        "LR": "D+",
+        "NZ": "D/C"
       }
     },
     {
@@ -3020,7 +3252,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/52a16623-7e6d-405b-95db-bf18aeea3f49.png?1644088801"
       ],
       "set_code": "neo",
-      "collector_num": "206"
+      "collector_num": "206",
+      "clips": [
+        {
+          "start": "1490",
+          "stop": "1543",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "B"
+      }
     },
     {
       "name": "Spinning Wheel Kick",
@@ -3035,10 +3277,16 @@
           "start": "6721",
           "stop": "6903",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1542.5",
+          "stop": "1611",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "C+"
       }
     },
     {
@@ -3048,7 +3296,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/74b1ba9c-ee62-461f-8422-f791274e2f1c.png?1644000412"
       ],
       "set_code": "neo",
-      "collector_num": "208"
+      "collector_num": "208",
+      "clips": [
+        {
+          "start": "1610.5",
+          "stop": "1637.5",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "A-"
+      }
     },
     {
       "name": "Storyweave",
@@ -3063,10 +3321,16 @@
           "start": "6903",
           "stop": "6982",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1637.5",
+          "stop": "1702.5",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "C"
       }
     },
     {
@@ -3080,10 +3344,16 @@
           "start": "7290",
           "stop": "7353.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1702.5",
+          "stop": "1766",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "B-"
       }
     },
     {
@@ -3099,10 +3369,16 @@
           "start": "6982",
           "stop": "7042.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1766",
+          "stop": "1803",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "D+"
       }
     },
     {
@@ -3110,7 +3386,17 @@
       "color": "G",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.png?1644088836",
       "set_code": "neo",
-      "collector_num": "212"
+      "collector_num": "212",
+      "clips": [
+        {
+          "start": "1803",
+          "stop": "1867",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "B"
+      }
     },
     {
       "name": "Weaver of Harmony",
@@ -3119,7 +3405,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/1/d1682673-e947-44e2-b9c9-cbcb9a16892b.png?1643750723"
       ],
       "set_code": "neo",
-      "collector_num": "213"
+      "collector_num": "213",
+      "clips": [
+        {
+          "start": "1867",
+          "stop": "1907",
+          "videoId": "Y0dimw2sKaI"
+        }
+      ],
+      "grade": {
+        "NZ": "B"
+      }
     },
     {
       "name": "Webspinner Cuff",
@@ -3134,10 +3430,16 @@
           "start": "7042.5",
           "stop": "7081",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1907",
+          "stop": "1940",
+          "videoId": "Y0dimw2sKaI"
         }
       ],
       "grade": {
-        "LR": "C/C+"
+        "LR": "C/C+",
+        "NZ": "C"
       }
     },
     {
@@ -3851,7 +4153,8 @@
   ],
   "metadata": {
     "show_names": {
-      "qyqoN3wnabI": "Nizzahon Set Review: White",
+      "qyqoN3wnabI": "Nizzahon Set Review",
+      "Y0dimw2sKaI": "Nizzahon Set Review",
       "GIkV6gC5dhQ": "LR Set Review"
     }
   }
