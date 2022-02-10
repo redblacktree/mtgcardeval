@@ -1072,7 +1072,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/8/e/8e971a72-31db-4b7e-b9b9-9f45e8c3f87e.png?1644069156"
       ],
       "set_code": "neo",
-      "collector_num": "44"
+      "collector_num": "44",
+      "clips": [
+        {
+          "start": "74.5",
+          "stop": "129.5",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Anchor to Reality",
@@ -1081,7 +1091,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/58141ad0-32ea-4e07-a133-ff7812d58c0e.png?1644078582"
       ],
       "set_code": "neo",
-      "collector_num": "45"
+      "collector_num": "45",
+      "clips": [
+        {
+          "start": "129",
+          "stop": "190",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "F/BA(C)"
+      }
     },
     {
       "name": "Armguard Familiar",
@@ -1090,7 +1110,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/7497f147-146d-4a76-b670-bd84e07352b3.png?1643992405"
       ],
       "set_code": "neo",
-      "collector_num": "46"
+      "collector_num": "46",
+      "clips": [
+        {
+          "start": "190",
+          "stop": "224.5",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Awakened Awareness",
@@ -1099,7 +1129,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/51378e10-2f17-445b-97e9-5c373234ba52.png?1643664403"
       ],
       "set_code": "neo",
-      "collector_num": "47"
+      "collector_num": "47",
+      "clips": [
+        {
+          "start": "224",
+          "stop": "284",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "D"
+      }
     },
     {
       "name": "Behold the Unspeakable // Vision of the Unspeakable",
@@ -1112,10 +1152,16 @@
           "start": "11867",
           "stop": "12004",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "284",
+          "stop": "363.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "A/A-"
+        "LR": "A/A-",
+        "NZ": "B"
       }
     },
     {
@@ -1125,7 +1171,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/dbae9991-43a2-4afb-a882-fff6b0d89d12.png?1643326282"
       ],
       "set_code": "neo",
-      "collector_num": "49"
+      "collector_num": "49",
+      "clips": [
+        {
+          "start": "363",
+          "stop": "426",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Discover the Impossible",
@@ -1134,7 +1190,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/8/c/8c201117-9850-4e92-9ecc-e4d71a70a959.png?1644003156"
       ],
       "set_code": "neo",
-      "collector_num": "50"
+      "collector_num": "50",
+      "clips": [
+        {
+          "start": "426",
+          "stop": "474",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "D+"
+      }
     },
     {
       "name": "Disruption Protocol",
@@ -1143,7 +1209,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/5/053ab598-06a4-43ae-b9fd-c291bd05642c.png?1643992722"
       ],
       "set_code": "neo",
-      "collector_num": "51"
+      "collector_num": "51",
+      "clips": [
+        {
+          "start": "473.5",
+          "stop": "521.5",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Essence Capture",
@@ -1152,7 +1228,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/3/f39bf1fa-b530-4353-a683-843466227109.png?1644032150"
       ],
       "set_code": "neo",
-      "collector_num": "52"
+      "collector_num": "52",
+      "clips": [
+        {
+          "start": "521",
+          "stop": "562",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Futurist Operative",
@@ -1161,7 +1247,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/5/c5858176-9f85-403c-8338-48eb55db5c3d.png?1643761216"
       ],
       "set_code": "neo",
-      "collector_num": "53"
+      "collector_num": "53",
+      "clips": [
+        {
+          "start": "561.5",
+          "stop": "629.5",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Futurist Sentinel",
@@ -1170,7 +1266,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/8/6/8672f626-3e46-447b-841f-6a04cd380653.png?1643995441"
       ],
       "set_code": "neo",
-      "collector_num": "54"
+      "collector_num": "54",
+      "clips": [
+        {
+          "start": "629",
+          "stop": "657.5",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Go-Shintai of Lost Wisdom",
@@ -1179,7 +1285,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7ec1192c-25b8-4975-ae6c-86be28ac1840.png?1643992646"
       ],
       "set_code": "neo",
-      "collector_num": "55"
+      "collector_num": "55",
+      "clips": [
+        {
+          "start": "657",
+          "stop": "714.5",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Guardians of Oboro",
@@ -1188,7 +1304,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/9/e9c44d4e-742f-4e4f-9bf4-921075bc427c.png?1643567875"
       ],
       "set_code": "neo",
-      "collector_num": "56"
+      "collector_num": "56",
+      "clips": [
+        {
+          "start": "714",
+          "stop": "747.5",
+          "videoId": "nz_aIWa354M"
+        }
+      ],
+      "grade": {
+        "NZ": "C"
+      }
     },
     {
       "name": "Inventive Iteration // Living Breakthrough",
@@ -1201,10 +1327,16 @@
           "start": "4983",
           "stop": "5100",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "747.5",
+          "stop": "819.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "A-"
+        "LR": "A-",
+        "NZ": "B+"
       }
     },
     {
@@ -1220,10 +1352,16 @@
           "start": "5252.5",
           "stop": "5302",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "819",
+          "stop": "901.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "BA(A)"
+        "LR": "BA(A)",
+        "NZ": "A-"
       }
     },
     {
@@ -1239,10 +1377,16 @@
           "start": "5389.5",
           "stop": "5499",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "901",
+          "stop": "953",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "A-"
+        "LR": "A-",
+        "NZ": "A"
       }
     },
     {
@@ -1258,10 +1402,16 @@
           "start": "5302",
           "stop": "5389.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "952.5",
+          "stop": "1019.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "A+"
+        "LR": "A+",
+        "NZ": "A"
       }
     },
     {
@@ -1277,10 +1427,16 @@
           "start": "4236.5",
           "stop": "4442",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1019",
+          "stop": "1063",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C-"
+        "LR": "C-",
+        "NZ": "C+"
       }
     },
     {
@@ -1296,10 +1452,16 @@
           "start": "4715",
           "stop": "4843.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1063",
+          "stop": "1104.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "B+"
+        "LR": "B+",
+        "NZ": "B"
       }
     },
     {
@@ -1315,10 +1477,16 @@
           "start": "10403.5",
           "stop": "10470",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1104.5",
+          "stop": "1144.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C-"
       }
     },
     {
@@ -1334,10 +1502,16 @@
           "start": "10470",
           "stop": "10564",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1144",
+          "stop": "1173",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C"
       }
     },
     {
@@ -1353,10 +1527,16 @@
           "start": "10564",
           "stop": "10692.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1172.5",
+          "stop": "1210",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "BA(B)"
+        "LR": "BA(B)",
+        "NZ": "B-"
       }
     },
     {
@@ -1370,10 +1550,16 @@
           "start": "12004",
           "stop": "12076.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1210",
+          "stop": "1255",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "B-"
+        "LR": "B-",
+        "NZ": "C+"
       }
     },
     {
@@ -1389,10 +1575,16 @@
           "start": "10692.5",
           "stop": "10762.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1255",
+          "stop": "1298.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "B-"
       }
     },
     {
@@ -1408,10 +1600,16 @@
           "start": "10762.5",
           "stop": "10802",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1298",
+          "stop": "1320.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C"
       }
     },
     {
@@ -1427,10 +1625,16 @@
           "start": "10802",
           "stop": "10909",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1320",
+          "stop": "1365",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C-"
+        "LR": "C-",
+        "NZ": "C"
       }
     },
     {
@@ -1446,10 +1650,16 @@
           "start": "10909",
           "stop": "10992",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1364.5",
+          "stop": "1406.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B-"
       }
     },
     {
@@ -1465,10 +1675,16 @@
           "start": "10992",
           "stop": "11088",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1406",
+          "stop": "1451.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C+"
       }
     },
     {
@@ -1484,10 +1700,16 @@
           "start": "11088",
           "stop": "11131.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1451",
+          "stop": "1494",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "D"
       }
     },
     {
@@ -1503,10 +1725,16 @@
           "start": "11131.5",
           "stop": "11234.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1493.5",
+          "stop": "1520",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "B-"
       }
     },
     {
@@ -1522,10 +1750,16 @@
           "start": "4584",
           "stop": "4715",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1520",
+          "stop": "1588",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "B+"
+        "LR": "B+",
+        "NZ": "A"
       }
     },
     {
@@ -1541,10 +1775,16 @@
           "start": "11234.5",
           "stop": "11296",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1587.5",
+          "stop": "1639.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "BA(B)"
+        "LR": "BA(B)",
+        "NZ": "D/BA(B-)"
       }
     },
     {
@@ -1560,10 +1800,16 @@
           "start": "11296",
           "stop": "11369",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1639.5",
+          "stop": "1670",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B"
       }
     },
     {
@@ -1579,10 +1825,16 @@
           "start": "11369",
           "stop": "11423",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1670",
+          "stop": "1707",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C"
       }
     },
     {
@@ -1598,10 +1850,16 @@
           "start": "11423",
           "stop": "11452",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1707",
+          "stop": "1752",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "C-"
       }
     },
     {
@@ -1617,10 +1875,16 @@
           "start": "11452",
           "stop": "11609.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1752",
+          "stop": "1776.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "B-"
+        "LR": "B-",
+        "NZ": "B-"
       }
     },
     {
@@ -1636,10 +1900,16 @@
           "start": "11609.5",
           "stop": "11654.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1776.5",
+          "stop": "1805",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "SB(C)"
+        "LR": "SB(C)",
+        "NZ": "F"
       }
     },
     {
@@ -1655,10 +1925,16 @@
           "start": "11654.5",
           "stop": "11732.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1804.5",
+          "stop": "1863",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "D+"
       }
     },
     {
@@ -1674,10 +1950,16 @@
           "start": "4843.5",
           "stop": "4983",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1862.5",
+          "stop": "1920",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "BA(A-)"
+        "LR": "BA(A-)",
+        "NZ": "B+"
       }
     },
     {
@@ -1693,10 +1975,16 @@
           "start": "11732.5",
           "stop": "11804",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1920",
+          "stop": "1968.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "C+/B-"
+        "LR": "C+/B-",
+        "NZ": "B-"
       }
     },
     {
@@ -1712,10 +2000,16 @@
           "start": "5100",
           "stop": "5252.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1968",
+          "stop": "2061",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "BA(A)"
+        "LR": "BA(A)",
+        "NZ": "C+/BA(A-)"
       }
     },
     {
@@ -1731,10 +2025,16 @@
           "start": "11804",
           "stop": "11867",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "2060.5",
+          "stop": "2096.5",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "B+"
+        "LR": "B+",
+        "NZ": "C+"
       }
     },
     {
@@ -1750,10 +2050,16 @@
           "start": "4442",
           "stop": "4584",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "2096",
+          "stop": "2157",
+          "videoId": "nz_aIWa354M"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B+"
       }
     },
     {
