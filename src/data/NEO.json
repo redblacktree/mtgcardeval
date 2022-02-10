@@ -1034,7 +1034,17 @@
       "color": "U",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/4/e4d52701-e0dc-474e-b08f-88147200d210.png?1643325590",
       "set_code": "neo",
-      "collector_num": "48"
+      "collector_num": "48",
+      "clips": [
+        {
+          "start": "11867",
+          "stop": "12004",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "A/A-"
+      }
     },
     {
       "name": "Covert Technician",
@@ -1167,7 +1177,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/3/0394c8df-2e8a-4477-93b7-569934d7b936.png?1643992881"
       ],
       "set_code": "neo",
-      "collector_num": "63"
+      "collector_num": "63",
+      "clips": [
+        {
+          "start": "10403.5",
+          "stop": "10470",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Mnemonic Sphere",
@@ -1176,7 +1196,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/1/a/1a15d8d9-0575-4add-ae8d-4576e8ed2cbe.png?1643992955"
       ],
       "set_code": "neo",
-      "collector_num": "64"
+      "collector_num": "64",
+      "clips": [
+        {
+          "start": "10470",
+          "stop": "10564",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Mobilizer Mech",
@@ -1185,14 +1215,34 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/f/cf4bb9de-ba7c-4916-b8ed-e2e644c06b58.png?1643996500"
       ],
       "set_code": "neo",
-      "collector_num": "65"
+      "collector_num": "65",
+      "clips": [
+        {
+          "start": "10564",
+          "stop": "10692.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "The Modern Age // Vector Glider",
       "color": "U",
       "image_url": "https://c1.scryfall.com/file/scryfall-cards/png/front/e/e/ee60a8e9-3201-4a7e-8aa4-2c5e1042c8a5.png?1643318826",
       "set_code": "neo",
-      "collector_num": "66"
+      "collector_num": "66",
+      "clips": [
+        {
+          "start": "12004",
+          "stop": "12076.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Moon-Circuit Hacker",
@@ -1201,7 +1251,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/6/c6e466d1-943d-41e6-a47d-c9d951ca4262.png?1643591928"
       ],
       "set_code": "neo",
-      "collector_num": "67"
+      "collector_num": "67",
+      "clips": [
+        {
+          "start": "10692.5",
+          "stop": "10762.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "Moonfolk Puzzlemaker",
@@ -1210,7 +1270,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/9/c9fa6d4c-78dc-4b40-9ce8-a0e593d4001f.png?1643993073"
       ],
       "set_code": "neo",
-      "collector_num": "68"
+      "collector_num": "68",
+      "clips": [
+        {
+          "start": "10762.5",
+          "stop": "10802",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Moonsnare Prototype",
@@ -1219,7 +1289,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9d8bc0e9-a536-4bca-92a6-8dca85e1e984.png?1643400201"
       ],
       "set_code": "neo",
-      "collector_num": "69"
+      "collector_num": "69",
+      "clips": [
+        {
+          "start": "10802",
+          "stop": "10909",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
     },
     {
       "name": "Moonsnare Specialist",
@@ -1228,7 +1308,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/1/e/1e8b209f-f577-45cc-9d18-03c1d67d391e.png?1643992163"
       ],
       "set_code": "neo",
-      "collector_num": "70"
+      "collector_num": "70",
+      "clips": [
+        {
+          "start": "10909",
+          "stop": "10992",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Network Disruptor",
@@ -1237,7 +1327,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/a/5a37719a-2a87-4870-8f25-12544ca2f2cf.png?1643993092"
       ],
       "set_code": "neo",
-      "collector_num": "71"
+      "collector_num": "71",
+      "clips": [
+        {
+          "start": "10992",
+          "stop": "11088",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Planar Incision",
@@ -1246,7 +1346,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/9163cb04-ee28-4127-b53a-89c546996d7d.png?1643993231"
       ],
       "set_code": "neo",
-      "collector_num": "72"
+      "collector_num": "72",
+      "clips": [
+        {
+          "start": "11088",
+          "stop": "11131.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Prosperous Thief",
@@ -1255,7 +1365,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/a/da3f683e-5a28-4ae7-b53b-851b957123ba.png?1643992185"
       ],
       "set_code": "neo",
-      "collector_num": "73"
+      "collector_num": "73",
+      "clips": [
+        {
+          "start": "11131.5",
+          "stop": "11234.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
     },
     {
       "name": "The Reality Chip",
@@ -1273,7 +1393,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/b/5bc954d7-322a-45b8-9e25-6e9a97fbde61.png?1643664551"
       ],
       "set_code": "neo",
-      "collector_num": "75"
+      "collector_num": "75",
+      "clips": [
+        {
+          "start": "11234.5",
+          "stop": "11296",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Replication Specialist",
@@ -1282,7 +1412,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/475bb3b5-b648-460c-b0ea-89ecfe0ff226.png?1643833186"
       ],
       "set_code": "neo",
-      "collector_num": "76"
+      "collector_num": "76",
+      "clips": [
+        {
+          "start": "11296",
+          "stop": "11369",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Saiba Trespassers",
@@ -1291,7 +1431,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd.png?1644086703"
       ],
       "set_code": "neo",
-      "collector_num": "77"
+      "collector_num": "77",
+      "clips": [
+        {
+          "start": "11369",
+          "stop": "11423",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Short Circuit",
@@ -1300,7 +1450,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/74fe0fb5-e994-41b1-a73d-4e68f7afdf34.png?1643993294"
       ],
       "set_code": "neo",
-      "collector_num": "78"
+      "collector_num": "78",
+      "clips": [
+        {
+          "start": "11423",
+          "stop": "11452",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Skyswimmer Koi",
@@ -1309,7 +1469,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/db50259b-8ca8-4fbe-8ae3-6b0312d70980.png?1643993356"
       ],
       "set_code": "neo",
-      "collector_num": "79"
+      "collector_num": "79",
+      "clips": [
+        {
+          "start": "11452",
+          "stop": "11609.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Spell Pierce",
@@ -1318,7 +1488,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/beb42273-935b-4bda-849e-c163606cf89e.png?1643752172"
       ],
       "set_code": "neo",
-      "collector_num": "80"
+      "collector_num": "80",
+      "clips": [
+        {
+          "start": "11609.5",
+          "stop": "11654.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "SB(C)"
+      }
     },
     {
       "name": "Suit Up",
@@ -1327,7 +1507,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/0/50870bfd-7779-4a1c-b18f-57fac7e193b1.png?1644078698"
       ],
       "set_code": "neo",
-      "collector_num": "81"
+      "collector_num": "81",
+      "clips": [
+        {
+          "start": "11654.5",
+          "stop": "11732.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Tameshi, Reality Architect",
@@ -1345,7 +1535,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/a/e/aee62e43-6a82-4749-972b-e21802642abf.png?1643325722"
       ],
       "set_code": "neo",
-      "collector_num": "83"
+      "collector_num": "83",
+      "clips": [
+        {
+          "start": "11732.5",
+          "stop": "11804",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C+/B-"
+      }
     },
     {
       "name": "Tezzeret, Betrayer of Flesh",
@@ -1363,7 +1563,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/6/b/6b927837-8252-4ea7-b2d0-ab624de65bd7.png?1643846652"
       ],
       "set_code": "neo",
-      "collector_num": "85"
+      "collector_num": "85",
+      "clips": [
+        {
+          "start": "11804",
+          "stop": "11867",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
     },
     {
       "name": "Thousand-Faced Shadow",
@@ -1387,10 +1597,16 @@
           "start": "62",
           "stop": "93.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12079.5",
+          "stop": "12120",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B"
+        "NZ": "B",
+        "LR": "B"
       }
     },
     {
@@ -1444,10 +1660,16 @@
           "start": "199.5",
           "stop": "230",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12120",
+          "stop": "12168.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "C"
       }
     },
     {
@@ -1463,10 +1685,16 @@
           "start": "229",
           "stop": "281",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12168.5",
+          "stop": "12240",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "C-"
       }
     },
     {
@@ -1482,10 +1710,16 @@
           "start": "281",
           "stop": "329",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12240",
+          "stop": "12293.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "D"
       }
     },
     {
@@ -1501,10 +1735,16 @@
           "start": "329",
           "stop": "356.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12293.5",
+          "stop": "12367.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C+"
+        "NZ": "C+",
+        "LR": "C+"
       }
     },
     {
@@ -1520,10 +1760,16 @@
           "start": "356",
           "stop": "377.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12367.5",
+          "stop": "12415",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "C"
       }
     },
     {
@@ -1539,10 +1785,16 @@
           "start": "377",
           "stop": "418",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12415",
+          "stop": "12480.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B-"
+        "NZ": "B-",
+        "LR": "C+/B-"
       }
     },
     {
@@ -1558,10 +1810,16 @@
           "start": "417.5",
           "stop": "455",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12480.5",
+          "stop": "12571",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "D"
+        "NZ": "D",
+        "LR": "D"
       }
     },
     {
@@ -1577,10 +1835,16 @@
           "start": "455",
           "stop": "505",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12571",
+          "stop": "12642",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B-"
+        "NZ": "B-",
+        "LR": "C"
       }
     },
     {
@@ -1596,10 +1860,16 @@
           "start": "505",
           "stop": "554.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12642",
+          "stop": "12743",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B"
+        "NZ": "B",
+        "LR": "B-"
       }
     },
     {
@@ -1634,10 +1904,16 @@
           "start": "641.5",
           "stop": "669.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12743",
+          "stop": "12806",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "C"
       }
     },
     {
@@ -1691,10 +1967,16 @@
           "start": "787",
           "stop": "826",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12806",
+          "stop": "12838.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "C"
       }
     },
     {
@@ -1710,10 +1992,16 @@
           "start": "826",
           "stop": "886",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12838.5",
+          "stop": "12892",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "D/BA(C+"
+        "NZ": "D/BA(C+",
+        "LR": "BA(C)"
       }
     },
     {
@@ -1729,10 +2017,16 @@
           "start": "885.5",
           "stop": "931.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12892",
+          "stop": "12949",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "D/C+"
+        "NZ": "D/C+",
+        "LR": "BA(C+)"
       }
     },
     {
@@ -1748,10 +2042,16 @@
           "start": "931",
           "stop": "960",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "12949",
+          "stop": "13009",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B-"
+        "NZ": "B-",
+        "LR": "B-"
       }
     },
     {
@@ -1767,10 +2067,16 @@
           "start": "960",
           "stop": "1005",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13009",
+          "stop": "13054",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B-"
+        "NZ": "B-",
+        "LR": "B"
       }
     },
     {
@@ -1784,10 +2090,16 @@
           "start": "1004.5",
           "stop": "1075",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13693.5",
+          "stop": "13787",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B"
+        "NZ": "B",
+        "LR": "B"
       }
     },
     {
@@ -1801,10 +2113,16 @@
           "start": "1075",
           "stop": "1137",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13787",
+          "stop": "13878",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C+"
+        "NZ": "C+",
+        "LR": "C-"
       }
     },
     {
@@ -1820,10 +2138,16 @@
           "start": "1137",
           "stop": "1170.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13054",
+          "stop": "13085.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "D+/SB(C+)"
+        "NZ": "D+/SB(C+)",
+        "LR": "SB(C+)"
       }
     },
     {
@@ -1858,10 +2182,16 @@
           "start": "1222",
           "stop": "1250",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13085.5",
+          "stop": "13139",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "C"
       }
     },
     {
@@ -1915,10 +2245,16 @@
           "start": "1341.5",
           "stop": "1370.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13139",
+          "stop": "13200",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "C-"
       }
     },
     {
@@ -1934,10 +2270,16 @@
           "start": "1370",
           "stop": "1409.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13200",
+          "stop": "13272",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B"
+        "NZ": "B",
+        "LR": "B"
       }
     },
     {
@@ -1951,10 +2293,16 @@
           "start": "1409.5",
           "stop": "1460.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13878",
+          "stop": "13938.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C+"
+        "NZ": "C+",
+        "LR": "B-"
       }
     },
     {
@@ -1970,10 +2318,16 @@
           "start": "1460.5",
           "stop": "1518",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13272",
+          "stop": "13303",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "BA(C)"
       }
     },
     {
@@ -1989,10 +2343,16 @@
           "start": "1517.5",
           "stop": "1575",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13303",
+          "stop": "13339",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "D"
       }
     },
     {
@@ -2008,10 +2368,16 @@
           "start": "1575",
           "stop": "1619",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13339",
+          "stop": "13383.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "C"
       }
     },
     {
@@ -2027,10 +2393,16 @@
           "start": "1619",
           "stop": "1655",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13383.5",
+          "stop": "13435",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "C"
       }
     },
     {
@@ -2101,10 +2473,16 @@
           "start": "1843",
           "stop": "1895.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13435",
+          "stop": "13488",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "B"
+        "NZ": "B",
+        "LR": "B"
       }
     },
     {
@@ -2120,10 +2498,16 @@
           "start": "1895.5",
           "stop": "1916",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13488",
+          "stop": "13530",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "C+"
       }
     },
     {
@@ -2139,10 +2523,16 @@
           "start": "1916",
           "stop": "1969",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13530",
+          "stop": "13596",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C+"
+        "NZ": "C+",
+        "LR": "C"
       }
     },
     {
@@ -2158,10 +2548,16 @@
           "start": "1968.5",
           "stop": "1991.5",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13596",
+          "stop": "13631",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C-"
+        "NZ": "C-",
+        "LR": "C+"
       }
     },
     {
@@ -2177,10 +2573,16 @@
           "start": "1991",
           "stop": "2054",
           "videoId": "drbnI3OUfBo"
+        },
+        {
+          "start": "13633",
+          "stop": "13693.5",
+          "videoId": "GIkV6gC5dhQ"
         }
       ],
       "grade": {
-        "NZ": "C"
+        "NZ": "C",
+        "LR": "BA(C+)"
       }
     },
     {
@@ -4191,7 +4593,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8c30ffb-b4f5-40b0-87b8-800a42bded2b.png?1644088877"
       ],
       "set_code": "neo",
-      "collector_num": "239"
+      "collector_num": "239",
+      "clips": [
+        {
+          "start": "13943",
+          "stop": "13967",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(C+)"
+      }
     },
     {
       "name": "Bronze Cudgels",
@@ -4200,7 +4612,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/4/5/45fa226c-cc31-4c22-a167-40985706557b.png?1644088949"
       ],
       "set_code": "neo",
-      "collector_num": "240"
+      "collector_num": "240",
+      "clips": [
+        {
+          "start": "13967",
+          "stop": "14013",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
     },
     {
       "name": "Brute Suit",
@@ -4209,7 +4631,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/363cb43a-e358-4380-a42f-9b095ca522c6.png?1644002424"
       ],
       "set_code": "neo",
-      "collector_num": "241"
+      "collector_num": "241",
+      "clips": [
+        {
+          "start": "14013",
+          "stop": "14047",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D+"
+      }
     },
     {
       "name": "Circuit Mender",
@@ -4218,7 +4650,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/e/defaeb68-3f8a-4740-b13f-8c71c7e9c8b4.png?1643591909"
       ],
       "set_code": "neo",
-      "collector_num": "242"
+      "collector_num": "242",
+      "clips": [
+        {
+          "start": "14047",
+          "stop": "14073",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
     },
     {
       "name": "Containment Construct",
@@ -4227,7 +4669,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/520e5505-429b-4da0-b25e-14b8d4e81ce3.png?1644000353"
       ],
       "set_code": "neo",
-      "collector_num": "243"
+      "collector_num": "243",
+      "clips": [
+        {
+          "start": "14073",
+          "stop": "14110",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Dramatist's Puppet",
@@ -4236,7 +4688,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/4/b490e065-b54a-4015-9768-d0e62f0e2e84.png?1644000376"
       ],
       "set_code": "neo",
-      "collector_num": "244"
+      "collector_num": "244",
+      "clips": [
+        {
+          "start": "14110",
+          "stop": "14160",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Eater of Virtue",
@@ -4254,7 +4716,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/1/d/1d981026-b2df-4d8d-a9b4-296b011d9925.png?1644032697"
       ],
       "set_code": "neo",
-      "collector_num": "246"
+      "collector_num": "246",
+      "clips": [
+        {
+          "start": "14160",
+          "stop": "14211",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "High-Speed Hoverbike",
@@ -4263,7 +4735,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/c/7c619116-1eae-439d-9b1f-639643458a23.png?1643896187"
       ],
       "set_code": "neo",
-      "collector_num": "247"
+      "collector_num": "247",
+      "clips": [
+        {
+          "start": "14211",
+          "stop": "14291.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(C+)"
+      }
     },
     {
       "name": "Iron Apprentice",
@@ -4272,7 +4754,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/1/3/13d6d9fc-509b-42db-8ac1-85066eb6e9c4.png?1644088955"
       ],
       "set_code": "neo",
-      "collector_num": "248"
+      "collector_num": "248",
+      "clips": [
+        {
+          "start": "14291.5",
+          "stop": "14316.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(C)"
+      }
     },
     {
       "name": "Mechtitan Core",
@@ -4299,7 +4791,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/6/d61e596f-97ef-4eb3-af42-ddfe50d07667.png?1644000678"
       ],
       "set_code": "neo",
-      "collector_num": "251"
+      "collector_num": "251",
+      "clips": [
+        {
+          "start": "14316.5",
+          "stop": "14347",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Ninja's Kunai",
@@ -4308,7 +4810,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/a/f/af6ae567-c77a-416a-b609-4df3d0dd2e18.png?1644000809"
       ],
       "set_code": "neo",
-      "collector_num": "252"
+      "collector_num": "252",
+      "clips": [
+        {
+          "start": "14347",
+          "stop": "14394",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Papercraft Decoy",
@@ -4317,7 +4829,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/3453084c-42cc-4241-b244-c79e704f96c8.png?1644000829"
       ],
       "set_code": "neo",
-      "collector_num": "253"
+      "collector_num": "253",
+      "clips": [
+        {
+          "start": "14394",
+          "stop": "14439.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D/C-"
+      }
     },
     {
       "name": "Patchwork Automaton",
@@ -4326,7 +4848,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/a/7a4e1580-dd26-4f4b-ac98-3e6fa7b879d5.png?1644007345"
       ],
       "set_code": "neo",
-      "collector_num": "254"
+      "collector_num": "254",
+      "clips": [
+        {
+          "start": "14439.5",
+          "stop": "14477.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Reckoner Bankbuster",
@@ -4344,7 +4876,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/2/0218923a-b685-4492-8fdd-2d2d22ef532e.png?1643846889"
       ],
       "set_code": "neo",
-      "collector_num": "256"
+      "collector_num": "256",
+      "clips": [
+        {
+          "start": "14477.5",
+          "stop": "14520",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Runaway Trash-Bot",
@@ -4353,7 +4895,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/3/e/3eebf6a6-f1fd-40a1-ac27-367deafa6f2a.png?1643493663"
       ],
       "set_code": "neo",
-      "collector_num": "257"
+      "collector_num": "257",
+      "clips": [
+        {
+          "start": "14520",
+          "stop": "14566",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Searchlight Companion",
@@ -4362,7 +4914,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/b/0b79b30e-e7aa-490e-b130-de7533e6e13b.png?1644000962"
       ],
       "set_code": "neo",
-      "collector_num": "258"
+      "collector_num": "258",
+      "clips": [
+        {
+          "start": "14566",
+          "stop": "14601",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Shrine Steward",
@@ -4371,7 +4933,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/7/5/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2.png?1644001080"
       ],
       "set_code": "neo",
-      "collector_num": "259"
+      "collector_num": "259",
+      "clips": [
+        {
+          "start": "14601",
+          "stop": "14648",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Surgehacker Mech",
@@ -4389,7 +4961,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/7/b7d49f9c-2dd3-4aed-9b78-e1bcad354a35.png?1644001158"
       ],
       "set_code": "neo",
-      "collector_num": "261"
+      "collector_num": "261",
+      "clips": [
+        {
+          "start": "14648",
+          "stop": "14694",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D/C-"
+      }
     },
     {
       "name": "Towashi Guide-Bot",
@@ -4398,7 +4980,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/a/da4ccf70-b661-46ea-bea9-4466a3a35562.png?1643848308"
       ],
       "set_code": "neo",
-      "collector_num": "262"
+      "collector_num": "262",
+      "clips": [
+        {
+          "start": "14694",
+          "stop": "14751.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
     },
     {
       "name": "Walking Skyscraper",
@@ -4407,7 +4999,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/9/5/958af4ba-f29e-47ef-995e-3985982c75ad.png?1643754922"
       ],
       "set_code": "neo",
-      "collector_num": "263"
+      "collector_num": "263",
+      "clips": [
+        {
+          "start": "14751.5",
+          "stop": "14807",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
     },
     {
       "name": "Bloodfell Caves",
@@ -4416,7 +5018,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/ba06fcda-7ab8-48d4-8656-2a911e73dc44.png?1644002241"
       ],
       "set_code": "neo",
-      "collector_num": "264"
+      "collector_num": "264",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Blossoming Sands",
@@ -4425,7 +5037,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/2/d290ec6b-15a6-49e8-abd2-b8c4d0f556eb.png?1644002287"
       ],
       "set_code": "neo",
-      "collector_num": "265"
+      "collector_num": "265",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Boseiju, Who Endures",
@@ -4443,7 +5065,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fab0660b-81f8-40ca-8098-5f8d51219a40.png?1644002307"
       ],
       "set_code": "neo",
-      "collector_num": "267"
+      "collector_num": "267",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Eiganjo, Seat of the Empire",
@@ -4461,7 +5093,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/e/deadca61-0be9-4eeb-ba12-bc73a49bae74.png?1644002324"
       ],
       "set_code": "neo",
-      "collector_num": "269"
+      "collector_num": "269",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Mech Hangar",
@@ -4470,7 +5112,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c093984d-38cd-4b49-b179-1e289ab442d1.png?1644002503"
       ],
       "set_code": "neo",
-      "collector_num": "270"
+      "collector_num": "270",
+      "clips": [
+        {
+          "start": "14874",
+          "stop": "14909",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "BA(C)"
+      }
     },
     {
       "name": "Otawara, Soaring City",
@@ -4488,7 +5140,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/8/0/8002de90-93fb-48ea-a849-40fdad0aef5a.png?1644088965"
       ],
       "set_code": "neo",
-      "collector_num": "272"
+      "collector_num": "272",
+      "clips": [
+        {
+          "start": "14909",
+          "stop": "14940",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
     },
     {
       "name": "Rugged Highlands",
@@ -4497,7 +5159,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/58d511be-60e0-4755-abec-18eebb530605.png?1644002342"
       ],
       "set_code": "neo",
-      "collector_num": "273"
+      "collector_num": "273",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Scoured Barrens",
@@ -4506,7 +5178,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/0/00538414-90f3-41da-b67e-d81cfa643de3.png?1644002382"
       ],
       "set_code": "neo",
-      "collector_num": "274"
+      "collector_num": "274",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Secluded Courtyard",
@@ -4515,7 +5197,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/0/5/0539b1a5-8704-476f-ba1f-2fe01190e157.png?1643322189"
       ],
       "set_code": "neo",
-      "collector_num": "275"
+      "collector_num": "275",
+      "clips": [
+        {
+          "start": "14941.5",
+          "stop": "14980",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Sokenzan, Crucible of Defiance",
@@ -4533,7 +5225,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/ea6c2670-e6fd-40d6-afe0-7d3c4db96a4d.png?1644002405"
       ],
       "set_code": "neo",
-      "collector_num": "277"
+      "collector_num": "277",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Takenuma, Abandoned Mire",
@@ -4551,7 +5253,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d5af3569-3e66-4a50-aca0-c17c799dca28.png?1644002443"
       ],
       "set_code": "neo",
-      "collector_num": "279"
+      "collector_num": "279",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Tranquil Cove",
@@ -4560,7 +5272,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/6/8/68f822b7-efc5-42c8-93ea-7dd17b4c3e7a.png?1644002465"
       ],
       "set_code": "neo",
-      "collector_num": "280"
+      "collector_num": "280",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Uncharted Haven",
@@ -4569,7 +5291,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/1/d/1d4ad89a-3a00-4bf4-a357-4a8a089d4a82.png?1644002547"
       ],
       "set_code": "neo",
-      "collector_num": "281"
+      "collector_num": "281",
+      "clips": [
+        {
+          "start": "14983",
+          "stop": "15011.5",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     },
     {
       "name": "Wind-Scarred Crag",
@@ -4578,7 +5310,17 @@
         "https://c1.scryfall.com/file/scryfall-cards/png/front/c/f/cf9b1d47-11ef-4f06-94b2-94b6727de3bd.png?1644002482"
       ],
       "set_code": "neo",
-      "collector_num": "282"
+      "collector_num": "282",
+      "clips": [
+        {
+          "start": "14807",
+          "stop": "14874",
+          "videoId": "GIkV6gC5dhQ"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
     }
   ],
   "metadata": {
