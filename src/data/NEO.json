@@ -2830,10 +2830,16 @@
           "start": "1594",
           "stop": "1648.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "62",
+          "stop": "103",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C+"
       }
     },
     {
@@ -2849,10 +2855,16 @@
           "start": "1648.5",
           "stop": "1721",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "102.5",
+          "stop": "126.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C-"
       }
     },
     {
@@ -2868,10 +2880,16 @@
           "start": "1721",
           "stop": "1801",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "126",
+          "stop": "155",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "D/F"
+        "LR": "D/F",
+        "NZ": "D+"
       }
     },
     {
@@ -2887,10 +2905,16 @@
           "start": "1801",
           "stop": "1881.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "155",
+          "stop": "210",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "C"
       }
     },
     {
@@ -2906,10 +2930,16 @@
           "start": "1207.5",
           "stop": "1302",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "209.5",
+          "stop": "263",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "A"
+        "LR": "A",
+        "NZ": "A+"
       }
     },
     {
@@ -2925,10 +2955,16 @@
           "start": "1881.5",
           "stop": "2078",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "262.5",
+          "stop": "307.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B-"
+        "LR": "B-",
+        "NZ": "B"
       }
     },
     {
@@ -2944,10 +2980,16 @@
           "start": "2078",
           "stop": "2180.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "307.5",
+          "stop": "362",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "D+"
       }
     },
     {
@@ -2963,10 +3005,16 @@
           "start": "2180.5",
           "stop": "2352",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "361.5",
+          "stop": "419",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "BA(B-)/BA(B)"
+        "LR": "BA(B-)/BA(B)",
+        "NZ": "D+/BA(B)"
       }
     },
     {
@@ -2982,10 +3030,16 @@
           "start": "2352",
           "stop": "2447",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "419",
+          "stop": "477",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "C"
       }
     },
     {
@@ -3001,10 +3055,16 @@
           "start": "2447",
           "stop": "2529",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "477",
+          "stop": "538",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C/C+"
+        "LR": "C/C+",
+        "NZ": "C+"
       }
     },
     {
@@ -3020,10 +3080,16 @@
           "start": "1577",
           "stop": "1729",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "537.5",
+          "stop": "583",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B+"
+        "LR": "B+",
+        "NZ": "B-"
       }
     },
     {
@@ -3037,10 +3103,16 @@
           "start": "948.5",
           "stop": "1058",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "583",
+          "stop": "667",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "A-"
+        "LR": "A-",
+        "NZ": "A-"
       }
     },
     {
@@ -3056,10 +3128,16 @@
           "start": "2529",
           "stop": "2591",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "667",
+          "stop": "708",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B-"
+        "LR": "B-",
+        "NZ": "B"
       }
     },
     {
@@ -3075,10 +3153,16 @@
           "start": "2591",
           "stop": "2792",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "708",
+          "stop": "743",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "D+/C"
+        "LR": "D+/C",
+        "NZ": "C-"
       }
     },
     {
@@ -3094,10 +3178,16 @@
           "start": "2792",
           "stop": "2879",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "743",
+          "stop": "787.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B"
       }
     },
     {
@@ -3113,10 +3203,16 @@
           "start": "658",
           "stop": "771",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "787",
+          "stop": "846.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "A-"
+        "LR": "A-",
+        "NZ": "A"
       }
     },
     {
@@ -3132,10 +3228,16 @@
           "start": "2879",
           "stop": "2971",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "846.5",
+          "stop": "880",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "C+"
       }
     },
     {
@@ -3151,10 +3253,16 @@
           "start": "1366.5",
           "stop": "1577",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "880",
+          "stop": "953.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "F/BA(B-)"
+        "LR": "F/BA(B-)",
+        "NZ": "C+"
       }
     },
     {
@@ -3170,10 +3278,16 @@
           "start": "2971",
           "stop": "3069",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "953",
+          "stop": "990",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "C"
       }
     },
     {
@@ -3189,10 +3303,16 @@
           "start": "3069",
           "stop": "3148",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "989.5",
+          "stop": "1031",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "BA(C-)"
+        "LR": "BA(C-)",
+        "NZ": "C-"
       }
     },
     {
@@ -3208,10 +3328,16 @@
           "start": "3148",
           "stop": "3199",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1030",
+          "stop": "1050",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B+"
+        "LR": "B+",
+        "NZ": "B"
       }
     },
     {
@@ -3227,10 +3353,16 @@
           "start": "3199",
           "stop": "3236",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1050",
+          "stop": "1075",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C-"
+        "LR": "C-",
+        "NZ": "C-"
       }
     },
     {
@@ -3244,10 +3376,16 @@
           "start": "4319",
           "stop": "4471",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1075",
+          "stop": "1150",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C+/B-"
+        "LR": "C+/B-",
+        "NZ": "C+"
       }
     },
     {
@@ -3263,10 +3401,16 @@
           "start": "771",
           "stop": "829.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1150.5",
+          "stop": "1180",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B+"
       }
     },
     {
@@ -3282,10 +3426,16 @@
           "start": "455.5",
           "stop": "658",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1179.5",
+          "stop": "1224",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "B"
       }
     },
     {
@@ -3301,10 +3451,16 @@
           "start": "829.5",
           "stop": "948.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1223.5",
+          "stop": "1261",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B+"
+        "LR": "B+",
+        "NZ": "B+"
       }
     },
     {
@@ -3320,10 +3476,16 @@
           "start": "3236",
           "stop": "3302.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1260.5",
+          "stop": "1296",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C+"
       }
     },
     {
@@ -3339,10 +3501,16 @@
           "start": "3302.5",
           "stop": "3382",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1295.5",
+          "stop": "1331.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B"
       }
     },
     {
@@ -3358,10 +3526,16 @@
           "start": "3382",
           "stop": "3529",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1331",
+          "stop": "1392.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "BA(B)"
+        "LR": "BA(B)",
+        "NZ": "B-"
       }
     },
     {
@@ -3377,10 +3551,16 @@
           "start": "1058",
           "stop": "1207.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1392",
+          "stop": "1431",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B-"
       }
     },
     {
@@ -3396,10 +3576,16 @@
           "start": "3529",
           "stop": "3609.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1431",
+          "stop": "1452.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "C"
       }
     },
     {
@@ -3415,10 +3601,16 @@
           "start": "3609.5",
           "stop": "3674.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1452",
+          "stop": "1491",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B"
       }
     },
     {
@@ -3432,10 +3624,16 @@
           "start": "4471",
           "stop": "4642",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1490.5",
+          "stop": "1562",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "D"
+        "LR": "D",
+        "NZ": "D+"
       }
     },
     {
@@ -3451,10 +3649,16 @@
           "start": "3674.5",
           "stop": "3760",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1561.5",
+          "stop": "1612",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C+"
       }
     },
     {
@@ -3470,10 +3674,16 @@
           "start": "3760",
           "stop": "3869",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1612",
+          "stop": "1640.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "BA(B)"
+        "LR": "BA(B)",
+        "NZ": "C+"
       }
     },
     {
@@ -3489,10 +3699,16 @@
           "start": "3869",
           "stop": "3959",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1640.5",
+          "stop": "1678",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B"
+        "LR": "B",
+        "NZ": "B-"
       }
     },
     {
@@ -3508,10 +3724,16 @@
           "start": "1302",
           "stop": "1366.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1677.5",
+          "stop": "1714",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "A"
+        "LR": "A",
+        "NZ": "B"
       }
     },
     {
@@ -3527,10 +3749,16 @@
           "start": "3959",
           "stop": "4040",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1713.5",
+          "stop": "1741",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "D+/C-"
+        "LR": "D+/C-",
+        "NZ": "C"
       }
     },
     {
@@ -3546,10 +3774,16 @@
           "start": "4040",
           "stop": "4105.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1741",
+          "stop": "1783.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "A"
+        "LR": "A",
+        "NZ": "B+"
       }
     },
     {
@@ -3565,10 +3799,16 @@
           "start": "4105.5",
           "stop": "4148",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1783",
+          "stop": "1814",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C"
+        "LR": "C",
+        "NZ": "C"
       }
     },
     {
@@ -3584,10 +3824,16 @@
           "start": "4148",
           "stop": "4255",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1814",
+          "stop": "1852.5",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "C+"
+        "LR": "C+",
+        "NZ": "C+"
       }
     },
     {
@@ -3603,10 +3849,16 @@
           "start": "4255",
           "stop": "4305",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1852.5",
+          "stop": "1888",
+          "videoId": "RuOAvJyUaNQ"
         }
       ],
       "grade": {
-        "LR": "B+"
+        "LR": "B+",
+        "NZ": "B-"
       }
     },
     {
