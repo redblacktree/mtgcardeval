@@ -18,6 +18,11 @@
           "start": "7361.5",
           "stop": "7451.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "69",
+          "stop": "120",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -43,6 +48,11 @@
           "start": "3883",
           "stop": "3972",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "120",
+          "stop": "190",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -68,6 +78,11 @@
           "start": "7451.5",
           "stop": "7553",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "190",
+          "stop": "239.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -91,6 +106,11 @@
           "start": "9263",
           "stop": "9332",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "239",
+          "stop": "347",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -107,6 +127,11 @@
       "set_code": "neo",
       "collector_num": "5",
       "clips": [
+        {
+          "start": "347",
+          "stop": "418.5",
+          "videoId": "qyqoN3wnabI"
+        },
         {
           "start": "347",
           "stop": "418.5",
@@ -135,6 +160,11 @@
           "start": "7553",
           "stop": "7622.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "418",
+          "stop": "492.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -160,6 +190,11 @@
           "start": "4207.5",
           "stop": "4233.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "492",
+          "stop": "565",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -185,6 +220,11 @@
           "start": "3362",
           "stop": "3525.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "565",
+          "stop": "638",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -210,6 +250,11 @@
           "start": "7622.5",
           "stop": "7692",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "637.5",
+          "stop": "653",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -235,6 +280,11 @@
           "start": "7692",
           "stop": "7741",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "653",
+          "stop": "681.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -258,6 +308,11 @@
           "start": "9332",
           "stop": "9394",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "681",
+          "stop": "760",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -281,6 +336,11 @@
           "start": "9394",
           "stop": "9497.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "760",
+          "stop": "832",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -306,6 +366,11 @@
           "start": "4107",
           "stop": "4207.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "832",
+          "stop": "884",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -331,6 +396,11 @@
           "start": "7741",
           "stop": "7836",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "884",
+          "stop": "937.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -356,6 +426,11 @@
           "start": "7836",
           "stop": "7865",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "937",
+          "stop": "955",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -381,6 +456,11 @@
           "start": "7865",
           "stop": "7907.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "955",
+          "stop": "1029.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -406,6 +486,11 @@
           "start": "7907.5",
           "stop": "8023",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1029",
+          "stop": "1063.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -431,6 +516,11 @@
           "start": "8023",
           "stop": "8096.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1063",
+          "stop": "1091",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -456,6 +546,11 @@
           "start": "8096.5",
           "stop": "8146.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1091",
+          "stop": "1131.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -481,6 +576,11 @@
           "start": "8154.5",
           "stop": "8217.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1131.5",
+          "stop": "1157.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -506,6 +606,11 @@
           "start": "3972",
           "stop": "4107",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1157",
+          "stop": "1226",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -531,6 +636,11 @@
           "start": "8217.5",
           "stop": "8275",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1226",
+          "stop": "1259.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -556,6 +666,11 @@
           "start": "3620.5",
           "stop": "3712.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1259",
+          "stop": "1312",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -581,6 +696,11 @@
           "start": "8275",
           "stop": "8334",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1312",
+          "stop": "1352.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -606,6 +726,11 @@
           "start": "3114",
           "stop": "3243",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1352",
+          "stop": "1392",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -631,6 +756,11 @@
           "start": "3243",
           "stop": "3362",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1391",
+          "stop": "1434.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -656,6 +786,11 @@
           "start": "8334",
           "stop": "8378.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1434",
+          "stop": "1456",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -681,6 +816,11 @@
           "start": "3045.5",
           "stop": "3114",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1455",
+          "stop": "1509.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -704,6 +844,11 @@
           "start": "9497.5",
           "stop": "9577",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1509",
+          "stop": "1566",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -729,6 +874,11 @@
           "start": "8378.5",
           "stop": "8454.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1566",
+          "stop": "1613.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -754,6 +904,11 @@
           "start": "8454.5",
           "stop": "8529",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1614",
+          "stop": "1662.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -779,6 +934,11 @@
           "start": "8529",
           "stop": "8571",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1662",
+          "stop": "1688.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -804,6 +964,11 @@
           "start": "8571",
           "stop": "8633",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1688",
+          "stop": "1721.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -827,6 +992,11 @@
           "start": "3525.5",
           "stop": "3620.5",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "1721",
+          "stop": "1820",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -852,6 +1022,11 @@
           "start": "8633",
           "stop": "8678",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1820",
+          "stop": "1866.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -877,6 +1052,11 @@
           "start": "8678",
           "stop": "8755.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1866",
+          "stop": "1900.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -902,6 +1082,11 @@
           "start": "8755.5",
           "stop": "8845",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1900",
+          "stop": "1927.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -927,6 +1112,11 @@
           "start": "8845",
           "stop": "8893.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1927",
+          "stop": "1947",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -952,6 +1142,11 @@
           "start": "8893.5",
           "stop": "8966",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1947",
+          "stop": "1989",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -977,6 +1172,11 @@
           "start": "8966",
           "stop": "9108",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "1989",
+          "stop": "2047.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -1002,6 +1202,11 @@
           "start": "9108",
           "stop": "9174.5",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "2047",
+          "stop": "2069.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -1027,6 +1232,11 @@
           "start": "3712.5",
           "stop": "3883",
           "videoId": "yXO-euwOTuk"
+        },
+        {
+          "start": "2069",
+          "stop": "2157.5",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
@@ -1052,6 +1262,11 @@
           "start": "9174.5",
           "stop": "9263",
           "videoId": "GIkV6gC5dhQ"
+        },
+        {
+          "start": "2157.5",
+          "stop": "2194",
+          "videoId": "qyqoN3wnabI"
         }
       ],
       "grade": {
