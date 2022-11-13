@@ -19,12 +19,13 @@ import cards_mid from "./data/MID.json";
 import cards_vow from "./data/VOW.json";
 import cards_neo from "./data/NEO.json";
 import cards_snc from "./data/SNC.json";
+import cards_bro from "./data/BRO.json";
 import ControlPanel from "./ControlPanel";
 
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {set: "SNC", selectedCard: null, options: {playbackRate: 1, gradeDisplay: "LR"}};
+    this.state = {set: "BRO", selectedCard: null, options: {playbackRate: 1, gradeDisplay: "LR"}};
     this.data = {
       "IKO": cards_iko,
       "M20": cards_m20,
@@ -37,6 +38,7 @@ class App extends React.Component {
       "VOW": cards_vow,
       "NEO": cards_neo,
       "SNC": cards_snc,
+      "BRO": cards_bro,
     };
 
     ReactGA.initialize('UA-164496702-1');

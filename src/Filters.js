@@ -28,7 +28,8 @@ class Filters extends React.Component {
           <Form.Group controlId="set">
             <Form.Label>Set</Form.Label>
             <Form.Control as="select" onChange={this.handleSetChange}>
-              <option value="SNC" selected={"selected"}>Streets of New Capenna</option>
+              <option value="BRO" selected={"selected"}>The Brothers' War</option>
+              <option value="SNC">Streets of New Capenna</option>
               <option value="NEO">Kamigawa: Neon Dynasty</option>
               <option value="VOW">Innistrad: Crimson Vow</option>
               <option value="MID">Innistrad Midnight Hunt</option>

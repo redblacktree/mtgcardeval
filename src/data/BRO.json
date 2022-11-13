@@ -1,0 +1,4190 @@
+{
+  "cards": [
+    {
+      "name": "Aeronaut Cavalry",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/8/38a62bb2-bc33-44d4-9a7e-92c9ea7d3c2c.png?1667523667"
+      ],
+      "set_code": "bro",
+      "collector_num": "1",
+      "clips": [
+        {
+          "start": "10540",
+          "stop": "10581",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Airlift Chaplain",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/a/7ad55575-6053-43b1-9496-bcb1ea25e2a1.png?1667523604"
+      ],
+      "set_code": "bro",
+      "collector_num": "2",
+      "clips": [
+        {
+          "start": "10129",
+          "stop": "10195",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+/B-"
+      }
+    },
+    {
+      "name": "Ambush Paratrooper",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/f/cfa00c0e-163d-4f59-b8b9-3ee9143d27bb.png?1667375501"
+      ],
+      "set_code": "bro",
+      "collector_num": "3",
+      "clips": [
+        {
+          "start": "9874.5",
+          "stop": "9922",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Calamity's Wake",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/1/013bed2b-25db-4dfc-9283-e80c9ac6c841.png?1667373852"
+      ],
+      "set_code": "bro",
+      "collector_num": "4",
+      "clips": [
+        {
+          "start": "9922",
+          "stop": "9936",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Deadly Riposte",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/8/38eca0ae-d400-4afb-9a45-7100f4cd7149.png?1667637531"
+      ],
+      "set_code": "bro",
+      "collector_num": "5",
+      "clips": [
+        {
+          "start": "9936",
+          "stop": "9977.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Disenchant",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/5/658c5caa-d739-4d30-a512-43ac4de900cb.png?1667260704"
+      ],
+      "set_code": "bro",
+      "collector_num": "6",
+      "clips": [
+        {
+          "start": "9977.5",
+          "stop": "10019",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Great Desert Prospector",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/c/dc83d586-bf46-437f-a5a3-996bd62d5866.png?1667419367"
+      ],
+      "set_code": "bro",
+      "collector_num": "7",
+      "clips": [
+        {
+          "start": "10581",
+          "stop": "10632",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "In the Trenches",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/1/71ff86e9-1ce6-43cc-8135-f2adb1b6c5a7.png?1666996165"
+      ],
+      "set_code": "bro",
+      "collector_num": "8"
+    },
+    {
+      "name": "Kayla's Command",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/7/0737dbec-1646-41a0-adbf-706c9bd4fc7a.png?1667373866"
+      ],
+      "set_code": "bro",
+      "collector_num": "9"
+    },
+    {
+      "name": "Kayla's Reconstruction",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/b/2bb84e72-0231-461a-a230-d8afa6e54289.png?1667373882"
+      ],
+      "set_code": "bro",
+      "collector_num": "10"
+    },
+    {
+      "name": "Lay Down Arms",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/6/5649ee5a-4485-40a2-96d1-2e061905a71e.png?1667289088"
+      ],
+      "set_code": "bro",
+      "collector_num": "11",
+      "clips": [
+        {
+          "start": "9572",
+          "stop": "9647",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Loran of the Third Path",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/9/59faa45d-868b-4bc7-934c-0e077642e129.png?1667262021"
+      ],
+      "set_code": "bro",
+      "collector_num": "12"
+    },
+    {
+      "name": "Loran, Disciple of History",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/9/9998f898-1f08-481b-8505-b890f0fec5e0.png?1667469300"
+      ],
+      "set_code": "bro",
+      "collector_num": "13",
+      "clips": [
+        {
+          "start": "10381",
+          "stop": "10422",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Loran's Escape",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/7/3765610d-a0c1-4de9-a81b-ffa3eb06454b.png?1667561619"
+      ],
+      "set_code": "bro",
+      "collector_num": "14",
+      "clips": [
+        {
+          "start": "9647",
+          "stop": "9671",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Mass Production",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/4/640a08b7-dd30-446e-a8a7-2e084bbb9586.png?1667377042"
+      ],
+      "set_code": "bro",
+      "collector_num": "15",
+      "clips": [
+        {
+          "start": "10684",
+          "stop": "10741",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D/C"
+      }
+    },
+    {
+      "name": "Meticulous Excavation",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/8/e811461a-6a90-416f-940c-c9579659ae0c.png?1667629667"
+      ],
+      "set_code": "bro",
+      "collector_num": "16",
+      "clips": [
+        {
+          "start": "9671",
+          "stop": "9706",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Military Discipline",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/4/94778e17-87c4-4765-b2f0-40455069f2c4.png?1667561678"
+      ],
+      "set_code": "bro",
+      "collector_num": "17",
+      "clips": [
+        {
+          "start": "9706",
+          "stop": "9742.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D/D-"
+      }
+    },
+    {
+      "name": "Myrel, Shield of Argive",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/6/e632ed57-bb00-4493-adef-7b4805edd7ea.png?1667393022"
+      ],
+      "set_code": "bro",
+      "collector_num": "18"
+    },
+    {
+      "name": "Phalanx Vanguard",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/a/2abe2af7-deba-4569-822a-2d9309aeaadd.png?1667523527"
+      ],
+      "set_code": "bro",
+      "collector_num": "19",
+      "clips": [
+        {
+          "start": "10019",
+          "stop": "10054.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Powerstone Engineer",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/9/2901c5f6-5d83-437d-b434-d9beb115dd82.png?1667467116"
+      ],
+      "set_code": "bro",
+      "collector_num": "20",
+      "clips": [
+        {
+          "start": "10054.5",
+          "stop": "10082",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Prison Sentence",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/6/76832ca8-95b2-4bc8-a191-9e2f50b77626.png?1667561922"
+      ],
+      "set_code": "bro",
+      "collector_num": "21",
+      "clips": [
+        {
+          "start": "10195",
+          "stop": "10216",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Recommission",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/a/2a64e330-1257-4ec3-9a75-889cdcac3ade.png?1667523464"
+      ],
+      "set_code": "bro",
+      "collector_num": "22",
+      "clips": [
+        {
+          "start": "10082",
+          "stop": "10129",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "Recruitment Officer",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/2/c226656b-68d5-4df2-b313-a323a728c520.png?1664534215"
+      ],
+      "set_code": "bro",
+      "collector_num": "23",
+      "clips": [
+        {
+          "start": "9742.5",
+          "stop": "9819",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Repair and Recharge",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/4/04ff4a4b-4e86-41d1-a6b6-312aac0d3e1a.png?1667301202"
+      ],
+      "set_code": "bro",
+      "collector_num": "24",
+      "clips": [
+        {
+          "start": "10632",
+          "stop": "10678",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Siege Veteran",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/5/f57e2a32-6e52-4f6e-96ec-55f5b7ba77e0.png?1667433630"
+      ],
+      "set_code": "bro",
+      "collector_num": "25"
+    },
+    {
+      "name": "Soul Partition",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/8/28bb8ec0-9729-4aa1-8ce4-a3a5598b0d70.png?1667199310"
+      ],
+      "set_code": "bro",
+      "collector_num": "26"
+    },
+    {
+      "name": "Static Net",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/a/5ab5cb30-3ced-4450-a3c4-b519f3762620.png?1667419536"
+      ],
+      "set_code": "bro",
+      "collector_num": "27",
+      "clips": [
+        {
+          "start": "10422",
+          "stop": "10463",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "A-"
+      }
+    },
+    {
+      "name": "Survivor of Korlis",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/1/817bcc8d-a5b7-448c-a3eb-825dc65944ec.png?1667301210"
+      ],
+      "set_code": "bro",
+      "collector_num": "28",
+      "clips": [
+        {
+          "start": "9819",
+          "stop": "9874.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Thopter Architect",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/1/61017325-cec0-46ac-aa32-5855e5904888.png?1667376509"
+      ],
+      "set_code": "bro",
+      "collector_num": "29",
+      "clips": [
+        {
+          "start": "10463",
+          "stop": "10540",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "Tocasia's Welcome",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/6/56cd89f1-f9f4-4cb5-a573-79809d0b6dfd.png?1667089066"
+      ],
+      "set_code": "bro",
+      "collector_num": "30"
+    },
+    {
+      "name": "Union of the Third Path",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/8/486a0745-7360-4cc9-9cc2-30c0eda6e00c.png?1667373122"
+      ],
+      "set_code": "bro",
+      "collector_num": "31",
+      "clips": [
+        {
+          "start": "10216",
+          "stop": "10306",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Warlord's Elite",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/8/1873cc9e-30b6-498e-b008-9d11a8bbf9b9.png?1667637595"
+      ],
+      "set_code": "bro",
+      "collector_num": "32",
+      "clips": [
+        {
+          "start": "10306",
+          "stop": "10346",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Yotian Medic",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/2/f21b9c48-6eca-4677-961b-614f5ec594ce.png?1667143642"
+      ],
+      "set_code": "bro",
+      "collector_num": "33",
+      "clips": [
+        {
+          "start": "10346",
+          "stop": "10381",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Autonomous Assembler",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/5/d5dee863-e6ef-4061-a877-ddd3c4dbe87e.png?1667400301"
+      ],
+      "set_code": "bro",
+      "collector_num": "34"
+    },
+    {
+      "name": "Combat Thresher",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/4/74dfabfd-e13b-4512-a733-abe514be6404.png?1667288625"
+      ],
+      "set_code": "bro",
+      "collector_num": "35",
+      "clips": [
+        {
+          "start": "10940",
+          "stop": "10985",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Platoon Dispenser",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/c/6c4825e3-c549-4bcb-84b5-2d0782c5c4e5.png?1667480120"
+      ],
+      "set_code": "bro",
+      "collector_num": "36"
+    },
+    {
+      "name": "Scrapwork Cohort",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/1/91b0f17e-603a-4840-b2c3-381ec6f102f3.png?1666927557"
+      ],
+      "set_code": "bro",
+      "collector_num": "37",
+      "clips": [
+        {
+          "start": "10861",
+          "stop": "10891",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Steel Seraph",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/b/1b6ef5f5-4058-4f89-a573-9e2da87a9f2e.png?1667430684"
+      ],
+      "set_code": "bro",
+      "collector_num": "38"
+    },
+    {
+      "name": "Tocasia's Onulet",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/4/e4abf2fb-f78a-4e75-b46f-524d3d7405db.png?1667309952"
+      ],
+      "set_code": "bro",
+      "collector_num": "39",
+      "clips": [
+        {
+          "start": "10891",
+          "stop": "10940",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Urza's Sylex",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/0/3000d1c6-dbb3-4e65-b428-dbf167bb8797.png?1667140926"
+      ],
+      "set_code": "bro",
+      "collector_num": "40"
+    },
+    {
+      "name": "Veteran's Powerblade",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/4/64d823e1-a7d6-4296-94c8-b8ba9b4daa38.png?1667523372"
+      ],
+      "set_code": "bro",
+      "collector_num": "41",
+      "clips": [
+        {
+          "start": "10794",
+          "stop": "10861",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Yotian Frontliner",
+      "color": "W",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/f/bfa05d1e-6728-4e77-bfb2-da0b9598e44b.png?1667328178"
+      ],
+      "set_code": "bro",
+      "collector_num": "42",
+      "clips": [
+        {
+          "start": "10742.5",
+          "stop": "10794",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Air Marshal",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/9/991e1a6c-914b-45c8-9170-c09e72696117.png?1667562076"
+      ],
+      "set_code": "bro",
+      "collector_num": "43",
+      "clips": [
+        {
+          "start": "1380.5",
+          "stop": "1454",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Curate",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/e/fe8c3fc8-c1cc-4dfc-94cb-1538bff9d09a.png?1667562124"
+      ],
+      "set_code": "bro",
+      "collector_num": "44",
+      "clips": [
+        {
+          "start": "1453",
+          "stop": "1580.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Defabricate",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/d/7dd32168-0b9c-4633-adec-d41cf125cc35.png?1667485145"
+      ],
+      "set_code": "bro",
+      "collector_num": "45",
+      "clips": [
+        {
+          "start": "1579.5",
+          "stop": "1647",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F/SB(C)"
+      }
+    },
+    {
+      "name": "Desynchronize",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/6/46e101e5-2b20-48dd-aac4-15a3c32a7441.png?1667562192"
+      ],
+      "set_code": "bro",
+      "collector_num": "46",
+      "clips": [
+        {
+          "start": "3111.5",
+          "stop": "3191",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Drafna, Founder of Lat-Nam",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/7/f7355905-2b3b-4191-a89c-a0fc1494928b.png?1667109534"
+      ],
+      "set_code": "bro",
+      "collector_num": "47"
+    },
+    {
+      "name": "Fallaji Archaeologist",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/0/b0eab397-25a6-4377-8e12-e8acef9675cf.png?1667328259"
+      ],
+      "set_code": "bro",
+      "collector_num": "48",
+      "clips": [
+        {
+          "start": "1646",
+          "stop": "1736.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D/BA(C+)"
+      }
+    },
+    {
+      "name": "Flow of Knowledge",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/e/5ea316f3-4a68-4cd4-a388-da9d0455d0a9.png?1667289240"
+      ],
+      "set_code": "bro",
+      "collector_num": "49",
+      "clips": [
+        {
+          "start": "3191",
+          "stop": "3241",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Forging the Anchor",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/5/057f6add-1f1d-4cce-9c9d-5e59fb74d78e.png?1667433364"
+      ],
+      "set_code": "bro",
+      "collector_num": "50",
+      "clips": [
+        {
+          "start": "2012",
+          "stop": "2086",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F/BA(D)"
+      }
+    },
+    {
+      "name": "Hurkyl, Master Wizard",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/f/5fcee066-425f-4341-bde5-13a5bdf06f2a.png?1666929501"
+      ],
+      "set_code": "bro",
+      "collector_num": "51"
+    },
+    {
+      "name": "Hurkyl's Final Meditation",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/5/5577f345-9577-42f8-b244-089b9a7c2e56.png?1667373835"
+      ],
+      "set_code": "bro",
+      "collector_num": "52"
+    },
+    {
+      "name": "Involuntary Cooldown",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/4/d4fcaf6d-6491-4459-98b0-b3c7d43df59e.png?1667562346"
+      ],
+      "set_code": "bro",
+      "collector_num": "53",
+      "clips": [
+        {
+          "start": "2595",
+          "stop": "2731.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Keeper of the Cadence",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/9/09200388-47c9-4472-ac9e-98f57653e084.png?1667430613"
+      ],
+      "set_code": "bro",
+      "collector_num": "54",
+      "clips": [
+        {
+          "start": "3241",
+          "stop": "3287",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Koilos Roc",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/b/ebdbcb87-c6ea-477f-a560-c175d99e21b8.png?1667523810"
+      ],
+      "set_code": "bro",
+      "collector_num": "55",
+      "clips": [
+        {
+          "start": "3289",
+          "stop": "3321.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Lat-Nam Adept",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/1/a1e088de-e99f-4706-89e0-a7efdaf9403a.png?1667374032"
+      ],
+      "set_code": "bro",
+      "collector_num": "56",
+      "clips": [
+        {
+          "start": "2730.5",
+          "stop": "2795.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Machine Over Matter",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/0/d08eadf5-a86d-4e8d-b65d-79b4f88477b9.png?1667372178"
+      ],
+      "set_code": "bro",
+      "collector_num": "57",
+      "clips": [
+        {
+          "start": "1735.5",
+          "stop": "1799",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Mightstone's Animation",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/c/8c540e42-22e2-4127-bbd9-2e9200023fec.png?1667328460"
+      ],
+      "set_code": "bro",
+      "collector_num": "58",
+      "clips": [
+        {
+          "start": "2795",
+          "stop": "2904.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "One with the Multiverse",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/8/7868529f-8abb-4b1d-9c04-e628f81e08d2.png?1667373976"
+      ],
+      "set_code": "bro",
+      "collector_num": "59"
+    },
+    {
+      "name": "Retrieval Agent",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/3/f333a7b1-936e-42f3-ba22-2c76dd2f1c9a.png?1667562414"
+      ],
+      "set_code": "bro",
+      "collector_num": "60",
+      "clips": [
+        {
+          "start": "2904.5",
+          "stop": "2988",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C/D+"
+      }
+    },
+    {
+      "name": "Scatter Ray",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/c/1c2852c9-d566-4824-836a-2f4c7a5148a1.png?1667637477"
+      ],
+      "set_code": "bro",
+      "collector_num": "61",
+      "clips": [
+        {
+          "start": "1798",
+          "stop": "1892",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Skystrike Officer",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/2/925fa343-d9c3-4ed9-bd1f-aaa31c0badd7.png?1667430831"
+      ],
+      "set_code": "bro",
+      "collector_num": "62"
+    },
+    {
+      "name": "Splitting the Powerstone",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/6/569dab90-a0d8-4c0a-8e32-b2cb3aec39a6.png?1666927787"
+      ],
+      "set_code": "bro",
+      "collector_num": "63",
+      "clips": [
+        {
+          "start": "2085",
+          "stop": "2122.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Stern Lesson",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/1/3151caa2-10ed-4f30-83eb-cd1bd3f642ce.png?1667089703"
+      ],
+      "set_code": "bro",
+      "collector_num": "64",
+      "clips": [
+        {
+          "start": "2122.5",
+          "stop": "2189",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Take Flight",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/6/46a2108e-e45e-4b21-a03b-5f644b6043be.png?1667430766"
+      ],
+      "set_code": "bro",
+      "collector_num": "65",
+      "clips": [
+        {
+          "start": "2987",
+          "stop": "3112.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Teferi, Temporal Pilgrim",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/3/23a4f1ec-eadf-4f1e-8821-f22293ad2580.png?1667199338"
+      ],
+      "set_code": "bro",
+      "collector_num": "66"
+    },
+    {
+      "name": "Third Path Savant",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/9/793a51ab-59fb-424f-a315-3f63e8990322.png?1667089830"
+      ],
+      "set_code": "bro",
+      "collector_num": "67",
+      "clips": [
+        {
+          "start": "2187.5",
+          "stop": "2311.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Thopter Mechanic",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/5/7577b5c7-91ed-4201-bdfd-0919142124eb.png?1667374013"
+      ],
+      "set_code": "bro",
+      "collector_num": "68",
+      "clips": [
+        {
+          "start": "1890",
+          "stop": "1939.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Urza, Powerstone Prodigy",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/4/445f897e-a059-4cd5-bfd2-302dc7a4c8e2.png?1666929703"
+      ],
+      "set_code": "bro",
+      "collector_num": "69",
+      "clips": [
+        {
+          "start": "2311",
+          "stop": "2382",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Urza's Command",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/9/b9b4a02c-e57f-4287-943e-6bc859ac149e.png?1667108777"
+      ],
+      "set_code": "bro",
+      "collector_num": "70"
+    },
+    {
+      "name": "Urza's Rebuff",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/a/8a6f90b3-450c-490a-b6d0-2393c4646c85.png?1667328528"
+      ],
+      "set_code": "bro",
+      "collector_num": "71",
+      "clips": [
+        {
+          "start": "2382",
+          "stop": "2559",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D/D+"
+      }
+    },
+    {
+      "name": "Weakstone's Subjugation",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/f/ef93ac79-8575-40f8-a222-63c2ffb30f60.png?1667637691"
+      ],
+      "set_code": "bro",
+      "collector_num": "72",
+      "clips": [
+        {
+          "start": "1254.5",
+          "stop": "1380.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-/C+"
+      }
+    },
+    {
+      "name": "Wing Commando",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/3/43e640c3-02bb-453c-a609-05d8214e2e2e.png?1667562621"
+      ],
+      "set_code": "bro",
+      "collector_num": "73",
+      "clips": [
+        {
+          "start": "2558",
+          "stop": "2596",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Zephyr Sentinel",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/9/f935adbb-d2e3-48d0-b38c-41f3b583fecb.png?1667638046"
+      ],
+      "set_code": "bro",
+      "collector_num": "74",
+      "clips": [
+        {
+          "start": "1938",
+          "stop": "2012.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Arcane Proxy",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/6/d6d74d2e-7382-4fe3-ac3e-6906203ffcc7.png?1667208629"
+      ],
+      "set_code": "bro",
+      "collector_num": "75"
+    },
+    {
+      "name": "Coastal Bulwark",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/2/e24567f8-d195-4547-bba4-7a8131dc7889.png?1667562690"
+      ],
+      "set_code": "bro",
+      "collector_num": "76",
+      "clips": [
+        {
+          "start": "11116.5",
+          "stop": "11167.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Combat Courier",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/7/171edf80-ffc1-4894-9be5-c3e93a96f734.png?1667523715"
+      ],
+      "set_code": "bro",
+      "collector_num": "77",
+      "clips": [
+        {
+          "start": "3352.5",
+          "stop": "3454.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Depth Charge Colossus",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/4/34e09173-a92d-4cc3-9d02-bf18ab0850ec.png?1667139811"
+      ],
+      "set_code": "bro",
+      "collector_num": "78",
+      "clips": [
+        {
+          "start": "3579",
+          "stop": "3672",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Hulking Metamorph",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/2/420f0b81-8b87-4854-9dc4-6da84cc38623.png?1667521868"
+      ],
+      "set_code": "bro",
+      "collector_num": "79",
+      "clips": [
+        {
+          "start": "3672",
+          "stop": "3794.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Spotter Thopter",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/9/d90175ae-4109-4845-b3ff-1531fb67a0e1.png?1667521589"
+      ],
+      "set_code": "bro",
+      "collector_num": "80",
+      "clips": [
+        {
+          "start": "3459.5",
+          "stop": "3579",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Surge Engine",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/2/12b9c9c5-e992-4f1c-a779-124176c3aade.png?1664487370"
+      ],
+      "set_code": "bro",
+      "collector_num": "81"
+    },
+    {
+      "name": "The Temporal Anchor",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/a/1a212d59-b72e-4939-a757-c131ca4323ce.png?1667139879"
+      ],
+      "set_code": "bro",
+      "collector_num": "82"
+    },
+    {
+      "name": "Terisian Mindbreaker",
+      "color": "U",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/b/6bd86daf-7cee-454c-8d4d-97f59fe36958.png?1667288672"
+      ],
+      "set_code": "bro",
+      "collector_num": "83"
+    },
+    {
+      "name": "Ashnod, Flesh Mechanist",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/e/5eb43c15-50a9-488f-b0be-84a5e0a6d10b.png?1667328743"
+      ],
+      "set_code": "bro",
+      "collector_num": "84"
+    },
+    {
+      "name": "Ashnod's Intervention",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/c/bcf491db-d12b-4c58-9c05-085cac34a73e.png?1667433379"
+      ],
+      "set_code": "bro",
+      "collector_num": "85",
+      "clips": [
+        {
+          "start": "3797",
+          "stop": "3840",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Battlefield Butcher",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/0/90c47e31-d4f6-46f3-94b7-1726c4a4a8eb.png?1667373989"
+      ],
+      "set_code": "bro",
+      "collector_num": "86",
+      "clips": [
+        {
+          "start": "4394.5",
+          "stop": "4465.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-/B"
+      }
+    },
+    {
+      "name": "Carrion Locust",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/7/6759acb8-82c0-479f-86f3-f22ca7a2006c.png?1667570938"
+      ],
+      "set_code": "bro",
+      "collector_num": "87",
+      "clips": [
+        {
+          "start": "4465.5",
+          "stop": "4494",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Corrupt",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/9/c92ea561-80da-4fe1-ad87-ce47d9eb80bc.png?1667289325"
+      ],
+      "set_code": "bro",
+      "collector_num": "88",
+      "clips": [
+        {
+          "start": "5193.5",
+          "stop": "5316.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C/BA(B)"
+      }
+    },
+    {
+      "name": "Diabolic Intent",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/7/d72ab698-de67-4ca8-8e42-b05346bf52fa.png?1667373682"
+      ],
+      "set_code": "bro",
+      "collector_num": "89"
+    },
+    {
+      "name": "Disciples of Gix",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/d/7d356456-865d-4c92-8923-ce7384e29a79.png?1667329083"
+      ],
+      "set_code": "bro",
+      "collector_num": "90",
+      "clips": [
+        {
+          "start": "5316.5",
+          "stop": "5358.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "Disfigure",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/a/aaa9c6f1-3938-448b-bdc3-22420c5984d3.png?1667288721"
+      ],
+      "set_code": "bro",
+      "collector_num": "91",
+      "clips": [
+        {
+          "start": "3840",
+          "stop": "3869",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Dreams of Steel and Oil",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/6/261ac92e-c61a-4c11-aa6a-9ae1cb703e5c.png?1667329125"
+      ],
+      "set_code": "bro",
+      "collector_num": "92",
+      "clips": [
+        {
+          "start": "3869",
+          "stop": "3950",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D/SB(B)"
+      }
+    },
+    {
+      "name": "Emergency Weld",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/c/ec94d440-3922-4588-bf7b-d8670f81ef4e.png?1667571007"
+      ],
+      "set_code": "bro",
+      "collector_num": "93",
+      "clips": [
+        {
+          "start": "3995",
+          "stop": "4054",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
+    },
+    {
+      "name": "Fateful Handoff",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/b/0bbed8f9-3615-428b-8d0d-18291c5a99be.png?1667571077"
+      ],
+      "set_code": "bro",
+      "collector_num": "94"
+    },
+    {
+      "name": "Gix, Yawgmoth Praetor",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.png?1666927948"
+      ],
+      "set_code": "bro",
+      "collector_num": "95"
+    },
+    {
+      "name": "Gix's Caress",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/1/f1140cb9-6c48-4054-966e-5cc02aa7d5a4.png?1667329235"
+      ],
+      "set_code": "bro",
+      "collector_num": "96",
+      "clips": [
+        {
+          "start": "4578",
+          "stop": "4664",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-/D"
+      }
+    },
+    {
+      "name": "Gix's Command",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/6/9606de75-c25f-411b-a271-258ac5a60987.png?1667374042"
+      ],
+      "set_code": "bro",
+      "collector_num": "97"
+    },
+    {
+      "name": "Gixian Infiltrator",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/9/c94a3317-7d1f-4f29-8353-180f1ab48d18.png?1667571142"
+      ],
+      "set_code": "bro",
+      "collector_num": "98",
+      "clips": [
+        {
+          "start": "4054",
+          "stop": "4141",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Gixian Puppeteer",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/c/2cc86e18-ffbc-4c5f-a694-922332b146cc.png?1667430696"
+      ],
+      "set_code": "bro",
+      "collector_num": "99"
+    },
+    {
+      "name": "Gixian Skullflayer",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/b/ebdcf02b-1876-44d7-8a22-679ea1272856.png?1667538871"
+      ],
+      "set_code": "bro",
+      "collector_num": "100",
+      "clips": [
+        {
+          "start": "4494",
+          "stop": "4578",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Gnawing Vermin",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/f/2fa2fa48-ddb7-45f0-b183-4186df98f7cc.png?1667413900"
+      ],
+      "set_code": "bro",
+      "collector_num": "101",
+      "clips": [
+        {
+          "start": "3950",
+          "stop": "3995",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Go for the Throat",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/4/94117b09-d852-4f2e-be8e-68ee0ee3c3d8.png?1667089409"
+      ],
+      "set_code": "bro",
+      "collector_num": "102",
+      "clips": [
+        {
+          "start": "4141",
+          "stop": "4182",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Gruesome Realization",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/1/21cd0ece-a267-42ab-b95a-6e7931bd837a.png?1667397984"
+      ],
+      "set_code": "bro",
+      "collector_num": "103",
+      "clips": [
+        {
+          "start": "4664",
+          "stop": "4740",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
+    },
+    {
+      "name": "Gurgling Anointer",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/c/9ce0d139-2bea-48df-a007-cee7c8ce07bd.png?1667430147"
+      ],
+      "set_code": "bro",
+      "collector_num": "104",
+      "clips": [
+        {
+          "start": "4741",
+          "stop": "4806",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Hostile Negotiations",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/8/f827a9a0-7b72-49e2-85fa-adcce1e8fdda.png?1667571170"
+      ],
+      "set_code": "bro",
+      "collector_num": "105"
+    },
+    {
+      "name": "Kill-Zone Acrobat",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/8/48f97974-bb65-46b0-a710-12fa4b9343ac.png?1667539045"
+      ],
+      "set_code": "bro",
+      "collector_num": "106",
+      "clips": [
+        {
+          "start": "4806",
+          "stop": "4891",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Misery's Shadow",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/1/514c5e77-9ecc-41c9-b104-76343601fafb.png?1667430646"
+      ],
+      "set_code": "bro",
+      "collector_num": "107"
+    },
+    {
+      "name": "Moment of Defiance",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/e/0e99fb27-a1e9-491f-ab2a-3ccb493168cb.png?1667571260"
+      ],
+      "set_code": "bro",
+      "collector_num": "108",
+      "clips": [
+        {
+          "start": "4891",
+          "stop": "4973",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "No One Left Behind",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/a/4a7e030c-98d1-452c-8020-cd92a3ef02c3.png?1667329348"
+      ],
+      "set_code": "bro",
+      "collector_num": "109",
+      "clips": [
+        {
+          "start": "5035",
+          "stop": "5087.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Overwhelming Remorse",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/0/202cbfa4-3b3d-47fd-84a6-892692c906d6.png?1667199257"
+      ],
+      "set_code": "bro",
+      "collector_num": "110",
+      "clips": [
+        {
+          "start": "5087.5",
+          "stop": "5141",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Painful Quandary",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/e/bed5e030-874f-4a00-8544-78ba04033f53.png?1667329387"
+      ],
+      "set_code": "bro",
+      "collector_num": "111"
+    },
+    {
+      "name": "Powerstone Fracture",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/3/2323301f-565a-4c0f-bffd-18386ccd1f7a.png?1667329441"
+      ],
+      "set_code": "bro",
+      "collector_num": "112",
+      "clips": [
+        {
+          "start": "4182",
+          "stop": "4245",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+/B"
+      }
+    },
+    {
+      "name": "Ravenous Gigamole",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/f/2fee3328-75c2-4d13-86e1-bf3a40fbf538.png?1667637569"
+      ],
+      "set_code": "bro",
+      "collector_num": "113",
+      "clips": [
+        {
+          "start": "4973",
+          "stop": "5035",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Thran Vigil",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/f/3faed400-0712-4fc1-b710-144db40a5e11.png?1667329490"
+      ],
+      "set_code": "bro",
+      "collector_num": "114",
+      "clips": [
+        {
+          "start": "4245",
+          "stop": "4329",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(C)"
+      }
+    },
+    {
+      "name": "Thraxodemon",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/c/fc59ca3b-d417-4cf2-99a3-89816bf2bd09.png?1667637544"
+      ],
+      "set_code": "bro",
+      "collector_num": "115",
+      "clips": [
+        {
+          "start": "4328",
+          "stop": "4394.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Trench Stalker",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/a/aa1b987a-a3b9-4cd1-85b0-e58df4130934.png?1667571324"
+      ],
+      "set_code": "bro",
+      "collector_num": "116",
+      "clips": [
+        {
+          "start": "5140",
+          "stop": "5194.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C/C+"
+      }
+    },
+    {
+      "name": "Ashnod's Harvester",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/8/58baa977-16c1-4983-8343-dbd65e98ddb7.png?1666927695"
+      ],
+      "set_code": "bro",
+      "collector_num": "117",
+      "clips": [
+        {
+          "start": "5448.5",
+          "stop": "5498",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Clay Revenant",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/c/fc295bac-5031-46c8-8d9a-368656bcf6d3.png?1667089979"
+      ],
+      "set_code": "bro",
+      "collector_num": "118",
+      "clips": [
+        {
+          "start": "5369",
+          "stop": "5448.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Dredging Claw",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/8/c8e133a2-631f-43f6-9fdd-e542d4d15e10.png?1667538802"
+      ],
+      "set_code": "bro",
+      "collector_num": "119",
+      "clips": [
+        {
+          "start": "5498",
+          "stop": "5541",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Goring Warplow",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/d/9d927dfd-ae66-4235-a61b-39c85d0c1222.png?1667580592"
+      ],
+      "set_code": "bro",
+      "collector_num": "120",
+      "clips": [
+        {
+          "start": "5793",
+          "stop": "5853",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
+    },
+    {
+      "name": "Phyrexian Fleshgorger",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/2/62d37423-3445-412a-9abd-0480da404637.png?1666927372"
+      ],
+      "set_code": "bro",
+      "collector_num": "121"
+    },
+    {
+      "name": "Razorlash Transmogrant",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/d/edfaf8cc-7819-4ec2-8d79-e3b0c1814590.png?1667419720"
+      ],
+      "set_code": "bro",
+      "collector_num": "122"
+    },
+    {
+      "name": "Scrapwork Rager",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/2/e28de770-7975-4aa9-b656-e7dbe6bff290.png?1667538747"
+      ],
+      "set_code": "bro",
+      "collector_num": "123",
+      "clips": [
+        {
+          "start": "5700",
+          "stop": "5793",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+/B-"
+      }
+    },
+    {
+      "name": "Transmogrant Altar",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/a/ca28d210-a35d-491e-beda-76b95d09dc2d.png?1667571450"
+      ],
+      "set_code": "bro",
+      "collector_num": "124",
+      "clips": [
+        {
+          "start": "5541",
+          "stop": "5700",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "Transmogrant's Crown",
+      "color": "B",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/c/dc913ed6-3032-4b45-a6c1-6a4208a7e00a.png?1667218953"
+      ],
+      "set_code": "bro",
+      "collector_num": "125"
+    },
+    {
+      "name": "Arms Race",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/d/cd83b2c3-bb06-42db-83bf-8903a126512c.png?1668078311"
+      ],
+      "set_code": "bro",
+      "collector_num": "126",
+      "clips": [
+        {
+          "start": "6935",
+          "stop": "6971",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Bitter Reunion",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/4/345a1c80-41d6-43b1-83ab-1aa56dd06b1b.png?1667140347"
+      ],
+      "set_code": "bro",
+      "collector_num": "127",
+      "clips": [
+        {
+          "start": "5989",
+          "stop": "6065",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Brotherhood's End",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.png?1667289745"
+      ],
+      "set_code": "bro",
+      "collector_num": "128"
+    },
+    {
+      "name": "Conscripted Infantry",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/5/f50b0449-8ff7-4549-893b-aeca93720c64.png?1667571554"
+      ],
+      "set_code": "bro",
+      "collector_num": "129",
+      "clips": [
+        {
+          "start": "6558.5",
+          "stop": "6589",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Draconic Destiny",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/7/f71240ad-1daf-419a-aaeb-5f9d5079c3dd.png?1667397952"
+      ],
+      "set_code": "bro",
+      "collector_num": "130"
+    },
+    {
+      "name": "Dwarven Forge-Chanter",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/b/bbd6a95a-11b9-43aa-b293-20a3102bae71.png?1667571648"
+      ],
+      "set_code": "bro",
+      "collector_num": "131",
+      "clips": [
+        {
+          "start": "6064",
+          "stop": "6107.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Excavation Explosion",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/1/a169612e-f5de-4653-bc31-9ede8c5bdc75.png?1667538612"
+      ],
+      "set_code": "bro",
+      "collector_num": "132",
+      "clips": [
+        {
+          "start": "6589",
+          "stop": "6617",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "The Fall of Kroog",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/4/f454583d-d227-4fc8-842e-128e025880e4.png?1667139347"
+      ],
+      "set_code": "bro",
+      "collector_num": "133",
+      "clips": [
+        {
+          "start": "7382.5",
+          "stop": "7458",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Fallaji Chaindancer",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/d/4dc2da75-160d-47f9-b978-e153262ec1fc.png?1667329614"
+      ],
+      "set_code": "bro",
+      "collector_num": "134",
+      "clips": [
+        {
+          "start": "6971",
+          "stop": "7017",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-/C+"
+      }
+    },
+    {
+      "name": "Feldon, Ronom Excavator",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/c/5ca4cb0e-63ad-4275-a27f-da476260b467.png?1666996405"
+      ],
+      "set_code": "bro",
+      "collector_num": "135"
+    },
+    {
+      "name": "Giant Cindermaw",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/3/1349465f-d29f-4d4b-a653-f4388574c336.png?1667637451"
+      ],
+      "set_code": "bro",
+      "collector_num": "136",
+      "clips": [
+        {
+          "start": "6617",
+          "stop": "6643",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Goblin Blast-Runner",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/d/bd77c575-93a4-44ec-8940-adcbfc6e7a84.png?1667379219"
+      ],
+      "set_code": "bro",
+      "collector_num": "137",
+      "clips": [
+        {
+          "start": "5855",
+          "stop": "5901.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Horned Stoneseeker",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/c/5cd965a9-caa2-42a3-b2f9-e4f57341ac27.png?1667571782"
+      ],
+      "set_code": "bro",
+      "collector_num": "138",
+      "clips": [
+        {
+          "start": "6107.5",
+          "stop": "6146",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Mechanized Warfare",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/a/ba2d026f-bdca-4376-9d70-c81c707598e8.png?1667419829"
+      ],
+      "set_code": "bro",
+      "collector_num": "139"
+    },
+    {
+      "name": "Mishra, Excavation Prodigy",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/5/f5d02416-8578-40a5-bf31-d1ef9b8764f1.png?1666929409"
+      ],
+      "set_code": "bro",
+      "collector_num": "140",
+      "clips": [
+        {
+          "start": "6643",
+          "stop": "6730",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+/C"
+      }
+    },
+    {
+      "name": "Mishra's Command",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/4/f4d2e518-30c6-480c-aaf4-b7596c9479e4.png?1667090442"
+      ],
+      "set_code": "bro",
+      "collector_num": "141"
+    },
+    {
+      "name": "Mishra's Domination",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/7/87c71fb1-a30b-4e0e-a6d6-4656cfff2da1.png?1667374051"
+      ],
+      "set_code": "bro",
+      "collector_num": "142",
+      "clips": [
+        {
+          "start": "6146",
+          "stop": "6238",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Mishra's Onslaught",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/d/eda82e38-c1d4-4019-8f79-f91602d941b0.png?1667329728"
+      ],
+      "set_code": "bro",
+      "collector_num": "143",
+      "clips": [
+        {
+          "start": "7017",
+          "stop": "7126.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Monastery Swiftspear",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/6/d6bfa227-4309-40ed-952c-279595eab17e.png?1666996266"
+      ],
+      "set_code": "bro",
+      "collector_num": "144",
+      "clips": [
+        {
+          "start": "5901",
+          "stop": "5990",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Obliterating Bolt",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/f/7f886411-8216-4fb7-9172-a408c39043ee.png?1667374065"
+      ],
+      "set_code": "bro",
+      "collector_num": "145",
+      "clips": [
+        {
+          "start": "6238",
+          "stop": "6315.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Over the Top",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/1/01eb9702-55c5-41b2-8bef-63d33dafa599.png?1667639655"
+      ],
+      "set_code": "bro",
+      "collector_num": "146"
+    },
+    {
+      "name": "Penregon Strongbull",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/c/1c2deb43-7134-4f9c-b02d-78407a8986b1.png?1667571894"
+      ],
+      "set_code": "bro",
+      "collector_num": "147",
+      "clips": [
+        {
+          "start": "6730",
+          "stop": "6828.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C/C+"
+      }
+    },
+    {
+      "name": "Pyrrhic Blast",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/5/a523d5a7-58b1-45a3-81a7-078da02fda16.png?1667330207"
+      ],
+      "set_code": "bro",
+      "collector_num": "148",
+      "clips": [
+        {
+          "start": "7126.5",
+          "stop": "7249",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-/B"
+      }
+    },
+    {
+      "name": "Raze to the Ground",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/3/838b25d2-7615-4375-a5e6-3d762c9072a5.png?1667330153"
+      ],
+      "set_code": "bro",
+      "collector_num": "149",
+      "clips": [
+        {
+          "start": "6828.5",
+          "stop": "6903",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D/C-"
+      }
+    },
+    {
+      "name": "Roc Hunter",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/c/5c8b2f2b-6f19-47f7-bb65-00665989bc30.png?1667588413"
+      ],
+      "set_code": "bro",
+      "collector_num": "150",
+      "clips": [
+        {
+          "start": "6315.5",
+          "stop": "6354.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Sardian Cliffstomper",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/1/c1c42d56-5b0e-4624-8831-77280f8d56cf.png?1667289458"
+      ],
+      "set_code": "bro",
+      "collector_num": "151",
+      "clips": [
+        {
+          "start": "6355.5",
+          "stop": "6527",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F/BA(B)"
+      }
+    },
+    {
+      "name": "Sibling Rivalry",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/4/c44b24de-60b4-4855-9111-f1237f71bc4d.png?1667330224"
+      ],
+      "set_code": "bro",
+      "collector_num": "152",
+      "clips": [
+        {
+          "start": "7249",
+          "stop": "7322",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "Tomakul Scrapsmith",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/4/d462d30c-9060-46d6-b5b3-cac476ee2ce1.png?1667589094"
+      ],
+      "set_code": "bro",
+      "collector_num": "153",
+      "clips": [
+        {
+          "start": "6904",
+          "stop": "6935",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Tyrant of Kher Ridges",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/2/72a271b1-b757-4373-8e6d-e9698ae96bed.png?1667288925"
+      ],
+      "set_code": "bro",
+      "collector_num": "154"
+    },
+    {
+      "name": "Unleash Shell",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/b/1be13abf-b717-4122-ab2b-7e597a251d52.png?1667538573"
+      ],
+      "set_code": "bro",
+      "collector_num": "155",
+      "clips": [
+        {
+          "start": "7321",
+          "stop": "7380",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Visions of Phyrexia",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/9/e922ef35-b62a-4cf8-9282-319f6de150b0.png?1667330304"
+      ],
+      "set_code": "bro",
+      "collector_num": "156"
+    },
+    {
+      "name": "Whirling Strike",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/1/b17950ae-43aa-4d03-a41e-726ca96eb1ba.png?1667538708"
+      ],
+      "set_code": "bro",
+      "collector_num": "157",
+      "clips": [
+        {
+          "start": "6527",
+          "stop": "6559",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Blitz Automaton",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/4/e4e5529a-848b-486c-97fb-1def35df7837.png?1667572136"
+      ],
+      "set_code": "bro",
+      "collector_num": "158",
+      "clips": [
+        {
+          "start": "7730",
+          "stop": "7783.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Fallaji Dragon Engine",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/7/f7761ed0-a784-4dfb-ab6c-0f4b9a411cf3.png?1667290055"
+      ],
+      "set_code": "bro",
+      "collector_num": "159",
+      "clips": [
+        {
+          "start": "7848",
+          "stop": "7937",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Heavyweight Demolisher",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/7/f72de800-b28e-42c4-a3ca-5ec3a765d807.png?1667288515"
+      ],
+      "set_code": "bro",
+      "collector_num": "160",
+      "clips": [
+        {
+          "start": "7783.5",
+          "stop": "7848",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "Mishra's Juggernaut",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/3/b30457c3-57df-4720-8b45-962f16316d17.png?1667142122"
+      ],
+      "set_code": "bro",
+      "collector_num": "161",
+      "clips": [
+        {
+          "start": "7679.5",
+          "stop": "7730",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Mishra's Research Desk",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/b/bb142d99-b210-47c8-897c-be62f90d2192.png?1667400327"
+      ],
+      "set_code": "bro",
+      "collector_num": "162",
+      "clips": [
+        {
+          "start": "7460",
+          "stop": "7634",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Scrapwork Mutt",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/7/4742800a-4872-4c2d-b884-01e0ba16950c.png?1667563292"
+      ],
+      "set_code": "bro",
+      "collector_num": "164",
+      "clips": [
+        {
+          "start": "7634",
+          "stop": "7679.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Skitterbeam Battalion",
+      "color": "R",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/8/38fc1715-4ddb-4404-83c6-0b8a61922578.png?1667089183"
+      ],
+      "set_code": "bro",
+      "collector_num": "165"
+    },
+    {
+      "name": "Alloy Animist",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/1/71a49b18-a339-401c-ab77-fcd04772cf69.png?1667372087"
+      ],
+      "set_code": "bro",
+      "collector_num": "166",
+      "clips": [
+        {
+          "start": "7938",
+          "stop": "8002",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(C)"
+      }
+    },
+    {
+      "name": "Argothian Opportunist",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/2/b22586ce-efcc-4b20-83f9-c23b8eeaa88c.png?1667090033"
+      ],
+      "set_code": "bro",
+      "collector_num": "167",
+      "clips": [
+        {
+          "start": "8502",
+          "stop": "8557.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
+    },
+    {
+      "name": "Argothian Sprite",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/5/b5dbc383-7e08-4701-8d4a-6b99b74fe358.png?1667430070"
+      ],
+      "set_code": "bro",
+      "collector_num": "168",
+      "clips": [
+        {
+          "start": "8198",
+          "stop": "8231",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Audacity",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/0/40b0813a-38cf-4a07-81d6-91d24af8b549.png?1667290119"
+      ],
+      "set_code": "bro",
+      "collector_num": "169",
+      "clips": [
+        {
+          "start": "8002",
+          "stop": "8045.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Awaken the Woods",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/c/1c95f8b8-faba-4412-8d8f-093e2ec903f0.png?1667430717"
+      ],
+      "set_code": "bro",
+      "collector_num": "170"
+    },
+    {
+      "name": "Blanchwood Armor",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/4/e41c0a68-53be-4905-8ed3-79b4782dfd6e.png?1667289649"
+      ],
+      "set_code": "bro",
+      "collector_num": "171",
+      "clips": [
+        {
+          "start": "8557.5",
+          "stop": "8663.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D/C"
+      }
+    },
+    {
+      "name": "Blanchwood Prowler",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/c/9c6988b6-ade0-4cd5-b27c-146e5e7ae91f.png?1667538505"
+      ],
+      "set_code": "bro",
+      "collector_num": "172",
+      "clips": [
+        {
+          "start": "8231",
+          "stop": "8278",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+/B-"
+      }
+    },
+    {
+      "name": "Burrowing Razormaw",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/7/a7c8c73c-ee2e-4aa9-aa6c-42cf9d58d9cc.png?1667572231"
+      ],
+      "set_code": "bro",
+      "collector_num": "173",
+      "clips": [
+        {
+          "start": "8663.5",
+          "stop": "8688.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Bushwhack",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/1/712a0640-d9c8-46fc-b38b-bf20a40fa902.png?1667540437"
+      ],
+      "set_code": "bro",
+      "collector_num": "174",
+      "clips": [
+        {
+          "start": "8045.5",
+          "stop": "8095",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Citanul Stalwart",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/8/a842a945-21d9-432c-b970-6da65b16f309.png?1667572306"
+      ],
+      "set_code": "bro",
+      "collector_num": "175",
+      "clips": [
+        {
+          "start": "8095",
+          "stop": "8166.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Epic Confrontation",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/5/35ba6c05-a4c2-422b-a4cb-852b3aef77a5.png?1667330455"
+      ],
+      "set_code": "bro",
+      "collector_num": "176",
+      "clips": [
+        {
+          "start": "8278",
+          "stop": "8309.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Fade from History",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/1/71f13f67-e852-4a6a-8f32-b16195e53ec3.png?1667131294"
+      ],
+      "set_code": "bro",
+      "collector_num": "177"
+    },
+    {
+      "name": "Fallaji Excavation",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/c/ac75c41f-82dc-4b06-a233-9b74ea177a3d.png?1667330583"
+      ],
+      "set_code": "bro",
+      "collector_num": "178",
+      "clips": [
+        {
+          "start": "9035",
+          "stop": "9069",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "Fauna Shaman",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/8/b8b906eb-3223-474c-9b74-eda2c280f9c5.png?1668021662"
+      ],
+      "set_code": "bro",
+      "collector_num": "179"
+    },
+    {
+      "name": "Fog of War",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/7/37096c19-32c9-448a-94e9-f5fe2d74e3a3.png?1667330608"
+      ],
+      "set_code": "bro",
+      "collector_num": "180",
+      "clips": [
+        {
+          "start": "8688.5",
+          "stop": "8731",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Gaea's Courser",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/a/1a0b94e5-d270-4820-83b9-1d346d378ff8.png?1667089927"
+      ],
+      "set_code": "bro",
+      "collector_num": "181",
+      "clips": [
+        {
+          "start": "9069",
+          "stop": "9117",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
+    },
+    {
+      "name": "Gaea's Gift",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/5/5503186a-46fe-4956-8ae3-5ab3343f8a93.png?1667330677"
+      ],
+      "set_code": "bro",
+      "collector_num": "182",
+      "clips": [
+        {
+          "start": "8309.5",
+          "stop": "8384.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Giant Growth",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/e/aeece336-e5e8-4455-a297-c3739198d011.png?1667302153"
+      ],
+      "set_code": "bro",
+      "collector_num": "183",
+      "clips": [
+        {
+          "start": "8166.5",
+          "stop": "8198",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Gnarlroot Pallbearer",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/7/b7382154-ac8f-40ca-94e4-2f0533c0cf20.png?1667572374"
+      ],
+      "set_code": "bro",
+      "collector_num": "184",
+      "clips": [
+        {
+          "start": "9117",
+          "stop": "9186",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Gwenna, Eyes of Gaea",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/e/7ee387b7-18e4-41b7-aefe-f2b5954e3051.png?1667462363"
+      ],
+      "set_code": "bro",
+      "collector_num": "185"
+    },
+    {
+      "name": "Hoarding Recluse",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/5/6559afec-6bb8-4501-8805-4eb108443048.png?1667572429"
+      ],
+      "set_code": "bro",
+      "collector_num": "186",
+      "clips": [
+        {
+          "start": "8831",
+          "stop": "8874.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Obstinate Baloth",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/1/e1b7809f-f3a3-439e-8bae-c083842de1bf.png?1667330702"
+      ],
+      "set_code": "bro",
+      "collector_num": "187",
+      "clips": [
+        {
+          "start": "8874.5",
+          "stop": "8938",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Perimeter Patrol",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/4/d4719bc1-4c27-45d8-89f7-8c76ccf946d2.png?1667538450"
+      ],
+      "set_code": "bro",
+      "collector_num": "188",
+      "clips": [
+        {
+          "start": "8731",
+          "stop": "8768",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Sarinth Steelseeker",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/9/d96761b2-eb9c-4963-a496-ba53a01f4b17.png?1667637754"
+      ],
+      "set_code": "bro",
+      "collector_num": "189",
+      "clips": [
+        {
+          "start": "8384.5",
+          "stop": "8479.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Shoot Down",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/0/20014a1c-197c-4e04-94b2-874886183e2f.png?1667538377"
+      ],
+      "set_code": "bro",
+      "collector_num": "190",
+      "clips": [
+        {
+          "start": "8937",
+          "stop": "8992",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-/C"
+      }
+    },
+    {
+      "name": "Tawnos's Tinkering",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/c/acbd975d-52f8-4fba-bf97-b8837413edd8.png?1667330751"
+      ],
+      "set_code": "bro",
+      "collector_num": "191",
+      "clips": [
+        {
+          "start": "8992",
+          "stop": "9035",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Teething Wurmlet",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/3/2350027a-f3a4-4cba-9dfc-27e33bddb3be.png?1667572448"
+      ],
+      "set_code": "bro",
+      "collector_num": "192"
+    },
+    {
+      "name": "Titania, Voice of Gaea",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/e/deeb6a21-23b0-44f1-b70e-5899bb9d4a84.png?1667428875"
+      ],
+      "set_code": "bro",
+      "collector_num": "193"
+    },
+    {
+      "name": "Titania's Command",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/5/753567c7-c484-4c0d-8128-7710e23c428f.png?1667637740"
+      ],
+      "set_code": "bro",
+      "collector_num": "194"
+    },
+    {
+      "name": "Tomakul Honor Guard",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/7/c7745439-f40b-4647-8bff-53751d511bbd.png?1667572518"
+      ],
+      "set_code": "bro",
+      "collector_num": "195",
+      "clips": [
+        {
+          "start": "8479.5",
+          "stop": "8502",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Wasteful Harvest",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/0/00a0c819-36d1-442b-bec5-e6df58a122c0.png?1667430797"
+      ],
+      "set_code": "bro",
+      "collector_num": "196",
+      "clips": [
+        {
+          "start": "8768",
+          "stop": "8831",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Boulderbranch Golem",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/e/6e6e5338-9b95-4ac7-a57c-5efaa6423531.png?1667637422"
+      ],
+      "set_code": "bro",
+      "collector_num": "197",
+      "clips": [
+        {
+          "start": "9395.5",
+          "stop": "9451",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Cradle Clearcutter",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/0/50cc9b90-792e-4cf7-ab8c-cb616d94092a.png?1667589126"
+      ],
+      "set_code": "bro",
+      "collector_num": "198",
+      "clips": [
+        {
+          "start": "9320",
+          "stop": "9396",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B/C"
+      }
+    },
+    {
+      "name": "Haywire Mite",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/4/847a175e-ead1-4596-baf3-5f7f57859e0b.png?1667437014"
+      ],
+      "set_code": "bro",
+      "collector_num": "199",
+      "clips": [
+        {
+          "start": "9186.5",
+          "stop": "9244",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "SB(B)"
+      }
+    },
+    {
+      "name": "Iron-Craw Crusher",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/4/64e2ec10-f45f-46ef-a076-52425bf3fe3b.png?1667430813"
+      ],
+      "set_code": "bro",
+      "collector_num": "200",
+      "clips": [
+        {
+          "start": "9451",
+          "stop": "9513",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Mask of the Jadecrafter",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/d/5db83275-bfd2-42c2-8d0f-e8a9b4f60e78.png?1668062810"
+      ],
+      "set_code": "bro",
+      "collector_num": "201",
+      "clips": [
+        {
+          "start": "9244",
+          "stop": "9320",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(B)"
+      }
+    },
+    {
+      "name": "Perennial Behemoth",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/c/6cb74e91-f7e5-49dd-8aa8-83a679f88a21.png?1667430872"
+      ],
+      "set_code": "bro",
+      "collector_num": "202"
+    },
+    {
+      "name": "Rootwire Amalgam",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/4/2498b591-4a80-459f-a639-fe4cf8880be2.png?1667430231"
+      ],
+      "set_code": "bro",
+      "collector_num": "203"
+    },
+    {
+      "name": "Rust Goliath",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/3/8348f73d-4226-4296-9d51-a2c497ee8270.png?1667139732"
+      ],
+      "set_code": "bro",
+      "collector_num": "204",
+      "clips": [
+        {
+          "start": "9513",
+          "stop": "9565",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C+"
+      }
+    },
+    {
+      "name": "Simian Simulacrum",
+      "color": "G",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/8/c85e2a35-cb55-434c-bbd7-54c3438345c1.png?1667572706"
+      ],
+      "set_code": "bro",
+      "collector_num": "205"
+    },
+    {
+      "name": "Arbalest Engineers",
+      "color": "GR",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/f/df343bf9-f535-42c7-a2d0-8adfd068b354.png?1667373955"
+      ],
+      "set_code": "bro",
+      "collector_num": "206",
+      "clips": [
+        {
+          "start": "722",
+          "stop": "782",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Battery Bearer",
+      "color": "GU",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/b/bb5306d6-0f08-429a-8590-1b8136f953a9.png?1667637774"
+      ],
+      "set_code": "bro",
+      "collector_num": "207",
+      "clips": [
+        {
+          "start": "1120",
+          "stop": "1239.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
+    },
+    {
+      "name": "Deathbloom Ritualist",
+      "color": "BG",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/5/45ff816d-1eb7-4985-90ec-f44802a696fc.png?1667330831"
+      ],
+      "set_code": "bro",
+      "collector_num": "208"
+    },
+    {
+      "name": "Evangel of Synthesis",
+      "color": "BU",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/8/e8b60003-a987-49b0-a0f8-bb825c97da4d.png?1667414306"
+      ],
+      "set_code": "bro",
+      "collector_num": "209",
+      "clips": [
+        {
+          "start": "446",
+          "stop": "531.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B-"
+      }
+    },
+    {
+      "name": "Fallaji Vanguard",
+      "color": "RW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/f/ffe9ee1c-5eb3-4d63-a641-0ec5adf7b058.png?1667330884"
+      ],
+      "set_code": "bro",
+      "collector_num": "210",
+      "clips": [
+        {
+          "start": "1054",
+          "stop": "1121",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Hajar, Loyal Bodyguard",
+      "color": "GR",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/a/5a0a2f82-57d3-45d8-b1c8-357883c62728.png?1668021651"
+      ],
+      "set_code": "bro",
+      "collector_num": "211"
+    },
+    {
+      "name": "Harbin, Vanguard Aviator",
+      "color": "UW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/b/4b88be69-3201-4345-a193-cc21bd066d15.png?1668021672"
+      ],
+      "set_code": "bro",
+      "collector_num": "212"
+    },
+    {
+      "name": "Hero of the Dunes",
+      "color": "BW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/c/9c6c72d5-f08e-4e46-a5cb-26d1fc0a71c8.png?1667376055"
+      ],
+      "set_code": "bro",
+      "collector_num": "213",
+      "clips": [
+        {
+          "start": "847",
+          "stop": "904",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Junkyard Genius",
+      "color": "BR",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/1/a15b0676-b698-4160-8d2f-a22a1011bac0.png?1667932787"
+      ],
+      "set_code": "bro",
+      "collector_num": "214",
+      "clips": [
+        {
+          "start": "530",
+          "stop": "723",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Legions to Ashes",
+      "color": "BW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/4/94faea39-4540-4adc-b9bd-78fefd09ecdf.png?1667637731"
+      ],
+      "set_code": "bro",
+      "collector_num": "215"
+    },
+    {
+      "name": "Mishra, Claimed by Gix",
+      "color": "BR",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/4/a469d7ec-42de-45de-9d8f-469bb979de58.png?1666217429"
+      ],
+      "set_code": "bro",
+      "collector_num": "216"
+    },
+    {
+      "name": "Mishra, Tamer of Mak Fawa",
+      "color": "BR",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/8/585a753d-a692-474a-bc28-48dd93b73ace.png?1667373810"
+      ],
+      "set_code": "bro",
+      "collector_num": "217"
+    },
+    {
+      "name": "Queen Kayla bin-Kroog",
+      "color": "RW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/8/685c9767-eaa7-4e16-b245-816181e2fc36.png?1665157514"
+      ],
+      "set_code": "bro",
+      "collector_num": "218"
+    },
+    {
+      "name": "Saheeli, Filigree Master",
+      "color": "RU",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/3/a3657562-323c-40d0-a261-d029ed549695.png?1667430884"
+      ],
+      "set_code": "bro",
+      "collector_num": "219"
+    },
+    {
+      "name": "Sarinth Greatwurm",
+      "color": "GR",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/a/eaee6fcb-23de-4347-84b6-1e9849a537fc.png?1667559265"
+      ],
+      "set_code": "bro",
+      "collector_num": "220"
+    },
+    {
+      "name": "Skyfisher Spider",
+      "color": "BG",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/7/87300ac8-8b6f-4c37-8058-beb59eaa66be.png?1667421021"
+      ],
+      "set_code": "bro",
+      "collector_num": "221",
+      "clips": [
+        {
+          "start": "971",
+          "stop": "1055.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Tawnos, the Toymaker",
+      "color": "GU",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/f/1f855a7e-3a97-4b62-a2a7-06ff1fbb2c4c.png?1667247000"
+      ],
+      "set_code": "bro",
+      "collector_num": "222"
+    },
+    {
+      "name": "Third Path Iconoclast",
+      "color": "RU",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/1/f1a21287-e244-4960-84fb-c4f6e5c346d9.png?1667331034"
+      ],
+      "set_code": "bro",
+      "collector_num": "223",
+      "clips": [
+        {
+          "start": "901.5",
+          "stop": "973",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B+"
+      }
+    },
+    {
+      "name": "Tocasia, Dig Site Mentor",
+      "color": "GUW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/1/919a32a6-b66d-4a75-a02f-fa1c4c87b738.png?1667331121"
+      ],
+      "set_code": "bro",
+      "collector_num": "224"
+    },
+    {
+      "name": "Urza, Lord Protector",
+      "color": "UW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/a/8aefe8bd-216a-4ec1-9362-3f9dbf7fd083.png?1664561527"
+      ],
+      "set_code": "bro",
+      "collector_num": "225"
+    },
+    {
+      "name": "Urza, Prince of Kroog",
+      "color": "UW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/a/5a7329cd-95af-4d71-984f-f5f28982520c.png?1666929623"
+      ],
+      "set_code": "bro",
+      "collector_num": "226"
+    },
+    {
+      "name": "Yotian Dissident",
+      "color": "GW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/e/1eb02f00-c188-4193-a049-d26f7643e5da.png?1667932776"
+      ],
+      "set_code": "bro",
+      "collector_num": "227",
+      "clips": [
+        {
+          "start": "781",
+          "stop": "848",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Yotian Tactician",
+      "color": "UW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/6/760c0369-c2e4-4bd7-a301-9f707f5f48a8.png?1667637613"
+      ],
+      "set_code": "bro",
+      "collector_num": "228",
+      "clips": [
+        {
+          "start": "365",
+          "stop": "446",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "B"
+      }
+    },
+    {
+      "name": "Bladecoil Serpent",
+      "color": "BRU",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/8/08c5a528-d16d-4cb9-b532-b85648c8395a.png?1667425935"
+      ],
+      "set_code": "bro",
+      "collector_num": "229"
+    },
+    {
+      "name": "Clay Champion",
+      "color": "GW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/2/625f3b20-4b9a-4f61-8afe-31a761711b43.png?1667430898"
+      ],
+      "set_code": "bro",
+      "collector_num": "230"
+    },
+    {
+      "name": "Aeronaut's Wings",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/c/fcc65821-e4e7-471c-941c-9d3e25ae8bb9.png?1667572850"
+      ],
+      "set_code": "bro",
+      "collector_num": "231",
+      "clips": [
+        {
+          "start": "11070",
+          "stop": "11116.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Argivian Avenger",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/8/28e3bf5a-0a90-46d3-bcfe-9a47df41b72b.png?1667376148"
+      ],
+      "set_code": "bro",
+      "collector_num": "232",
+      "clips": [
+        {
+          "start": "11845.5",
+          "stop": "11884.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Cityscape Leveler",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.png?1667430841"
+      ],
+      "set_code": "bro",
+      "collector_num": "233"
+    },
+    {
+      "name": "Energy Refractor",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/c/cc2a81fb-5045-4b7b-8cfb-b90c4f4a1f51.png?1667572901"
+      ],
+      "set_code": "bro",
+      "collector_num": "234",
+      "clips": [
+        {
+          "start": "11167.5",
+          "stop": "11239",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Goblin Firebomb",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/0/b/0ba00d0f-0ea5-417c-a792-06b3b9d1c8f1.png?1667331794"
+      ],
+      "set_code": "bro",
+      "collector_num": "235",
+      "clips": [
+        {
+          "start": "10996",
+          "stop": "11046",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Levitating Statue",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/c/9c0a17e2-e019-4686-9795-651da2d2955c.png?1667430793"
+      ],
+      "set_code": "bro",
+      "collector_num": "236",
+      "clips": [
+        {
+          "start": "11239",
+          "stop": "11291",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Liberator, Urza's Battlethopter",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/3/c31e6768-bcab-43c4-bfc1-76e961689ae9.png?1667331842"
+      ],
+      "set_code": "bro",
+      "collector_num": "237"
+    },
+    {
+      "name": "Mine Worker",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/a/5aa63321-aa28-449d-a31f-869a98c5a6be.png?1667464339"
+      ],
+      "set_code": "bro",
+      "collector_num": "239",
+      "clips": [
+        {
+          "start": "11291",
+          "stop": "11353",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D+"
+      }
+    },
+    {
+      "name": "Portal to Phyrexia",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/5/f/5f608efc-0dbc-4cc3-aadd-ed473bfc29ab.png?1667331911"
+      ],
+      "set_code": "bro",
+      "collector_num": "240"
+    },
+    {
+      "name": "Power Plant Worker",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/9/99965310-e4bd-40d9-80f5-3fd1754c61c5.png?1667920837"
+      ],
+      "set_code": "bro",
+      "collector_num": "241",
+      "clips": [
+        {
+          "start": "11715",
+          "stop": "11734",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Reconstructed Thopter",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/c/bcc8a8d8-6d8e-44b3-a29b-5fa4a851a25b.png?1667475792"
+      ],
+      "set_code": "bro",
+      "collector_num": "242",
+      "clips": [
+        {
+          "start": "11403",
+          "stop": "11441",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Slagstone Refinery",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/7/d7dbfa72-2025-455c-8cc4-afbf6c8e141a.png?1667572981"
+      ],
+      "set_code": "bro",
+      "collector_num": "243",
+      "clips": [
+        {
+          "start": "11543.5",
+          "stop": "11629.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(D)"
+      }
+    },
+    {
+      "name": "Spectrum Sentinel",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/9/3/936cbe05-7b36-4569-94f3-671c28c7468a.png?1667573826"
+      ],
+      "set_code": "bro",
+      "collector_num": "244",
+      "clips": [
+        {
+          "start": "11046",
+          "stop": "11070",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "The Stasis Coffin",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/4/5/45537ac3-fc61-4253-a782-7f3e436b2aa6.png?1667331967"
+      ],
+      "set_code": "bro",
+      "collector_num": "245"
+    },
+    {
+      "name": "Steel Exemplar",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/8/386c139a-13fc-49ca-923d-45faca4f9a2f.png?1667466992"
+      ],
+      "set_code": "bro",
+      "collector_num": "246",
+      "clips": [
+        {
+          "start": "11733",
+          "stop": "11801",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "The Stone Brain",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/3/5/3570ebf2-a94c-4621-8808-b06e6e830c06.png?1667200704"
+      ],
+      "set_code": "bro",
+      "collector_num": "247"
+    },
+    {
+      "name": "Stone Retrieval Unit",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/8/e8a36d1f-f6cc-4962-9ad6-589f7b3e5f95.png?1667573116"
+      ],
+      "set_code": "bro",
+      "collector_num": "248",
+      "clips": [
+        {
+          "start": "11629.5",
+          "stop": "11659",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C-"
+      }
+    },
+    {
+      "name": "Su-Chi Cave Guard",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/b/b/bb04dad2-4561-4cef-9cee-80d6f1a44bee.png?1667332027"
+      ],
+      "set_code": "bro",
+      "collector_num": "249",
+      "clips": [
+        {
+          "start": "11884.5",
+          "stop": "12019",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F/BA(C)"
+      }
+    },
+    {
+      "name": "Supply Drop",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/8/2/82a5d3e9-bada-448b-894d-9d4e7e0463c7.png?1667573170"
+      ],
+      "set_code": "bro",
+      "collector_num": "250",
+      "clips": [
+        {
+          "start": "11441",
+          "stop": "11513",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F/D-"
+      }
+    },
+    {
+      "name": "Swiftgear Drake",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/5/d5ae38a2-2f95-4750-9b59-53eb1771e5ab.png?1667573238"
+      ],
+      "set_code": "bro",
+      "collector_num": "251",
+      "clips": [
+        {
+          "start": "11801",
+          "stop": "11845.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Symmetry Matrix",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/7/8/786bce65-1c04-45fc-b81b-e7590afbd117.png?1667462396"
+      ],
+      "set_code": "bro",
+      "collector_num": "252",
+      "clips": [
+        {
+          "start": "11659",
+          "stop": "11715",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "BA(C)"
+      }
+    },
+    {
+      "name": "Thran Power Suit",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/7/17bfb8c5-9105-41e4-a58f-9c9eee32b18a.png?1667332102"
+      ],
+      "set_code": "bro",
+      "collector_num": "253",
+      "clips": [
+        {
+          "start": "11353",
+          "stop": "11403",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Thran Spider",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/7/e72e0ddb-3dd4-4db3-aa05-dec8691432a0.png?1667332037"
+      ],
+      "set_code": "bro",
+      "collector_num": "254"
+    },
+    {
+      "name": "Tower Worker",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/f/3/f31bd134-22c8-4031-8f85-ac0855914d11.png?1667573344"
+      ],
+      "set_code": "bro",
+      "collector_num": "255",
+      "clips": [
+        {
+          "start": "11513",
+          "stop": "11543.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D"
+      }
+    },
+    {
+      "name": "Battlefield Forge",
+      "color": "RW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/6/4/642584bb-7586-4796-9b94-f01ec5bd9e9f.png?1666928981"
+      ],
+      "set_code": "bro",
+      "collector_num": "257"
+    },
+    {
+      "name": "Blast Zone",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/c/5/c5e911be-8166-4263-8c57-e86358b8ceb8.png?1666996303"
+      ],
+      "set_code": "bro",
+      "collector_num": "258"
+    },
+    {
+      "name": "Brushland",
+      "color": "GW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/8/18d236ce-3b78-403a-b5f9-4fb44123d85b.png?1666929209"
+      ],
+      "set_code": "bro",
+      "collector_num": "259"
+    },
+    {
+      "name": "Demolition Field",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/9/d9c88546-13c9-4d7e-a618-cb2ccd1dbc0f.png?1667373966"
+      ],
+      "set_code": "bro",
+      "collector_num": "260",
+      "clips": [
+        {
+          "start": "12023",
+          "stop": "12102",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "F"
+      }
+    },
+    {
+      "name": "Evolving Wilds",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/3/238de888-b1bd-4cce-9aa2-d0dd69ae7f0d.png?1667573403"
+      ],
+      "set_code": "bro",
+      "collector_num": "261",
+      "clips": [
+        {
+          "start": "12100",
+          "stop": "12119.5",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "C"
+      }
+    },
+    {
+      "name": "Fortified Beachhead",
+      "color": "UW",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/2/e248204c-865d-42d9-b745-8ff73225b4a1.png?1667289854"
+      ],
+      "set_code": "bro",
+      "collector_num": "262"
+    },
+    {
+      "name": "Hall of Tagsin",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/a/8/a8007012-39c5-4247-ba77-1cfcaade37fa.png?1667142777"
+      ],
+      "set_code": "bro",
+      "collector_num": "263"
+    },
+    {
+      "name": "Llanowar Wastes",
+      "color": "BG",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/1/0/10716909-1254-4b2b-997e-23a18994a98d.png?1666929072"
+      ],
+      "set_code": "bro",
+      "collector_num": "264"
+    },
+    {
+      "name": "Mishra's Foundry",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/d/a/da7699b2-e1af-4bc0-8c5b-84ba3e868d7c.png?1664492760"
+      ],
+      "set_code": "bro",
+      "collector_num": "265"
+    },
+    {
+      "name": "Tocasia's Dig Site",
+      "color": "",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/2/3/23d4b90c-95b1-4828-bc08-7067da0d5364.png?1667332272"
+      ],
+      "set_code": "bro",
+      "collector_num": "266",
+      "clips": [
+        {
+          "start": "12119.5",
+          "stop": "12170",
+          "videoId": "_nVM87Lyn5k"
+        }
+      ],
+      "grade": {
+        "LR": "D-"
+      }
+    },
+    {
+      "name": "Underground River",
+      "color": "BU",
+      "image_url": [
+        "https://cards.scryfall.io/png/front/e/b/eb52820c-8660-4c4a-bb64-5b2fc580b6a3.png?1666929133"
+      ],
+      "set_code": "bro",
+      "collector_num": "267"
+    }
+  ]
+}
